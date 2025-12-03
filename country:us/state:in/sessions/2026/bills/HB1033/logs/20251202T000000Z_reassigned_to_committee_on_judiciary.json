@@ -1,0 +1,16 @@
+{
+  "action": {
+    "description": "Reassigned to Committee on Judiciary",
+    "date": "2025-12-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 1033"
+}

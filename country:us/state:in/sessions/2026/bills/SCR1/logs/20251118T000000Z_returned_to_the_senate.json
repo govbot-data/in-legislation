@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Returned to the Senate",
+    "date": "2025-11-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 1"
+}

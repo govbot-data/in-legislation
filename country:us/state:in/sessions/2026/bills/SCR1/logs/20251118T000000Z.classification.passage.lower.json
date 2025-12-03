@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "First reading: adopted voice vote",
+    "date": "2025-11-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage",
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 1"
+}

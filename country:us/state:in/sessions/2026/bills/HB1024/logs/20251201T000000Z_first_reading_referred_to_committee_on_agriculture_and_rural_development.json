@@ -1,0 +1,19 @@
+{
+  "action": {
+    "description": "First reading: referred to Committee on Agriculture and Rural Development",
+    "date": "2025-12-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Agriculture and Rural Development",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ]
+  },
+  "bill_id": "HB 1024"
+}

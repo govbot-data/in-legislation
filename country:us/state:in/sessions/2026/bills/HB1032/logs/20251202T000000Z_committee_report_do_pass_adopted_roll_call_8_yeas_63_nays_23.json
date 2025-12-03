@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Committee report: do pass, adopted Roll Call 8: yeas 63, nays 23",
+    "date": "2025-12-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1032"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Appeal the ruling of the chair (C Jackson); ruling of the chair sustained Roll Call 7: yeas 64, nays 24",
+    "date": "2025-12-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1032"
+}
