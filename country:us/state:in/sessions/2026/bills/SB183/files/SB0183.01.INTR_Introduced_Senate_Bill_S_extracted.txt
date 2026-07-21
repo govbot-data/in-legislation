@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 183
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 6-3-2-29.5.
+Synopsis: Income tax deduction for health insurance premiums.
+Provides that a taxpayer who is covered by a health insurance plan may
+deduct from the taxpayer's adjusted gross income an amount equal to
+the total amount of premiums on the health insurance plan the taxpayer
+paid for coverage during the taxable year.
+Effective: July 1, 2026.
+Young M
+January 5, 2026, read first time and referred to Committee on Appropriations.
+2026 IN 183—LS 6613/DI 129
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 183
+A BILL FOR AN ACT to amend the Indiana Code concerning
+taxation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 6-3-2-29.5 IS ADDED TO THE INDIANA CODE
+2 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]: Sec. 29.5. (a) This section applies to taxable years
+4 beginning after December 31, 2026.
+5 (b) As used in this section, "health insurance plan" means a
+6 policy, contract, certificate, or agreement offered or issued:
+7 (1) by an entity that assumes or carries insurance risk; and
+8 (2) to provide, deliver, arrange for, pay for, or reimburse the
+9 costs of health care services, including dental and vision
+10 services.
+11 (c) As used in this section, "taxpayer" means:
+12 (1) an individual filing a single return;
+13 (2) a married couple filing a joint return; or
+14 (3) a married individual filing a separate return.
+15 (d) Each taxable year, a taxpayer who is covered by a health
+16 insurance plan may deduct from the taxpayer's adjusted gross
+17 income an amount equal to the total amount of premiums on the
+2026 IN 183—LS 6613/DI 129
+
+2
+1 health insurance plan the taxpayer paid for coverage during the
+2 taxable year.
+3 (e) In the case of a married individual filing a separate return,
+4 the amount of the deduction for each spouse is equal to fifty
+5 percent (50%) of the total amount of premiums allowed to be
+6 deducted under subsection (d).
+2026 IN 183—LS 6613/DI 129

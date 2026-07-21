@@ -1,0 +1,225 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1403
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 5-20-11; IC 6-3-3-14.
+Synopsis: First time home buyer savings program. Establishes the first
+time home buyer savings program (program) for the purpose of
+assisting first time home buyers who seek to open a first time home
+buyer savings account (account) at a financial institution to save money
+for the purchase of a single family residence. Requires the Indiana
+housing and community development authority to administer the
+program, to prepare and supervise the issuance of public information
+concerning the program, and to prescribe various forms for use by
+financial institutions that choose to offer accounts. Specifies that: (1)
+money in an account (including all earnings or interest on an account)
+is exempt from taxation in Indiana; and (2) withdrawals from an
+account used for a down payment and allowable closing costs for the
+purchase of a single family residence; are exempt from state adjusted
+gross income taxation. Creates a state adjusted gross income tax credit
+for contributions to an account (credit) in an amount equal to the lesser
+of: (1) 20% multiplied by the amount of the total contributions made
+to the account during a taxable year; or (2) $5,000. Requires repayment
+of all or a part of the credit in a taxable year in which the taxpayer
+withdraws funds from an account for purposes other than payment of
+a down payment and allowable closing costs.
+Effective: July 1, 2026; January 1, 2027.
+Dant Chesser, Hamilton, Lawson
+January 8, 2026, read first time and referred to Committee on Ways and Means.
+2026 IN 1403—LS 7057/DI 129
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1403
+A BILL FOR AN ACT to amend the Indiana Code concerning
+taxation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-20-11 IS ADDED TO THE INDIANA CODE AS
+2 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+3 1, 2026]:
+4 Chapter 11. First Time Home Buyer Savings Program
+5 Sec. 1. As used in this chapter, "account holder" means a first
+6 time home buyer who establishes a first time home buyer savings
+7 account.
+8 Sec. 2. As used in this chapter, "authority" refers to the Indiana
+9 housing and community development authority created by
+10 IC 5-20-1-3.
+11 Sec. 3. As used in this chapter, "eligible costs" means:
+12 (1) the down payment; and
+13 (2) any allowable closing costs listed as disbursements on a
+14 settlement statement;
+15 for the purchase of a single family residence by an account holder.
+16 Sec. 4. As used in this chapter, "financial institution" means a
+17 bank, savings association, credit union, or any other institution
+2026 IN 1403—LS 7057/DI 129
+
+2
+1 regulated under IC 28 or federal law that has a physical location
+2 in Indiana.
+3 Sec. 5. As used in this chapter, "first time home buyer" means
+4 an individual who is an Indiana resident and has not owned or
+5 purchased, either individually or jointly, a single family residence
+6 during a period of three (3) years before the date of the purchase
+7 of a single family residence.
+8 Sec. 6. As used in this chapter, "first time home buyer savings
+9 account" means an account established as a first time home buyer
+10 savings account by written agreement between an account holder
+11 and a financial institution and that the account holder designates
+12 for the purpose of paying or reimbursing eligible costs for the
+13 purchase of a single family residence in Indiana by the account
+14 holder.
+15 Sec. 7. As used in this chapter, "program" refers to the first
+16 time home buyer savings program established by section 10 of this
+17 chapter.
+18 Sec. 8. As used in this chapter, "settlement statement" means
+19 the statement of receipts and disbursements for a transaction
+20 related to real estate, including a statement prescribed under the
+21 federal Real Estate Settlement Procedures Act (12 U.S.C. 2601 et
+22 seq.) and related regulations.
+23 Sec. 9. As used in this chapter, "single family residence" means
+24 any residence intended for occupation by a single family unit that
+25 is owned and occupied by an account holder as the account
+26 holder's principal residence.
+27 Sec. 10. The first time home buyer savings program is
+28 established for the purpose of assisting first time home buyers who
+29 seek to open an account at a financial institution to save money for
+30 the purchase of a single family residence. The authority shall
+31 administer the program and prepare and supervise the issuance of
+32 public information concerning the program, including information
+33 pertaining to the availability of the tax credit provided by
+34 IC 6-3-3-14.
+35 Sec. 11. A financial institution may participate in the program
+36 and offer first time home buyer savings accounts. However,
+37 nothing in this chapter requires a financial institution to offer first
+38 time home buyer savings accounts to customers of the financial
+39 institution.
+40 Sec. 12. Not later than January 1, 2027, the authority shall
+41 prescribe an informational form that a financial institution may
+42 use to provide to customers that summarizes the eligibility
+2026 IN 1403—LS 7057/DI 129
+
+3
+1 requirements of the program, the eligible costs that may be paid
+2 from a first time home buyer savings account, and the availability
+3 of the tax credit for contributions provided by IC 6-3-3-14.
+4 Sec. 13. The authority shall also prescribe a form for use by a
+5 financial institution at which an account holder has created a first
+6 time home buyer savings account that contains the following
+7 information:
+8 (1) The date when the account was created.
+9 (2) The name of the account holder.
+10 (3) The amount of funds contributed to the account during the
+11 taxable year.
+12 (4) The amount of funds withdrawn from the account during
+13 the taxable year.
+14 (5) Any other information the authority considers necessary.
+15 A financial institution that offers first time home buyer savings
+16 accounts must annually provide the information contained on the
+17 form to an account holder before January 31 of each year.
+18 Sec. 14. An individual may jointly own a first time home buyer
+19 savings account with another person if the joint account holders
+20 are both first time home buyers and file a joint income tax return.
+21 However, an individual may not be the account holder of more
+22 than one (1) first time home buyer savings account.
+23 Sec. 15. An account holder may not use funds held in a first time
+24 home buyer savings account to pay expenses of administering the
+25 account, except that the financial institution that administers the
+26 account may deduct a service fee from the account.
+27 Sec. 16. An account holder may withdraw all or part of the
+28 funds from a first time home buyer savings account and deposit the
+29 funds in a new first time home buyer savings account held by a
+30 different financial institution or the same financial institution.
+31 Sec. 17. A financial institution is not required to track the use of
+32 funds withdrawn from a first time home buyer savings account,
+33 and is not responsible or liable for:
+34 (1) determining or ensuring that an account satisfies the
+35 requirements to be a first time home buyer savings account;
+36 (2) determining or ensuring that funds in a first time home
+37 buyer savings account are used for eligible costs; or
+38 (3) reporting or remitting taxes related to the use of a first
+39 time home buyer savings account.
+40 Sec. 18. A first time home buyer savings account and all
+41 earnings or interest on an account are exempt from taxation in
+42 Indiana. In addition, withdrawals from an account used to pay
+2026 IN 1403—LS 7057/DI 129
+
+4
+1 eligible costs are exempt from the adjusted gross income tax
+2 imposed by IC 6-3-1 through IC 6-3-7.
+3 Sec. 19. The authority may adopt policies, procedures, or other
+4 guidelines that it considers necessary for the implementation of the
+5 program.
+6 SECTION 2. IC 6-3-3-14 IS ADDED TO THE INDIANA CODE
+7 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+8 JANUARY 1, 2027]: Sec. 14. (a) The following definitions apply
+9 throughout this section:
+10 (1) "Account holder" has the meaning set forth in
+11 IC 5-20-11-1.
+12 (2) "Contribution" means the amount of money directly
+13 provided to a first time home buyer savings account by a
+14 taxpayer.
+15 (3) "Eligible costs" has the meaning set forth in IC 5-20-11-3.
+16 (4) "First time home buyer savings account" has the meaning
+17 set forth in IC 5-20-11-6.
+18 (5) "Taxpayer" means:
+19 (A) an individual filing a single return;
+20 (B) a married couple filing a joint return; or
+21 (C) a married individual filing a separate return.
+22 (b) A taxpayer is entitled to a credit against the taxpayer's
+23 adjusted gross income tax imposed by IC 6-3-1 through IC 6-3-7
+24 for a taxable year equal to the lesser of:
+25 (1) twenty percent (20%) multiplied by the amount of the
+26 total contributions that are made by the taxpayer to the
+27 taxpayer's first time home buyer savings account during the
+28 taxable year; or
+29 (2) five thousand dollars ($5,000).
+30 (c) A taxpayer is not entitled to a carryback, carryover, or
+31 refund of an unused credit.
+32 (d) A taxpayer may not sell, assign, convey, or otherwise
+33 transfer the tax credit provided by this section.
+34 (e) To receive the credit provided by this section, a taxpayer
+35 must claim the credit on the taxpayer's annual state tax return or
+36 returns in the manner prescribed by the department. The taxpayer
+37 shall submit to the department all information that the department
+38 determines is necessary for the calculation of the credit provided
+39 by this section.
+40 (f) An account holder must repay all or a part of the credit in a
+41 taxable year in which the taxpayer withdraws funds from a first
+42 time home buyer savings account if the funds were:
+2026 IN 1403—LS 7057/DI 129
+
+5
+1 (1) used for a purpose other than an eligible cost;
+2 (2) claimed as a credit in the taxable year or a prior taxable
+3 year; and
+4 (3) not deposited into another first time home buyer savings
+5 account held by the taxpayer.
+6 (g) Any required repayment under subsection (f) shall be
+7 reported by the account holder on the account holder's annual
+8 state income tax return for any taxable year in which an account
+9 holder withdraws funds for a purpose other than the payment of
+10 eligible costs.
+11 (h) A person other than the account holder who deposits funds
+12 in a first time home buyer savings account is not entitled to the
+13 credit provided by this section.
+14 SECTION 3. [EFFECTIVE JANUARY 1, 2027] (a) IC 6-3-3-14,
+15 as added by this act, applies to taxable years beginning after
+16 December 31, 2026.
+17 (b) This SECTION expires December 31, 2029.
+2026 IN 1403—LS 7057/DI 129
