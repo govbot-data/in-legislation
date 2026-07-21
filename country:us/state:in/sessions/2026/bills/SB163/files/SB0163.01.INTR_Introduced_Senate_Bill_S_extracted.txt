@@ -1,0 +1,629 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 163
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 6-1.1; IC 6-3.1-35.
+Synopsis: Various property tax matters. Repeals the sunset for the
+county option circuit breaker tax credit, which is set to expire January
+1, 2028. Eliminates the assessed value cap that applies to the property
+tax deduction for a veteran who: (1) has a total disability; or (2) is at
+least 62 years of age and has at least a 10% disability. Establishes a
+county option first time home buyer's circuit breaker tax credit.
+Provides that a county assessor who uses the contract services of a
+professional appraiser for assessment purposes may not, anytime after
+the real property assessment date for the given assessment year,
+request, receive, consider, or use any additional advisory information
+provided to the county assessor from the professional appraiser for the
+purposes of a property tax appeal. Requires the department of local
+government finance (DLGF) to develop and provide to each county a
+standard Internet user portal through which taxpayers may make
+property tax payments on at least a monthly basis by electronic
+payment to the county treasurer. Requires each county treasurer to
+maintain the portal on the treasurer's website and make it available for
+taxpayer use. Requires the DLGF to prepare a report regarding the
+creation of an automated valuation system for local assessors to use for
+the assessment of homestead and residential property values and to
+present the report to the interim study committee on fiscal policy.
+Extends the expiration of the affordable and workforce housing tax
+credit by five years from July 1, 2028, to July 1, 2033. Makes
+corresponding changes.
+Effective: Upon passage; July 1, 2026.
+Rogers
+January 5, 2026, read first time and referred to Committee on Tax and Fiscal Policy.
+2026 IN 163—LS 6760/DI 120
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 163
+A BILL FOR AN ACT to amend the Indiana Code concerning
+taxation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 6-1.1-12-14, AS AMENDED BY P.L.230-2025,
+2 SECTION 32, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 14. (a) Except as provided in subsection (c) and
+4 except as provided in section 40.5 of this chapter, an individual may
+5 have the sum of fourteen thousand dollars ($14,000) deducted from the
+6 assessed value of the real property, mobile home not assessed as real
+7 property, or manufactured home not assessed as real property that the
+8 individual owns (or the real property, mobile home not assessed as real
+9 property, or manufactured home not assessed as real property that the
+10 individual is buying under a contract that provides that the individual
+11 is to pay property taxes on the real property, mobile home, or
+12 manufactured home if the contract or a memorandum of the contract is
+13 recorded in the county recorder's office) if:
+14 (1) the individual served in the military or naval forces of the
+15 United States for at least ninety (90) days;
+16 (2) the individual received an honorable discharge;
+17 (3) the individual either:
+2026 IN 163—LS 6760/DI 120
+
+2
+1 (A) has a total disability; or
+2 (B) is at least sixty-two (62) years old and has a disability of at
+3 least ten percent (10%);
+4 (4) the individual's disability is evidenced by:
+5 (A) a pension certificate or an award of compensation issued
+6 by the United States Department of Veterans Affairs; or
+7 (B) a certificate of eligibility issued to the individual by the
+8 Indiana department of veterans' affairs after the Indiana
+9 department of veterans' affairs has determined that the
+10 individual's disability qualifies the individual to receive a
+11 deduction under this section; and
+12 (5) the individual:
+13 (A) owns the real property, mobile home, or manufactured
+14 home; or
+15 (B) is buying the real property, mobile home, or manufactured
+16 home under contract;
+17 on the date the statement required by section 15 of this chapter is
+18 filed.
+19 (b) Except as provided in subsections (c) and (d), (d)(1) through
+20 (d)(3), the surviving spouse of an individual may receive the deduction
+21 provided by this section if:
+22 (1) the individual satisfied the requirements of subsection (a)(1)
+23 through (a)(4) at the time of death; or
+24 (2) the individual:
+25 (A) was killed in action;
+26 (B) died while serving on active duty in the military or naval
+27 forces of the United States; or
+28 (C) died while performing inactive duty training in the military
+29 or naval forces of the United States; and
+30 the surviving spouse satisfies the requirement of subsection (a)(5) at
+31 the time the deduction statement is filed. The surviving spouse is
+32 entitled to the deduction regardless of whether the property for which
+33 the deduction is claimed was owned by the deceased veteran or the
+34 surviving spouse before the deceased veteran's death.
+35 (c) This subsection applies to assessment dates before January
+36 1, 2027. Except as provided in subsection (f), no one is entitled to the
+37 deduction provided by this section if the assessed value of the
+38 individual's Indiana real property, Indiana mobile home not assessed as
+39 real property, and Indiana manufactured home not assessed as real
+40 property, as shown by the tax duplicate, exceeds the assessed value
+41 limit specified in subsection (d). (d)(1) through (d)(3).
+42 (d) Except as provided in subsection (f), for the:
+2026 IN 163—LS 6760/DI 120
+
+3
+1 (1) January 1, 2017, January 1, 2018, and January 1, 2019,
+2 assessment dates, the assessed value limit for purposes of
+3 subsection (c) is one hundred seventy-five thousand dollars
+4 ($175,000);
+5 (2) January 1, 2020, January 1, 2021, January 1, 2022, and
+6 January 1, 2023, assessment dates, the assessed value limit for
+7 purposes of subsection (c) is two hundred thousand dollars
+8 ($200,000); and
+9 (3) January 1, 2024, January 1, 2025, and January 1, 2026,
+10 assessment date dates, and for each assessment date thereafter,
+11 the assessed value limit for purposes of subsection (c) is two
+12 hundred forty thousand dollars ($240,000); and
+13 (4) January 1, 2027, assessment date and for each assessment
+14 date thereafter, there shall be no assessed value limit to claim
+15 the deduction under this section.
+16 (e) An individual who has sold real property, a mobile home not
+17 assessed as real property, or a manufactured home not assessed as real
+18 property to another person under a contract that provides that the
+19 contract buyer is to pay the property taxes on the real property, mobile
+20 home, or manufactured home may not claim the deduction provided
+21 under this section against that real property, mobile home, or
+22 manufactured home.
+23 (f) This subsection applies to assessment dates before January
+24 1, 2027. For purposes of determining the assessed value of the real
+25 property, mobile home, or manufactured home under subsection (d)
+26 (d)(1) through (d)(3) for an individual who has received a deduction
+27 under this section in a previous year, increases in assessed value that
+28 occur after the later of:
+29 (1) December 31, 2019; or
+30 (2) the first year that the individual has received the deduction;
+31 are not considered unless the increase in assessed value is attributable
+32 to substantial renovation or new improvements. Where there is an
+33 increase in assessed value for purposes of the deduction under this
+34 section, the assessor shall provide a report to the county auditor
+35 describing the substantial renovation or new improvements, if any, that
+36 were made to the property prior to the increase in assessed value.
+37 SECTION 2. IC 6-1.1-15-1.1, AS AMENDED BY P.L.9-2024,
+38 SECTION 167, IS AMENDED TO READ AS FOLLOWS
+39 [EFFECTIVE UPON PASSAGE]: Sec. 1.1. (a) A taxpayer may appeal
+40 an assessment of a taxpayer's tangible property by filing a notice in
+41 writing with the township assessor, or the county assessor if the
+42 township is not served by a township assessor. Except as provided in
+2026 IN 163—LS 6760/DI 120
+
+4
+1 subsections (e) and (h), an appeal under this section may raise any
+2 claim of an error related to the following:
+3 (1) The assessed value of the property.
+4 (2) The assessment was against the wrong person.
+5 (3) The approval, denial, or omission of a deduction, credit,
+6 exemption, abatement, or tax cap.
+7 (4) A clerical, mathematical, or typographical mistake.
+8 (5) The description of the real property.
+9 (6) The legality or constitutionality of a property tax or
+10 assessment.
+11 A written notice under this section must be made on a form designated
+12 by the department of local government finance. A taxpayer must file a
+13 separate petition for each parcel.
+14 (b) A taxpayer may appeal an error in the assessed value of the
+15 property under subsection (a)(1) any time after the official's action, but
+16 not later than the following:
+17 (1) For assessments before January 1, 2019, the earlier of:
+18 (A) forty-five (45) days after the date on which the notice of
+19 assessment is mailed by the county; or
+20 (B) forty-five (45) days after the date on which the tax
+21 statement is mailed by the county treasurer, regardless of
+22 whether the assessing official changes the taxpayer's
+23 assessment.
+24 (2) For assessments of real property, after December 31, 2018, the
+25 earlier of:
+26 (A) June 15 of the assessment year, if the notice of assessment
+27 is mailed by the county before May 1 of the assessment year;
+28 or
+29 (B) June 15 of the year in which the tax statement is mailed by
+30 the county treasurer, if the notice of assessment is mailed by
+31 the county on or after May 1 of the assessment year.
+32 (3) For assessments of personal property, forty-five (45) days after
+33 the date on which the county mails the notice under
+34 IC 6-1.1-3-20.
+35 A taxpayer may appeal an error in the assessment under subsection
+36 (a)(2), (a)(3), (a)(4), (a)(5), or (a)(6) not later than three (3) years after
+37 the taxes were first due.
+38 (c) Except as provided in subsection (d), an appeal under this
+39 section applies only to the tax year corresponding to the tax statement
+40 or other notice of action.
+41 (d) An appeal under this section applies to a prior tax year if a
+42 county official took action regarding a prior tax year, and such action
+2026 IN 163—LS 6760/DI 120
+
+5
+1 is reflected for the first time in the tax statement. A taxpayer who has
+2 timely filed a written notice of appeal under this section may be
+3 required to file a petition for each tax year, and each petition filed later
+4 must be considered timely.
+5 (e) A taxpayer may not appeal under this section any claim of error
+6 related to the following:
+7 (1) The denial of a deduction, exemption, abatement, or credit if
+8 the authority to approve or deny is not vested in the county board,
+9 county auditor, county assessor, or township assessor.
+10 (2) The calculation of interest and penalties.
+11 (3) A matter under subsection (a) if a separate appeal or review
+12 process is statutorily prescribed.
+13 However, a claim may be raised under this section regarding the
+14 omission or application of a deduction approved by an authority other
+15 than the county board, county auditor, county assessor, or township
+16 assessor.
+17 (f) The filing of a written notice under this section constitutes a
+18 request by the taxpayer for a preliminary informal meeting with the
+19 township assessor, or the county assessor if the township is not served
+20 by a township assessor.
+21 (g) A county or township official who receives a written notice
+22 under this section shall forward the notice to:
+23 (1) the county board; and
+24 (2) the county auditor, if the taxpayer raises a claim regarding a
+25 matter that is in the discretion of the county auditor.
+26 (h) A taxpayer may not raise any claim in an appeal under this
+27 section related to the legality or constitutionality of:
+28 (1) a user fee (as defined in IC 33-23-1-10.5);
+29 (2) any other charge, fee, or rate imposed by a political
+30 subdivision under any other law; or
+31 (3) any tax imposed by a political subdivision other than a
+32 property tax.
+33 (i) This subsection applies only to an appeal based on a claim of
+34 error in the determination of property that is or is not eligible for a
+35 standard homestead deduction under IC 6-1.1-12-37 and only for an
+36 assessment date occurring before January 1, 2024. A taxpayer may
+37 appeal an error in the assessment of property as described in this
+38 subsection any time after the official's action, but not later than one (1)
+39 year after the date on which the property that is the subject of the
+40 appeal was assessed.
+41 (j) A county assessor who uses the contract services of a
+42 professional appraiser under IC 6-1.1-4-18.5 for assessment or
+2026 IN 163—LS 6760/DI 120
+
+6
+1 reassessment purposes may not, anytime after the real property
+2 assessment date under IC 6-1.1-2-1.5 for the given assessment year,
+3 request, receive, consider, or use any additional advisory
+4 information provided to the county assessor from the professional
+5 appraiser for the purposes of a property tax appeal under this
+6 chapter, including a preliminary informal meeting under section
+7 1.2(a) of this chapter.
+8 SECTION 3. IC 6-1.1-30-21 IS ADDED TO THE INDIANA CODE
+9 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+10 UPON PASSAGE]: Sec. 21. (a) The department shall develop and
+11 provide to each county a standard Internet user portal through
+12 which taxpayers may make property tax payments on at least a
+13 monthly basis by electronic payment (as defined in IC 5-27-2-3) to
+14 the county treasurer.
+15 (b) The department shall make the portal available to each
+16 county treasurer not later than December 31, 2026.
+17 (c) After December 31, 2026, each county treasurer shall
+18 maintain on the treasurer's website and make available for
+19 taxpayer use the portal described in subsection (a).
+20 SECTION 4. IC 6-1.1-49-4, AS ADDED BY P.L.95-2023,
+21 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+22 JULY 1, 2026]: Sec. 4. (a) Subject to subsection (h), (g), a county fiscal
+23 body may adopt an ordinance to provide a credit against a qualified
+24 individual's property tax liability as set forth in this chapter.
+25 (b) An ordinance adopted under this section may designate a
+26 neighborhood enhancement district. A neighborhood enhancement
+27 district may include:
+28 (1) all of the territory of the county; or
+29 (2) one (1) or more specific geographic territories within the
+30 county;
+31 as an area in which qualified individuals may apply for the credit.
+32 (c) Subject to subsection (h), (g), an ordinance adopted under this
+33 section must:
+34 (1) include a boundary description of the neighborhood
+35 enhancement district or districts to which the ordinance applies;
+36 (2) specify the income thresholds for a qualified individual under
+37 section 3(5)(A) and 3(5)(B) of this chapter, if any; and
+38 (3) specify the percentage of increase on a qualified individual's
+39 property tax liability in a particular year compared to the prior
+40 year that is to be used in determining the amount of the county
+41 option circuit breaker tax credit calculated under section 7(2)(B)
+42 of this chapter. The percentage must be at least two percent (2%)
+2026 IN 163—LS 6760/DI 120
+
+7
+1 but not more than five percent (5%).
+2 The boundary description required under subdivision (1) must be
+3 sufficient to identify the parcel or parcels to which the credit may be
+4 applied, including identification by taxing district, a parcel list, or a
+5 legal description.
+6 (d) If a proposal is presented to the county fiscal body to adopt an
+7 ordinance under this section, the county fiscal body shall hear the
+8 proposal at a public meeting of the county fiscal body and may then
+9 vote to adopt the ordinance at the next meeting of the county fiscal
+10 body.
+11 (e) The county fiscal body may rescind an ordinance adopted under
+12 this section.
+13 (f) An ordinance adopted under this section is effective January 1 of
+14 the year following the year in which the ordinance is adopted.
+15 (g) An ordinance adopted under this section must specify that the
+16 credit does not apply for property taxes first due and payable after
+17 December 31, 2027.
+18 (h) (g) A county fiscal body shall prescribe the same income
+19 thresholds, credit amounts, and any other requirements related to
+20 eligibility for each neighborhood enhancement district designated in
+21 the county.
+22 SECTION 5. IC 6-1.1-49-11 IS REPEALED [EFFECTIVE JULY
+23 1, 2026]. Sec. 11. This chapter expires January 1, 2028.
+24 SECTION 6. IC 6-1.1-53 IS ADDED TO THE INDIANA CODE
+25 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+26 UPON PASSAGE]:
+27 Chapter 53. County Option First Time Home Buyer's Circuit
+28 Breaker Tax Credit
+29 Sec. 1. As used in this chapter, "first time home buyer" means
+30 an individual who has not had an ownership interest in a home at
+31 any time preceding the date on which the individual purchases a
+32 home.
+33 Sec. 2. As used in this chapter, "home" means an individual's
+34 principal place of residence in Indiana that is:
+35 (1) in the first year, eligible for the standard homestead
+36 deduction under IC 6-1.1-12-37; and
+37 (2) in the second and following years, granted the standard
+38 homestead deduction under IC 6-1.1-12-37.
+39 The term does not include a newly constructed home that is less
+40 than one hundred percent (100%) completed.
+41 Sec. 3. As used in this chapter, "qualified individual" means an
+42 individual who:
+2026 IN 163—LS 6760/DI 120
+
+8
+1 (1) is a first time home buyer;
+2 (2) is:
+3 (A) in the first year, eligible for the standard homestead
+4 deduction under IC 6-1.1-12-37; and
+5 (B) in the second and following years, granted the standard
+6 homestead deduction under IC 6-1.1-12-37;
+7 (3) had:
+8 (A) in the case of an individual who filed a single return, an
+9 adjusted gross income (as defined in Section 62 of the
+10 Internal Revenue Code) not exceeding the amount
+11 specified in the ordinance adopted by the county under
+12 section 4(b)(2) of this chapter; or
+13 (B) in the case of an individual who filed a joint income tax
+14 return with the individual's spouse, combined adjusted
+15 gross income (as defined in Section 62 of the Internal
+16 Revenue Code) not exceeding the amount specified in the
+17 ordinance adopted by the county under section 4(b)(2) of
+18 this chapter;
+19 for the calendar year preceding by two (2) years the calendar
+20 year in which property taxes are first due and payable;
+21 (4) had an assessed value for the individual's Indiana real
+22 property that is an amount not more than the amount
+23 specified in the ordinance adopted by the county fiscal body
+24 under section 4(b)(3) of this chapter in the first year the credit
+25 will be applied; and
+26 (5) resides within the boundaries specified in the ordinance
+27 adopted by the county fiscal body under section 4(b)(1) of this
+28 chapter.
+29 Sec. 4. (a) Subject to subsection (f), a county fiscal body may
+30 adopt an ordinance to provide a credit against a qualified
+31 individual's property tax liability as set forth in this chapter.
+32 (b) Subject to subsection (f), an ordinance adopted under this
+33 section must:
+34 (1) include a boundary description to which the ordinance
+35 applies;
+36 (2) specify the income thresholds for a qualified individual
+37 under section 3(3)(A) and 3(3)(B) of this chapter, if any;
+38 (3) specify the maximum assessed value for an individual's
+39 qualifying Indiana real property, if any; and
+40 (4) specify the number of years the credit is to be applied,
+41 which must be at least one (1) calendar year but not more
+42 than five (5) consecutively succeeding calendar years,
+2026 IN 163—LS 6760/DI 120
+
+9
+1 beginning with the calendar year that the qualified
+2 individual's home is first assessed as a first time home buyer.
+3 The boundary description required under subdivision (1) must be
+4 sufficient to identify the parcel or parcels to which the credit may
+5 be applied, including identification by taxing district, a parcel list,
+6 or a legal description.
+7 (c) If a proposal is presented to the county fiscal body to adopt
+8 an ordinance under this section, the county fiscal body shall hear
+9 the proposal at a public meeting of the county fiscal body and may
+10 then vote to adopt the ordinance at the next meeting of the county
+11 fiscal body.
+12 (d) The county fiscal body may rescind an ordinance adopted
+13 under this section. However, the rescission of an ordinance shall
+14 not affect those qualified individuals who are eligible and granted
+15 the credit for the qualified individual's property tax liability under
+16 the ordinance before the date of the rescission and would continue
+17 to be eligible to apply the credit under the term of years specified
+18 in the ordinance in one (1) or more succeeding years, if not for the
+19 rescission. The county fiscal body must state in the ordinance that
+20 the credit allowed under the ordinance shall continue in effect for
+21 those qualified individuals, notwithstanding the rescission.
+22 (e) An ordinance adopted under this section is effective January
+23 1 of the year following the year in which the ordinance is adopted.
+24 (f) A county fiscal body shall prescribe the same income and
+25 assessed value thresholds and any other requirements and
+26 limitations related to eligibility for each boundary designated in
+27 the county.
+28 Sec. 5. If a county fiscal body adopts an ordinance to either
+29 provide the credit under this chapter or rescind an ordinance
+30 previously adopted, the county fiscal body shall, not later than
+31 fifteen (15) days after the adoption of the ordinance, give notice of
+32 the adoption of the ordinance to:
+33 (1) the department on the form and in the manner prescribed
+34 by the department;
+35 (2) the county auditor;
+36 (3) the fiscal officer of each taxing unit within each boundary
+37 to which the ordinance applies; and
+38 (4) in the case of a county that has rescinded an ordinance
+39 under section 4(d) of this chapter, each qualified individual
+40 who has already been granted and will continue to be eligible
+41 to apply the credit to the qualified individual's property tax
+42 liability under the ordinance, notwithstanding the rescission,
+2026 IN 163—LS 6760/DI 120
+
+10
+1 advising them that they will continue to be eligible to do so;
+2 including a certified copy of the adopted ordinance.
+3 Sec. 6. (a) A qualified individual who has a credit provided
+4 under this chapter applied to the qualified individual's property
+5 tax liability in a particular calendar year may not also have a
+6 credit under IC 6-1.1-20.6-8.5 applied to the qualified individual's
+7 property tax liability in the same calendar year.
+8 (b) Not more than one (1) credit may be claimed under this
+9 chapter with respect to a particular homestead by any qualified
+10 individual.
+11 Sec. 7. (a) The amount of the credit under this chapter is equal
+12 to the greater of zero (0) or the result of:
+13 (1) the property tax liability first due and payable on the
+14 qualified individual's homestead property for the calendar
+15 year (excluding any property tax liability imposed in a voter
+16 approved referendum levy); minus
+17 (2) the result of:
+18 (A) the property tax liability first due and payable on the
+19 qualified individual's homestead property for the
+20 immediately preceding year after the application of the
+21 credit granted under this section for that year (excluding
+22 any property tax liability imposed in a voter approved
+23 referendum levy); multiplied by
+24 (B) the sum of:
+25 (i) the applicable percentage under subsection (b),
+26 expressed as a decimal; plus
+27 (ii) one (1).
+28 However, the credit provided by this chapter shall not apply to any
+29 portion of property tax liability imposed on a qualified individual's
+30 homestead property that is used for trade or business purposes in
+31 connection with the production of income, and the qualified
+32 individual must attest to this on the application for the credit. In
+33 addition, the credit does not affect the allocation of taxes to a
+34 referendum fund.
+35 (b) The following percentage applies under subsection
+36 (a)(2)(B)(i) depending on the number of years the credit is to be
+37 applied under section 4(b)(4) of this chapter:
+38 (1) For the first calendar year that a credit is applied to the
+39 qualified individual's homestead property under this chapter,
+40 the applicable percentage under subsection (a)(2)(B)(i) is two
+41 percent (2%) for that calendar year.
+42 (2) If a credit is applied to the qualified individual's
+2026 IN 163—LS 6760/DI 120
+
+11
+1 homestead property under this chapter for a second calendar
+2 year, the applicable percentage under subsection (a)(2)(B)(i)
+3 is two percent (2%) for that calendar year.
+4 (3) If a credit is applied to the qualified individual's
+5 homestead property under this chapter for a third calendar
+6 year, the applicable percentage under subsection (a)(2)(B)(i)
+7 is three percent (3%) for that calendar year.
+8 (4) If a credit is applied to the qualified individual's
+9 homestead property under this chapter for a fourth calendar
+10 year, the applicable percentage under subsection (a)(2)(B)(i)
+11 is four percent (4%) for that calendar year.
+12 (5) If a credit is applied to the qualified individual's
+13 homestead property under this chapter for a fifth calendar
+14 year, the applicable percentage under subsection (a)(2)(B)(i)
+15 is five percent (5%) for that calendar year.
+16 Sec. 8. If the ownership of a homestead for which a qualified
+17 individual received a credit under this chapter changes, and the
+18 qualified individual no longer owns or principally resides in the
+19 homestead, the county auditor shall remove the designation of the
+20 individual as a qualified individual with respect to that homestead.
+21 Sec. 9. The auditor of each county shall, in a particular year,
+22 apply a credit provided under this chapter to each qualified
+23 individual who received the credit in the preceding year, unless the
+24 county auditor determines that the individual is no longer eligible
+25 for the credit.
+26 Sec. 10. (a) If a qualified individual who is receiving the credit
+27 provided by this chapter:
+28 (1) knows or should have known that the individual does not
+29 qualify for the credit under this chapter; or
+30 (2) changes the use of the individual's property so that part or
+31 all of the property no longer qualifies for the credit under this
+32 chapter;
+33 the individual must file a certified statement with the county
+34 auditor notifying the county auditor that subdivision (1) or (2)
+35 applies not more than sixty (60) days after the date subdivision (1)
+36 or (2) first applies.
+37 (b) An individual who fails to file the statement required by this
+38 section is liable for any additional taxes that would have been due
+39 on the property if the individual had filed the statement as
+40 required by this section, plus a civil penalty equal to ten percent
+41 (10%) of the additional taxes due. The additional taxes owed plus
+42 the civil penalty become part of the property tax liability for
+2026 IN 163—LS 6760/DI 120
+
+12
+1 purposes of this article.
+2 (c) The civil penalty imposed under this section is in addition to
+3 any interest and penalties for a delinquent payment that might
+4 otherwise be due. One percent (1%) of the total civil penalty
+5 collected under this section shall be transferred by the county to
+6 the department for use by the department in establishing and
+7 maintaining the homestead property data base under
+8 IC 6-1.1-12-37(j) and, to the extent there is money remaining, for
+9 any other purposes of the department.
+10 SECTION 7. IC 6-3.1-35-7, AS AMENDED BY P.L.194-2023,
+11 SECTION 24, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 JULY 1, 2026]: Sec. 7. (a) An eligible applicant who wishes to obtain
+13 the state tax credit provided by this chapter for a qualified project must
+14 submit an application to the authority after June 30, 2023, and before
+15 January 1, 2028, 2033, in the manner prescribed by the authority.
+16 (b) An application submitted under subsection (a) must include:
+17 (1) the name and address of the qualified project;
+18 (2) the name and address of the owner of the qualified project;
+19 and
+20 (3) any other information required by the authority.
+21 (c) Subject to section 8 of this chapter, the authority may approve a
+22 tax credit application if:
+23 (1) the applicant is an eligible applicant;
+24 (2) the project identified in the application is a qualified project;
+25 and
+26 (3) the tax credit application meets any other requirements for
+27 receipt of state tax credits established by the authority.
+28 (d) If the authority approves a tax credit application for a qualified
+29 project, for each taxable year in the tax credit period the authority may
+30 approve a maximum amount of state tax credits. The maximum
+31 aggregate amount of state tax credits awarded by the authority for the
+32 state tax credit period of a qualified project is an amount that is the
+33 product of:
+34 (1) a percentage determined by the authority, which must be less
+35 than or equal to one hundred percent (100%); multiplied by
+36 (2) the anticipated aggregate federal tax credits over the credit
+37 period as defined by Section 42(f) of the Internal Revenue Code
+38 and specified in a letter issued by the authority for the qualified
+39 project under Section 42(m) of the Internal Revenue Code (annual
+40 amount multiplied by ten (10) years).
+41 (e) If the authority approves a tax credit application for a qualified
+42 project, the authority shall issue an eligibility statement to the eligible
+2026 IN 163—LS 6760/DI 120
+
+13
+1 applicant. The eligibility statement must specify at least the following:
+2 (1) A unique identification code for the eligibility statement,
+3 determined by the authority.
+4 (2) The name of the qualified project.
+5 (3) For each taxable year in the state tax credit period of the
+6 qualified project, the maximum amount of state tax credit that the
+7 authority is awarding to the eligible applicant for the qualified
+8 project.
+9 (f) The authority shall transmit a copy of each eligibility statement
+10 issued under subsection (e) to the department.
+11 SECTION 8. IC 6-3.1-35-8, AS ADDED BY P.L.137-2022,
+12 SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 8. (a) For each state fiscal year beginning after
+14 June 30, 2023, and before July 1, 2028, 2033, the aggregate amount of
+15 state tax credits awarded by the authority under this chapter may not
+16 exceed thirty million dollars ($30,000,000). For purposes of calculating
+17 the aggregate state tax credit limit for a state fiscal year, the amounts
+18 awarded by the authority are considered to be awarded in the year the
+19 award is made to the state tax credit recipient by the authority,
+20 notwithstanding the fact that the awarded state tax credit is to be
+21 claimed over the state tax credit period.
+22 (b) To the extent that the tax credit applications requesting state tax
+23 credits exceed the amount of available state tax credits in a year, or the
+24 authority reasonably anticipates that the requests will exceed the state
+25 fiscal year limitation established in subsection (a), the authority may
+26 allocate the state tax credits in a manner that furthers the mission and
+27 purpose of the authority and otherwise promotes the establishment of
+28 qualified projects.
+29 SECTION 9. IC 6-3.1-35-11, AS ADDED BY P.L.137-2022,
+30 SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+31 JULY 1, 2026]: Sec. 11. This chapter is subject to review under
+32 IC 2-5-3.2-1 to evaluate the effectiveness of the state tax credit. one (1)
+33 year prior to its expiration under section 12 of this chapter.
+34 SECTION 10. IC 6-3.1-35-12, AS ADDED BY P.L.137-2022,
+35 SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+36 JULY 1, 2026]: Sec. 12. This chapter expires July 1, 2028. 2033.
+37 SECTION 11. [EFFECTIVE UPON PASSAGE] (a) As used in this
+38 SECTION, "automated valuation system" means a centralized
+39 system of automated valuation models and algorithms that may be
+40 applied to homestead and residential property valuation.
+41 (b) As used in this SECTION, "homestead" refers to a
+42 homestead that qualifies for a standard deduction under
+2026 IN 163—LS 6760/DI 120
+
+14
+1 IC 6-1.1-12-37.
+2 (c) As used in this SECTION, "residential property" has the
+3 meaning set forth in IC 6-1.1-20.6-4.
+4 (d) The department of local government finance shall prepare
+5 a report regarding the creation of an automated valuation system
+6 for local assessors to use in the state for the assessment of
+7 homestead and residential property values.
+8 (e) The department of local government finance shall present
+9 the report prepared under subsection (d) to the interim study
+10 committee on fiscal policy on or before November 1, 2026.
+11 (f) This SECTION expires July 1, 2027.
+12 SECTION 12. An emergency is declared for this act.
+2026 IN 163—LS 6760/DI 120
