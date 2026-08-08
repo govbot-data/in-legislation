@@ -1,0 +1,2158 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 224
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 14-8; IC 14-10; IC 14-11; IC 14-12; IC 14-15;
+IC 14-16-1-24; IC 14-18; IC 14-21-1; IC 14-22; IC 14-23;
+IC 14-27-7.3-3.5; IC 14-30-3-16; IC 14-30.5-2; IC 14-31-3; IC 14-33;
+IC 14-38-1-13; IC 25-36.5-1; IC 25-39-3; IC 35-52-14.
+Synopsis: Department of natural resources. Defines various terms.
+Amends the following definitions: (1) Fund. (2) Wildlife. Removes the
+following definitions: (1) Harvest season. (2) License. (3) Selling
+season. Makes various changes to natural resources commission
+procedures. Makes various changes to the department of natural
+resources (department) powers and duties. Removes coordination
+between the Indiana natural resources foundation and the President
+Benjamin Harrison conservation trust program. Reduces the Benjamin
+Harrison conservation trust project commission from 20 members to 17
+members and amends who is appointed to the commission. Removes
+the hometown Indiana grant program. Amends various boating and
+wakeboard regulations. Raises the financial threshold for certain
+actions in a boating accident from $750 to $2,000. Raises the financial
+threshold for certain actions in an off-road vehicle accident from $750
+to $2,500. Requires the state land office to approve the legal
+description of a utility easement. Requires a person to file a utility
+easement with the state land office after the easement is recorded in the
+county. Provides that the department shall charge a fee for a utility
+easement and put fees in the President Benjamin Harrison conservation
+trust fund. Creates an exception for a fee for a utility easement.
+(Continued next page)
+Effective: July 1, 2026.
+Glick
+January 8, 2026, read first time and referred to Committee on Natural Resources.
+2026 IN 224—LS 6685/DI 150
+
+Digest Continued
+Provides expiration terms for an archeology plan or development plan
+authorized by the division of historic preservation and archeology.
+Creates additional requirements for development plans. Repeals the
+program that helps landowners with problems created by localized deer
+populations. Repeals the game bird habitat restoration fund. Removes
+the department's ability to adopt rules to establish and operate a lottery
+system to allow an individual to purchase a license to take more than
+one antlered deer within a one year period. Repeals the requirement
+that the department deposit $20 dollars from the cost of every
+nonresident license to hunt deer into the fish and wildlife fund.
+Removes the penalty for a person who acts as a hunting guide without
+a guide license. Amends the permit to possess live minnows and live
+crayfish. Replaces "wildlife" with "wild animal" throughout
+IC 14-22-34. Establishes the forestry equipment and maintenance fund.
+Permits the department to immediately remove certain low head dams
+to provide emergency protection to life or property. Makes various
+changes to ginseng licensing provisions. Adds improving water quality
+to the list of purposes for which a conservancy district may be
+established. Allows the division of water to perform certain functions
+on behalf of the natural resources commission. Requires the natural
+resources commission to coordinate with the department for purposes
+of a reporting requirement regarding conservancy districts. Requires
+the proceeds from royalties or other compensation paid for minerals
+taken from beneath the navigable waters of the Wabash River to be
+deposited into the Wabash River heritage corridor fund and the oil and
+gas fund in certain amounts. Allows the department to use a timber
+licensee's bond to recover the costs of damage associated with the
+issued license or ensure performance of the contract. Requires a person
+who violates the timber sales provisions to repay the cost of damages
+not covered by the bond paid by the person, and prohibits a person who
+does not repay the cost of damages in full from purchasing timber from
+the department for at least one year. Allows an applicant for a water
+well drillers license to request informal review by the department for
+the applicant's failed exam. Provides that, before a continuing
+education program is presented, either a sponsor of a continuing
+education program or a licensee who plans to attend a continuing
+education program may request informal review of a decision regarding
+water well drilling contractors that was made by the department.
+Provides that the director may do the following: (1) Seize and
+confiscate the wild animal in the name of the state of Indiana. (2) Sell
+or dispose of the wild animal. (3) Deposit proceeds, if any, into the fish
+and wildlife fund. Establishes that a person may not chemically,
+mechanically, physically, or biologically control aquatic vegetation in
+the public: (1) waters containing state owned fish; (2) waters of the
+state; or (3) boundary water of the state. Removes fee scheme used to
+increase upland game bird population. Removes game bird and exotic
+mammal regulations. Makes conforming changes.
+22002266 IINN 222244——LLSS 66668855//DDII 115500
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 224
+A BILL FOR AN ACT to amend the Indiana Code concerning
+natural and cultural resources.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 14-8-1-1 IS AMENDED TO READ AS FOLLOWS
+2 [EFFECTIVE JULY 1, 2026]: Sec. 1. Except as otherwise provided,
+3 the definitions in this article apply throughout this title and 312 IAC.
+4 SECTION 2. IC 14-8-2-2.5 IS ADDED TO THE INDIANA CODE
+5 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+6 1, 2026]: Sec. 2.5. "Adjacent to the affected real property", for
+7 purposes of IC 14-11-4, has the meaning set forth in IC 14-11-4-1.5.
+8 SECTION 3. IC 14-8-2-57 IS REPEALED [EFFECTIVE JULY 1,
+9 2026]. Sec. 57. "Corporation", for purposes of IC 14-12-3, has the
+10 meaning set forth in IC 14-12-3-1.
+11 SECTION 4. IC 14-8-2-107, AS AMENDED BY P.L.127-2022,
+12 SECTION 7, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+13 JULY 1, 2026]: Sec. 107. "Fund" has the following meaning:
+14 (1) For purposes of IC 14-9-5, the meaning set forth in
+15 IC 14-9-5-1.
+2026 IN 224—LS 6685/DI 150
+
+2
+1 (2) For purposes of IC 14-9-8-21, the meaning set forth in
+2 IC 14-9-8-21.
+3 (3) For purposes of IC 14-9-8-21.5, the meaning set forth in
+4 IC 14-9-8-21.5.
+5 (4) For purposes of IC 14-9-9, the meaning set forth in
+6 IC 14-9-9-3.
+7 (5) For purposes of IC 14-12-1, the meaning set forth in
+8 IC 14-12-1-1.
+9 (6) For purposes of IC 14-12-2, the meaning set forth in
+10 IC 14-12-2-2.
+11 (7) For purposes of IC 14-12-3, the meaning set forth in
+12 IC 14-12-3-2.
+13 (8) (7) For purposes of IC 14-13-1, the meaning set forth in
+14 IC 14-13-1-2.
+15 (9) (8) For purposes of IC 14-13-2, the meaning set forth in
+16 IC 14-13-2-3.
+17 (10) (9) For purposes of IC 14-16-1, the meaning set forth in
+18 IC 14-16-1-30.
+19 (11) (10) For purposes of IC 14-19-8, the meaning set forth in
+20 IC 14-19-8-1.
+21 (12) (11) For purposes of IC 14-19-11, the meaning set forth in
+22 IC 14-19-11-3.1.
+23 (13) (12) For purposes of IC 14-20-11, the meaning set forth in
+24 IC 14-20-11-2.
+25 (14) (13) For purposes of IC 14-22-3, the meaning set forth in
+26 IC 14-22-3-1.
+27 (15) (14) For purposes of IC 14-22-4, the meaning set forth in
+28 IC 14-22-4-1.
+29 (16) For purposes of IC 14-22-5, the meaning set forth in
+30 IC 14-22-5-1.
+31 (17) For purposes of IC 14-22-8, the meaning set forth in
+32 IC 14-22-8-1.
+33 (18) (15) For purposes of IC 14-22-34, the meaning set forth in
+34 IC 14-22-34-2.
+35 (19) (16) For purposes of IC 14-23-3, the meaning set forth in
+36 IC 14-23-3-1.
+37 (20) (17) For purposes of IC 14-25-2-4, the meaning set forth in
+38 IC 14-25-2-4.
+39 (21) (18) For purposes of IC 14-25-10, the meaning set forth in
+40 IC 14-25-10-1.
+41 (22) (19) For purposes of IC 14-25.5, the meaning set forth in
+42 IC 14-25.5-1-3.
+2026 IN 224—LS 6685/DI 150
+
+3
+1 (23) (20) For purposes of IC 14-31-2, the meaning set forth in
+2 IC 14-31-2-5.
+3 (24) (21) For purposes of IC 14-25-12, the meaning set forth in
+4 IC 14-25-12-1.
+5 (25) (22) For purposes of IC 14-32-8, the meaning set forth in
+6 IC 14-32-8-1.
+7 (26) (23) For purposes of IC 14-33-14, the meaning set forth in
+8 IC 14-33-14-3.
+9 (27) (24) For purposes of IC 14-33-21, the meaning set forth in
+10 IC 14-33-21-1.
+11 (28) (25) For purposes of IC 14-34-6-15, the meaning set forth in
+12 IC 14-34-6-15.
+13 (29) (26) For purposes of IC 14-34-14, the meaning set forth in
+14 IC 14-34-14-1.
+15 (30) (27) For purposes of IC 14-34-19-1.3, the meaning set forth
+16 in IC 14-34-19-1.3(a).
+17 (31) (28) For purposes of IC 14-34-19-1.5, the meaning set forth
+18 in IC 14-34-19-1.5(a).
+19 (32) (29) For purposes of IC 14-37-10, the meaning set forth in
+20 IC 14-37-10-1.
+21 SECTION 5. IC 14-8-2-121 IS REPEALED [EFFECTIVE JULY 1,
+22 2026]. Sec. 121. "Harvest season", for purposes of IC 14-31-3, has the
+23 meaning set forth in IC 14-31-3-4.
+24 SECTION 6. IC 14-8-2-152 IS REPEALED [EFFECTIVE JULY 1,
+25 2026]. Sec. 152. "License" has the following meaning:
+26 (1) For purposes of IC 14-11-3-1, the meaning set forth in
+27 IC 14-11-3-1.
+28 (2) For purposes of IC 14-11-4, the meaning set forth in
+29 IC 14-11-4-3.
+30 SECTION 7. IC 14-8-2-152.2 IS ADDED TO THE INDIANA
+31 CODE AS A NEW SECTION TO READ AS FOLLOWS
+32 [EFFECTIVE JULY 1, 2026]: Sec. 152.2. "Licensee", for purposes
+33 of IC 14-31-3, has the meaning set forth in IC 14-31-3-4.5.
+34 SECTION 8. IC 14-8-2-170 IS REPEALED [EFFECTIVE JULY 1,
+35 2026]. Sec. 170. "Municipal corporation", for purposes of IC 14-12-3,
+36 has the meaning set forth in IC 14-12-3-3.
+37 SECTION 9. IC 14-8-2-216 IS AMENDED TO READ AS
+38 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 216. (a) "Program", for
+39 purposes of IC 14-12-3, has the meaning set forth in IC 14-12-3-4.
+40 (b) (a) "Program", for purposes of IC 14-23-6.5, has the meaning set
+41 forth in IC 14-23-6.5-1.
+42 (c) (b) "Program", for purposes of IC 14-32-8, has the meaning set
+2026 IN 224—LS 6685/DI 150
+
+4
+1 forth in IC 14-32-8-3.
+2 SECTION 10. IC 14-8-2-250 IS REPEALED [EFFECTIVE JULY
+3 1, 2026]. Sec. 250. "Selling season", for purposes of IC 14-31-3-9, has
+4 the meaning set forth in IC 14-31-3-9.
+5 SECTION 11. IC 14-8-2-295.5 IS ADDED TO THE INDIANA
+6 CODE AS A NEW SECTION TO READ AS FOLLOWS
+7 [EFFECTIVE JULY 1, 2026]: Sec. 295.5. "Valid license", for
+8 purposes of IC 14-31-3, has the meaning set forth in IC 14-31-3-5.5.
+9 SECTION 12. IC 14-8-2-320 IS AMENDED TO READ AS
+10 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 320. "Wildlife", has the
+11 following meaning:
+12 (1) for purposes of IC 14-22, except as provided in subdivision
+13 (2), means all wild birds, fish, crustaceans, mollusks,
+14 amphibians, reptiles, and wild mammals.
+15 (2) For purposes of IC 14-22-34, the meaning set forth in
+16 IC 14-22-34-6.
+17 SECTION 13. IC 14-8-4 IS ADDED TO THE INDIANA CODE AS
+18 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+19 1, 2026]:
+20 Chapter 4. Applicability
+21 Sec. 1. The department is the successor to:
+22 (1) the department of conservation;
+23 (2) any prior name given to a similar state agency that now
+24 falls under the department's jurisdiction; and
+25 (3) any agency incorporated into the department.
+26 If the department is a successor to an agency under this section, the
+27 department becomes responsible for and benefits from the
+28 contractual obligations of that agency.
+29 Sec. 2. The department may grant easements on properties
+30 owned or managed by the department.
+31 SECTION 14. IC 14-10-1-7 IS AMENDED TO READ AS
+32 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 7. (a) The commission
+33 shall have at least four (4) regular meetings in each fiscal year and as
+34 many additional or special meetings as the commission's business,
+35 powers, or duties require.
+36 (b) The chairman:
+37 (1) may call a special meeting; and
+38 (2) shall call a special meeting at the request of any five (5)
+39 members.
+40 (c) A:
+41 (1) meeting of the commission; or
+42 (2) public hearing;
+2026 IN 224—LS 6685/DI 150
+
+5
+1 is subject to IC 5-14-1.5.
+2 SECTION 15. IC 14-10-2-5, AS AMENDED BY P.L.93-2024,
+3 SECTION 120, IS AMENDED TO READ AS FOLLOWS
+4 [EFFECTIVE JULY 1, 2026]: Sec. 5. (a) The department may adopt
+5 rules under IC 4-22-2 to carry out the duties of the department under
+6 the following:
+7 (1) IC 14-9.
+8 (2) This article.
+9 (3) IC 14-11.
+10 (4) IC 14-12-2.
+11 (5) IC 14-14.
+12 (6) IC 14-15.
+13 (7) IC 14-17-3.
+14 (8) IC 14-18, except IC 14-18-6 and IC 14-18-8.
+15 (9) IC 14-19-1 and IC 14-19-8.
+16 (10) IC 14-21.
+17 (11) IC 14-22-3, IC 14-22-4, and IC 14-22-5. IC 14-22-3 and
+18 IC 14-22-4.
+19 (12) IC 14-23-1.
+20 (13) IC 14-24.
+21 (14) IC 14-25, except IC 14-25-8-3 and IC 14-25-13.
+22 (15) IC 14-26.
+23 (16) IC 14-27.
+24 (17) IC 14-28.
+25 (18) IC 14-29.
+26 (19) IC 14-35-1, IC 14-35-2, and IC 14-35-3.
+27 (20) IC 14-37.
+28 (21) IC 14-38, except IC 14-38-3.
+29 (22) IC 14-39.
+30 (b) An emergency rule adopted under subsection (a) (as effective
+31 before July 1, 2023) expires not later than one (1) year after the rule is
+32 accepted for filing by the publisher of the Indiana Register.
+33 (c) A person who violates:
+34 (1) an emergency rule adopted by the department under
+35 IC 4-22-2-37.1 before July 1, 2023; or
+36 (2) a rule adopted by the department under IC 4-22-2 after June
+37 30, 2023;
+38 to carry out a provision described in subsection (a) commits a Class C
+39 infraction, unless otherwise specified under state law.
+40 SECTION 16. IC 14-10-2-9 IS ADDED TO THE INDIANA CODE
+41 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+42 1, 2026]: Sec. 9. (a) A person who wishes to obtain judicial review
+2026 IN 224—LS 6685/DI 150
+
+6
+1 of a final agency action under this title must serve copies of a
+2 petition for judicial review upon:
+3 (1) each person described in IC 4-21.5-5-8; and
+4 (2) the following persons under IC 4-21.5-5-8(a)(4):
+5 (A) If the department or the state historic preservation
+6 review board is a party to a proceeding, a copy of the
+7 petition required under IC 4-21.5-5-8(a)(4) must be served
+8 upon the department or state historic preservation review
+9 board, as applicable, to the address published on the
+10 website of the department.
+11 (B) If the Indiana board of licensure for professional
+12 geologists is a party to a proceeding, a copy of the petition
+13 required under IC 4-21.5-5-8(a)(4) must be served upon
+14 the Indiana board of licensure for professional geologists
+15 at the address published on the website of the state
+16 geologist.
+17 (C) If the Indiana board of registration for soil scientists is
+18 a party to a proceeding, a copy of the petition required
+19 under IC 4-21.5-5-8(a)(4) must be served upon the Indiana
+20 board of registration for soil scientists to the address
+21 published on the website of the office of the state chemist.
+22 (b) The following agencies shall publish their office address on
+23 their official website so a person may serve copies of judicial
+24 review:
+25 (1) The department.
+26 (2) The state geologist.
+27 (3) The office of the state chemist.
+28 SECTION 17. IC 14-11-1-11 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE JULY 1, 2026]: Sec. 11. Beginning July 1, 2026, a
+31 person who owns property adjacent to a property owned or
+32 managed by the department:
+33 (1) may not build a temporary or permanent structure that is
+34 less than one hundred (100) feet from the property owned or
+35 managed by the department; or
+36 (2) shall indemnify and hold harmless the department for
+37 damage to a temporary or permanent structure that is less
+38 than one hundred (100) feet from the property owned or
+39 managed by the department.
+40 SECTION 18. IC 14-11-2-1, AS AMENDED BY P.L.246-2005,
+41 SECTION 116, IS AMENDED TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) The department may adopt
+2026 IN 224—LS 6685/DI 150
+
+7
+1 rules under IC 4-22-2 for the conduct of the following:
+2 (1) Department meetings.
+3 (2) Upon the recommendation of the director, the work of the
+4 department and the divisions.
+5 (b) The department may not adopt rules under IC 4-22-2 for the
+6 establishment of fees for the following:
+7 (1) Programs of the department or the commission.
+8 (2) Facilities owned or operated by the department or the
+9 commission or a lessee of the department or commission.
+10 (3) Licenses issued by the commission, the department, or the
+11 director.
+12 (4) Inspections or other similar services under this title performed
+13 by the department or an assistant or employee of the department.
+14 (c) The director shall:
+15 (1) adopt provisional rules under IC 4-22-2-37.1;
+16 (2) adopt interim rules under IC 4-22-2-37.2; and
+17 (3) approve for preliminary adoption rules for readoption
+18 under IC 4-22-2.6 that do not contain changes to the rules.
+19 SECTION 19. IC 14-11-2-2 IS AMENDED TO READ AS
+20 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 2. A person who
+21 violates a rule adopted under this chapter commits a Class C infraction,
+22 unless otherwise specified by law.
+23 SECTION 20. IC 14-11-3-1 IS REPEALED [EFFECTIVE JULY 1,
+24 2026]. Sec. 1. (a) As used in this section, "license" means a license, a
+25 franchise, a permit, a certification, an approval, a registration, a charter,
+26 or a similar form of authorization that may be issued to a person by:
+27 (1) the department;
+28 (2) the commission; or
+29 (3) the director;
+30 under Indiana law. The term does not include a license issued by the
+31 historic preservation review board established by IC 14-21-1-20.
+32 (b) Notwithstanding any other law, the director shall issue all
+33 licenses.
+34 (c) A designee of the director may issue licenses. A designee of the
+35 director must be a full-time employee of the department.
+36 SECTION 21. IC 14-11-4-1, AS AMENDED BY P.L.89-2016,
+37 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]: Sec. 1. This chapter applies to applications for licenses
+39 under the following:
+40 (1) IC 14-26-2 (lake preservation).
+41 (2) IC 14-26-5 (dams). (lowering of Ten Acre Lake).
+42 (3) IC 14-27 (levees, dams, and drainage).
+2026 IN 224—LS 6685/DI 150
+
+8
+1 (3) (4) IC 14-28-1 (flood control).
+2 (5) IC 14-29-1 (navigable waterways).
+3 (4) (6) IC 14-29-3 (removal of substances from streams). (sand
+4 and gravel permits).
+5 (5) (7) IC 14-29-4 (construction of channels).
+6 SECTION 22. IC 14-11-4-1.5 IS ADDED TO THE INDIANA
+7 CODE AS A NEW SECTION TO READ AS FOLLOWS
+8 [EFFECTIVE JULY 1, 2026]: Sec. 1.5. (a) As used in this chapter,
+9 "adjacent to the affected real property" means real property
+10 owned by a person, other than the applicant of a license, that:
+11 (1) is located not more than one-fourth (1/4) of a mile from the
+12 site where the licensed activity would take place; and
+13 (2) has a border or point in common with the exterior
+14 boundary of the property where the licensed activity would
+15 take place.
+16 (b) The term includes property that would share a common
+17 border with the property that is the subject of the application if the
+18 property was not separated from property that is the subject of the
+19 application by:
+20 (1) a right-of-way;
+21 (2) an easement; or
+22 (3) a railroad.
+23 SECTION 23. IC 14-11-4-3 IS REPEALED [EFFECTIVE JULY 1,
+24 2026]. Sec. 3. As used in this chapter, "license" means a permit, a
+25 license, a concession, or other authorization that may be issued to a
+26 person by:
+27 (1) the director;
+28 (2) the department; or
+29 (3) the commission;
+30 under Indiana law.
+31 SECTION 24. IC 14-11-4-4 IS AMENDED TO READ AS
+32 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 4. (a) The director or
+33 the department may not issue a license until thirty (30) days after the
+34 notice required by this chapter has been is given to a person specified
+35 under section 5 of this chapter by the applicant.
+36 (b) An applicant may provide the notice may be given under
+37 subsection (a) at any time after an application for a license is filed with
+38 the department. The department may require by rule that notice under
+39 section 5 of this chapter be provided by the license applicant.
+40 SECTION 25. IC 14-11-4-5 IS AMENDED TO READ AS
+41 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5. (a) If a license
+42 application affects real property, notice of the application is required
+2026 IN 224—LS 6685/DI 150
+
+9
+1 as follows:
+2 (1) The applicant must notify at least one (1) of the owners of
+3 each parcel of real property reasonably known to be adjacent to
+4 the affected real property.
+5 (2) The department shall notify the persons who have requested
+6 notification of a license application that:
+7 (A) affects the specific real property to which the application
+8 relates; or
+9 (B) is of the same type as the application.
+10 (3) The applicant must notify by publication, with proof of
+11 service made by a publisher's affidavit, under the following
+12 circumstances:
+13 (A) The current address of a person entitled to notice
+14 under this rule is not ascertainable.
+15 (B) The identity or existence of a person entitled to notice
+16 is not ascertainable.
+17 (C) The department requires notice by publication because
+18 the license application is likely to evoke general public
+19 interest.
+20 (b) The commission may adopt rules under IC 4-22-2 to require the
+21 following:
+22 (1) That additional persons be notified of an application for a
+23 license.
+24 (2) That additional forms of notice be given.
+25 (c) The applicant shall provide to the department proof of
+26 service of the notices required under subsection (a)(1) and (a)(3) as
+27 follows:
+28 (1) By providing a mailing receipt showing successful return
+29 from the person notified if service is made by certified mail
+30 with return receipt requested.
+31 (2) By an affidavit or affirmation on a department form if
+32 service is made in person or by first class mail, with a
+33 certificate of mailing, including the following:
+34 (A) The names and addresses of each person served.
+35 (B) The date of personal service or mailing.
+36 (C) If service was made by mail, that a period of at least
+37 twenty-one (21) days has passed without the mailing being
+38 returned as undelivered or undeliverable.
+39 (d) A notice under this section shall do the following:
+40 (1) Provide the name and address of the applicant.
+41 (2) Identify the statute or rule, or both, under which a license
+42 is sought.
+2026 IN 224—LS 6685/DI 150
+
+10
+1 (3) Identify the real property to which the application relates,
+2 unless the license is not related to real property.
+3 (4) Provide any other information required by statute or rule
+4 relative to the particular type of license sought.
+5 (5) Include an explanation of the options available to a person
+6 served as follows:
+7 (A) File a petition with the director requesting an informal
+8 hearing that is signed by at least twenty-five (25)
+9 individuals who are at least eighteen (18) years of age and
+10 who:
+11 (i) reside in the county where the licensed activity would
+12 take place; or
+13 (ii) own real property within one (1) mile of the site of
+14 the proposed or existing licensed activity.
+15 (B) Request the department notify a person in writing
+16 when an initial determination is made to issue or deny the
+17 license.
+18 SECTION 26. IC 14-12-1-13 IS REPEALED [EFFECTIVE JULY
+19 1, 2026]. Sec. 13. Expenditures from the fund shall be coordinated with
+20 expenditures under the President Benjamin Harrison conservation trust
+21 program established by IC 14-12-2.
+22 SECTION 27. IC 14-12-2-14, AS AMENDED BY P.L.42-2024,
+23 SECTION 106, IS AMENDED TO READ AS FOLLOWS
+24 [EFFECTIVE JULY 1, 2026]: Sec. 14. (a) The President Benjamin
+25 Harrison conservation trust project commission is established.
+26 (b) The project commission consists of the following twenty (20)
+27 seventeen (17) members:
+28 (1) The director of the division of fish and wildlife.
+29 (2) The director of the division of forestry.
+30 (3) The director of the division of nature preserves.
+31 (4) The director of the division of state parks.
+32 (1) A staff member of the department appointed by the
+33 director for each account listed under section 26(a)(1) through
+34 26(a)(5) of this chapter.
+35 (5) (2) The chief executive officer of the Indiana state museum
+36 and historic sites corporation established by IC 4-37-2-1.
+37 (6) (3) The chairperson of the board of directors of the natural
+38 resources foundation.
+39 (7) (4) Ten (10) Six (6) individuals appointed by the governor.
+40 The governor shall appoint individuals so that all the following
+41 are satisfied:
+42 (A) The individuals must be residents of Indiana.
+2026 IN 224—LS 6685/DI 150
+
+11
+1 (B) The individuals must have a demonstrated interest or
+2 experience in:
+3 (i) conservation of natural resources; or
+4 (ii) management of public property.
+5 (C) There must be two (2) commission members from each of
+6 the following regions of Indiana:
+7 (i) Northwest. North.
+8 (ii) Northeast. Central.
+9 (iii) Southwest. South.
+10 (iv) Southeast.
+11 (v) Central.
+12 (8) (5) The following four (4) nonvoting members:
+13 (A) One (1) member of the house of representatives appointed
+14 by the speaker of the house of representatives.
+15 (B) One (1) member of the house of representatives appointed
+16 by the minority leader of the house of representatives.
+17 (C) One (1) member of the senate appointed by the president
+18 pro tempore of the senate.
+19 (D) One (1) member of the senate appointed by the minority
+20 leader of the senate.
+21 (c) The individuals appointed by the governor under subsection
+22 (b)(7) (b)(4) must represent one (1) or more of the following:
+23 (1) The environmentalist community.
+24 (2) The land trust community.
+25 (3) Organized hunting and fishing groups.
+26 (4) The forest products community.
+27 (5) The parks and recreation community.
+28 Each group and community listed in subdivisions (1) through (5) must
+29 be represented on the project commission.
+30 SECTION 28. IC 14-12-2-15, AS AMENDED BY P.L.1-2025,
+31 SECTION 179, IS AMENDED TO READ AS FOLLOWS
+32 [EFFECTIVE JULY 1, 2026]: Sec. 15. (a) As used in this section,
+33 "appointing authority" refers to:
+34 (1) the governor in the case of a member appointed under section
+35 14(b)(7) 14(b)(4) of this chapter; or
+36 (2) the speaker of the house of representatives, the minority leader
+37 of the house of representatives, the president pro tempore of the
+38 senate, or the minority leader of the senate in the case of a
+39 member appointed under section 14(b)(8) 14(b)(5) of this
+40 chapter, whichever is applicable.
+41 (b) As used in this section, "member" refers to a member of the
+42 project commission appointed under section 14(b)(7) 14(b)(4) through
+2026 IN 224—LS 6685/DI 150
+
+12
+1 14(b)(8) 14(b)(5) of this chapter.
+2 (c) The term of a member begins on the later of the following:
+3 (1) The day the term of the member who the individual is
+4 appointed to succeed expires.
+5 (2) The day the individual is appointed by the appointing
+6 authority.
+7 (d) A member serves at the pleasure of the appointing authority. The
+8 term of a member expires as follows:
+9 (1) June 30 of an odd-numbered year for a member appointed
+10 under section 14(b)(8) 14(b)(5) of this chapter.
+11 (2) June 30, 2025, and each fourth year thereafter for a one (1)
+12 member from the north region appointed under section
+13 14(b)(7)(C)(i), 14(b)(7)(C)(iii), or 14(b)(7)(C)(v) 14(b)(4)(C)(i)
+14 of this chapter.
+15 (3) December 31, 2025, and each fourth year thereafter for a one
+16 (1) member from the central or south region appointed under
+17 section 14(b)(7)(C)(ii) or 14(b)(7)(C)(iv) 14(b)(4)(C)(ii) or
+18 14(b)(4)(C)(iii) of this chapter.
+19 (e) The appointing authority may reappoint a member for a new
+20 term.
+21 (f) The appointing authority shall appoint an individual to fill a
+22 vacancy among the members. An individual appointed to fill a vacancy
+23 serves for the unexpired term of the individual's predecessor.
+24 SECTION 29. IC 14-12-2-16, AS AMENDED BY P.L.42-2024,
+25 SECTION 108, IS AMENDED TO READ AS FOLLOWS
+26 [EFFECTIVE JULY 1, 2026]: Sec. 16. The governor The project
+27 commission shall appoint the chair and vice chair of the project
+28 commission from among the members of the commission by a
+29 majority vote.
+30 SECTION 30. IC 14-12-2-18, AS AMENDED BY P.L.42-2024,
+31 SECTION 110, IS AMENDED TO READ AS FOLLOWS
+32 [EFFECTIVE JULY 1, 2026]: Sec. 18. (a) Eight (8) Seven (7)
+33 members of the project commission constitute a quorum.
+34 (b) The affirmative vote of a majority of the voting members of the
+35 project commission present and voting is necessary for the project
+36 commission to take any action.
+37 (c) A member of the project commission described in section
+38 14(b)(1) through 14(b)(5) and 14(b)(2) of this chapter may designate
+39 in writing a representative from the respective division to serve as a
+40 member of the project commission when the member of the project
+41 commission is unable to attend a meeting.
+42 SECTION 31. IC 14-12-2-21, AS AMENDED BY P.L.42-2024,
+2026 IN 224—LS 6685/DI 150
+
+13
+1 SECTION 113, IS AMENDED TO READ AS FOLLOWS
+2 [EFFECTIVE JULY 1, 2026]: Sec. 21. (a) The following procedure
+3 must be followed before money from the fund may be used to acquire
+4 property for a project under this chapter:
+5 (1) The project commission must review and approve a project
+6 requiring the acquisition of the property.
+7 (2) The project commission must recommend the project to the
+8 governor for approval.
+9 (3) The governor, or the governor's designee, must approve the
+10 project as recommended by the project commission and inform
+11 the director of the department of the governor's approval.
+12 (b) When the procedure under subsection (a) is completed, the
+13 department shall acquire the property subject to the project according
+14 to Indiana law.
+15 SECTION 32. IC 14-12-2-32 IS REPEALED [EFFECTIVE JULY
+16 1, 2026]. Sec. 32. Expenditures from the fund shall be coordinated with
+17 expenditures by the foundation from the Indiana natural resources fund
+18 established by IC 14-12-1-11.
+19 SECTION 33. IC 14-12-3 IS REPEALED [EFFECTIVE JULY 1,
+20 2026]. (Hometown Indiana Grant Program).
+21 SECTION 34. IC 14-15-3-19 IS AMENDED TO READ AS
+22 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 19. Provisions of this
+23 chapter concerning the operation of boats or motorboats apply as
+24 follows:
+25 (1) Whether or not the boat or motorboat is towing a water ski, a
+26 watersled, an aquaplane, or a similar object, including a person on
+27 the water ski, watersled, aquaplane, or similar any object.
+28 (2) To each object and person.
+29 SECTION 35. IC 14-15-3-20 IS AMENDED TO READ AS
+30 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 20. A person operating
+31 a motorboat may not tow a water ski, a watersled, a wakeboard,
+32 barefoot water skis, an aquaplane, or a similar object, including a
+33 person on the waterski, watersled, wakeboard, barefoot water skis,
+34 aquaplane, or similar object, unless:
+35 (1) the motorboat is occupied by at least one (1) other person who
+36 is giving the person's entire attention to watching the object,
+37 wakeboard, or person towed; and
+38 (2) the person operating the boat is giving the person's entire
+39 attention to the operation of the boat.
+40 SECTION 36. IC 14-15-4-2, AS AMENDED BY P.L.111-2016,
+41 SECTION 11, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+42 JULY 1, 2026]: Sec. 2. (a) The operator of a boat involved in an
+2026 IN 224—LS 6685/DI 150
+
+14
+1 accident or a collision resulting in: shall provide the information
+2 required under subsection (b) if the following conditions occur:
+3 (1) Injury to or death of a person. or
+4 (2) Damage to a boat or other property to an apparent extent of at
+5 least the greater of: seven hundred fifty dollars ($750);
+6 shall provide the information required under subsection (b).
+7 (A) two thousand dollars ($2,000); or
+8 (B) the amount for assessed damage under the United
+9 States Department of Homeland Security Boating Accident
+10 Report Database (BARD).
+11 (b) An operator of a boat subject to subsection (a) shall do the
+12 following:
+13 (1) Give notice of the accident to:
+14 (A) the office of the sheriff of the county;
+15 (B) the nearest state police post; or
+16 (C) the central dispatch center for the law enforcement
+17 division of the department;
+18 immediately and by the quickest means of communication.
+19 (2) Mail to the department a written report of the accident or
+20 collision within twenty-four (24) hours of the accident or
+21 collision.
+22 SECTION 37. IC 14-16-1-24 IS AMENDED TO READ AS
+23 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 24. (a) The operator of
+24 a vehicle involved in an accident resulting in serious bodily injury to
+25 or death of an individual or property damage in an estimated amount
+26 of at least seven hundred fifty dollars ($750) two thousand five
+27 hundred dollars ($2,500) shall immediately, by the quickest means of
+28 communication, notify at least one (1) of the following:
+29 (1) A state police officer or conservation officer.
+30 (2) The sheriff's office of the county where the accident occurred.
+31 (3) The office of the police department of the municipality where
+32 the accident occurred.
+33 (b) The police agency receiving the notice shall do the following:
+34 (1) Complete a report of the accident on forms prescribed by the
+35 director.
+36 (2) Forward the report to the director.
+37 SECTION 38. IC 14-18-10-1 IS AMENDED TO READ AS
+38 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) A person may not
+39 erect or construct a utility, telephone, or telegraph line upon or across:
+40 (1) a state park;
+41 (2) a state forest;
+42 (3) a state game preserve; or
+2026 IN 224—LS 6685/DI 150
+
+15
+1 (4) land acquired by the state and set aside for use by the public
+2 as a scenic or historic place; or
+3 (5) that part of a public highway right-of-way that passes through
+4 a state park, a state forest, a state game preserve, or land acquired
+5 by the state and set aside for use by the public as a scenic or
+6 historic place;
+7 unless the person has a permit is granted an easement from the
+8 director department to erect or construct the line.
+9 (b) Before an easement is approved, the state land office must
+10 approve the legal description contained in the easement.
+11 (c) A person shall file an easement with the state land office
+12 after the easement is recorded in the county.
+13 SECTION 39. IC 14-18-10-2, AS AMENDED BY P.L.145-2015,
+14 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+15 JULY 1, 2026]: Sec. 2. (a) The director department may issue grant
+16 to any person, without charge, a permit for a fee as determined under
+17 subsection (b), an easement to erect or construct a utility, telephone,
+18 or telegraph line, ingress, or egress as described in section 1 of this
+19 chapter under the rules and restrictions that the director department
+20 considers necessary:
+21 (1) for the protection and preservation of the natural scenic
+22 conditions of the land; or
+23 (2) to prevent the utility, telephone, or telegraph line from
+24 interfering with or obstructing the use and enjoyment of the
+25 property by the public.
+26 However, the director shall not impose a charge to issue a permit to
+27 erect or construct a utility, telephone, or telegraph line as described in
+28 section 1(5) of this chapter.
+29 (b) The department shall charge a fee for an easement described
+30 in section 1 of this chapter under one (1) of the following:
+31 (1) The amount determined by an appraisal prepared by a
+32 qualified appraiser, at the expense of the applicant.
+33 (2) The maximum width of the easement multiplied by the
+34 rate per linear foot in the table below:
+35 MAXIMUM EASEMENT RATE PER LINEAR FOOT
+36 WIDTH IN FEET
+37 Not more than 10 $4
+38 10-15 $6
+39 15-20 $8
+40 20-30 $12
+41 30-40 $16
+42 40-50 $20
+2026 IN 224—LS 6685/DI 150
+
+16
+1 50-100 $40
+2 More than 100 $80
+3 The fee charged by the department for an easement under this
+4 subsection is at least one thousand dollars ($1,000).
+5 (c) The department shall put fees collected for easements under
+6 this section into the President Benjamin Harrison conservation
+7 trust fund established by IC 14-12-2-25 and into the account for the
+8 division which the easement is located under IC 14-12-2-26.
+9 (d) The department may grant an easement without charge
+10 under this section if the easement:
+11 (1) meets the requirement under subsection (a)(1) or (a)(2);
+12 and
+13 (2) provides a direct benefit to a property described in section
+14 1 of this chapter.
+15 SECTION 40. IC 14-18-10-3 IS AMENDED TO READ AS
+16 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 3. A person may not
+17 construct or erect a utility, telegraph, or telephone line, ingress, or
+18 egress as described in section 1 of this chapter in violation of any of
+19 the rules and restrictions of a permit issued an easement granted
+20 under this chapter.
+21 SECTION 41. IC 14-18-11-1 IS AMENDED TO READ AS
+22 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. The department may
+23 grant and convey by deed or easement rights-of-way to railroads and
+24 to telegraph and telephone companies to construct and operate lines
+25 across the land of state forests. and state nurseries.
+26 SECTION 42. IC 14-18-11-2 IS AMENDED TO READ AS
+27 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 2. The terms and
+28 conditions upon which the rights-of-way are granted and conveyed by
+29 deed or easement under this chapter must be submitted to and
+30 approved by:
+31 (1) the governor;
+32 (2) the attorney general; and
+33 (3) the Indiana department of administration;
+34 before the deed becomes operative or possession is taken under a deed.
+35 SECTION 43. IC 14-21-1-25, AS AMENDED BY P.L.26-2008,
+36 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 25. (a) The commission shall adopt rules
+38 establishing standards for plans.
+39 (b) With respect to archeological plans, the rules must impose a
+40 standard of conduct that does the following:
+41 (1) Promotes the scientific investigation and conservation of past
+42 cultures.
+2026 IN 224—LS 6685/DI 150
+
+17
+1 (2) Considers the interests and expertise of amateur archeologists
+2 and professional archeologists.
+3 (c) With respect to development plans, the rules must impose a
+4 standard of conduct that preserves and protects both of the following:
+5 (1) The rights and interests of landowners.
+6 (2) The sensitivity of human beings for treating human remains
+7 with respect and dignity, as determined by the commission.
+8 (d) Subject to subsection (e), plans required under this chapter must
+9 be submitted to the department for approval according to rules adopted
+10 by the commission.
+11 (e) (a) Proposed archeological plans and development plans
+12 submitted to the department must be:
+13 (1) approved;
+14 (2) approved with conditions;
+15 (2) (3) denied; or
+16 (3) (4) held because of the need for additional information;
+17 by the department not more than sixty (60) days after the date of
+18 submission. If the department does not take any action on the plan
+19 within the time required by this subsection, the plan is considered to be
+20 approved, unless approval is prohibited under a state or federal law. If
+21 the department requests additional information under subdivision (3),
+22 (4), the department shall inform the applicant if the plan is deemed
+23 incomplete, inaccurate, or both, and provide the applicant an
+24 opportunity to cure any issues. The department shall approve or
+25 deny the resubmitted plan not more than thirty (30) days after the
+26 resubmitted plan additional information is received.
+27 (b) Unless otherwise specified in the authorization:
+28 (1) an approved archeology plan expires one (1) year; and
+29 (2) an approved development plan expires two (2) years;
+30 after issuance by the division.
+31 (c) An applicant must comply with:
+32 (1) any other federal, state, or local laws and ordinances;
+33 (2) 312 IAC 21; and
+34 (3) 312 IAC 22.
+35 (d) If the division issues written approval, an applicant may
+36 modify the authorized project activities.
+37 SECTION 44. IC 14-21-1-25.1 IS ADDED TO THE INDIANA
+38 CODE AS A NEW SECTION TO READ AS FOLLOWS
+39 [EFFECTIVE JULY 1, 2026]: Sec. 25.1. An application for approval
+40 of a development plan under section 26.5 of this chapter must be
+41 filed with the division and include the following:
+42 (1) A signed cover letter from the applicant on letterhead with
+2026 IN 224—LS 6685/DI 150
+
+18
+1 the following information:
+2 (A) The identity of the person who will conduct the project.
+3 (B) The overall nature and time frame of the project.
+4 (C) The location of the project by section, township, range,
+5 county, and address.
+6 (D) Information regarding any prior disturbance to the
+7 area.
+8 (E) A statement regarding whether federal or state funds
+9 or licenses are involved in the project.
+10 (2) Mapping to show the location of the burial ground or
+11 cemetery in relation to the project that includes the following:
+12 (A) Construction details for any activity within one
+13 hundred (100) feet of the burial ground or cemetery.
+14 (B) References to nearby landmarks.
+15 (C) The location of the burial ground or cemetery and the
+16 project area on the appropriate U.S. Geological Survey
+17 U.S. TOPO: Maps for America.
+18 (3) A description of the burial ground or cemetery sufficient
+19 to evaluate the likely impact of the project, including the
+20 following:
+21 (A) Any name of the burial ground or cemetery.
+22 (B) The dates the burial ground or cemetery has been used.
+23 (C) Historical information and documentation.
+24 (D) Precise boundaries that reference nearby landmarks.
+25 If documentation is not available to identify the burial
+26 ground or cemetery boundaries, the applicant may be
+27 required to determine those boundaries through the
+28 following:
+29 (i) Remote sensing.
+30 (ii) Investigations by archeologists.
+31 (iii) Another scientific method approved by the division.
+32 (E) The physical condition of the burial ground or
+33 cemetery.
+34 (4) A description of the grounds adjacent to and within one
+35 hundred (100) feet of the burial ground or cemetery, including
+36 the following:
+37 (A) The nature, depth, and degree of previous
+38 disturbances, including those caused by:
+39 (i) construction;
+40 (ii) excavation;
+41 (iii) grading; or
+42 (iv) filling.
+2026 IN 224—LS 6685/DI 150
+
+19
+1 (B) A description of soil, by type, present at the site,
+2 including an explanation of how the soil would be:
+3 (i) disturbed;
+4 (ii) graded;
+5 (iii) modified;
+6 (iv) removed; or
+7 (v) otherwise treated.
+8 (C) A description of each structure.
+9 (D) A description of the activities anticipated to:
+10 (i) erect;
+11 (ii) alter; or
+12 (iii) repair;
+13 a structure.
+14 (E) Each area that may contain new construction in
+15 connection with the proposed construction areas.
+16 (5) Recent photographs of the burial ground or cemetery and
+17 the grounds adjacent to and within one hundred (100) feet of
+18 the burial ground or cemetery.
+19 SECTION 45. IC 14-21-1-25.5 IS REPEALED [EFFECTIVE JULY
+20 1, 2026]. Sec. 25.5. (a) If a Native American Indian burial ground is
+21 discovered, the department shall immediately provide notice to the
+22 Native American Indian affairs commission established by IC 4-23-32.
+23 (b) If Native American Indian human remains are removed from a
+24 burial ground, the department shall provide the following to the Native
+25 American Indian affairs commission:
+26 (1) Any written findings or reports that result from the analysis
+27 and study of the human remains.
+28 (2) Written notice to the Native American Indian affairs
+29 commission that the analysis and study of the human remains are
+30 complete.
+31 (c) After receiving written notice under subsection (b)(2), the Native
+32 American Indian affairs commission shall make recommendations to
+33 the department regarding the final disposition of the Native American
+34 Indian human remains.
+35 SECTION 46. IC 14-21-1-26.5, AS AMENDED BY P.L.158-2013,
+36 SECTION 201, IS AMENDED TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 26.5. (a) Notwithstanding
+38 IC 23-14-44-1, this section does not apply to the following:
+39 (1) A public utility (as defined in IC 8-1-2-1(a)).
+40 (2) A corporation organized under IC 8-1-13.
+41 (3) A municipally owned utility (as defined in IC 8-1-2-1(h)).
+42 (4) A surface coal mining and reclamation operation permitted
+2026 IN 224—LS 6685/DI 150
+
+20
+1 under IC 14-34.
+2 (b) Except as provided in this subsection and subsections (c) and
+3 (d), a person may not disturb the ground within one hundred (100) feet
+4 of a burial ground for the purpose of excavating or covering over the
+5 ground or erecting, altering, or repairing any structure without having
+6 a development plan approved by the department under section 25 of
+7 this chapter or in violation of a development plan approved by the
+8 department under section 25 of this chapter. The department must
+9 review the development plan as required by section 25(e) 25(a) of this
+10 chapter.
+11 (c) A development plan:
+12 (1) must be approved if a person intends to:
+13 (A) excavate or cover over the ground; or
+14 (B) construct a new structure or alter or repair an existing
+15 structure;
+16 that would impact the burial ground or cemetery; and
+17 (2) is not required if a person intends to:
+18 (A) excavate or cover over the ground; or
+19 (B) erect, alter, or repair an existing structure;
+20 for an incidental or existing use that would not impact the burial
+21 ground or cemetery.
+22 (d) A development plan for a governmental entity to disturb ground
+23 within one hundred (100) feet of a burial ground must be approved as
+24 follows:
+25 (1) A development plan of a municipality requires approval of the
+26 executive of the municipality and does not require the approval of
+27 the department. However, if the burial ground or cemetery is
+28 located outside the municipality, approval is also required by the
+29 executive of the county where the burial ground or cemetery is
+30 located. A county cemetery commission established under
+31 IC 23-14-67-2 may advise the executive of the municipality on
+32 whether to approve a development plan.
+33 (2) A development plan of a governmental entity other than:
+34 (A) a municipality; or
+35 (B) the state;
+36 requires the approval of the executive of the county where the
+37 governmental entity is located and does not require the approval
+38 of the department. However, if the governmental entity is located
+39 in more than one (1) county, only the approval of the executive of
+40 the county where the burial ground or cemetery is located is
+41 required. A county cemetery commission established under
+42 IC 23-14-67-2 may advise the county executive on whether to
+2026 IN 224—LS 6685/DI 150
+
+21
+1 approve a development plan.
+2 (3) A development plan of the state requires the approval of the
+3 department.
+4 (e) If a burial ground is within an archeological site, an
+5 archeological plan is required to be part of the development plan.
+6 (f) A person who recklessly, knowingly, or intentionally violates this
+7 section commits a Class A misdemeanor. However, the offense is a
+8 Level 6 felony if the person disturbs buried human remains or grave
+9 markers while committing the offense.
+10 (g) An applicant must comply with:
+11 (1) any other federal, state, or local laws and ordinances;
+12 (2) 312 IAC 21; and
+13 (3) 312 IAC 22.
+14 (h) An applicant may modify the project activities authorized by
+15 the division only upon written approval by the division.
+16 SECTION 47. IC 14-21-1-31 IS AMENDED TO READ AS
+17 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 31. (a) The commission
+18 shall may adopt rules under IC 4-22-2 to implement this chapter.
+19 (b) When adopting rules under this chapter The commission shall
+20 may consider the following when adopting rules under this chapter:
+21 (1) The rights and interests of landowners.
+22 (2) The sensitivity of human beings for treating human remains
+23 with respect and dignity.
+24 (3) The value of history and archeology as a guide to human
+25 activity.
+26 (4) The importance of amateur archeologists in making historical,
+27 cultural, and archeological discoveries.
+28 (5) Applicable laws, standards, and guidelines for the conduct of
+29 archeology and codes of ethics for participation in archeology.
+30 SECTION 48. IC 14-22-5 IS REPEALED [EFFECTIVE JULY 1,
+31 2026]. (Deer Research and Management Fund).
+32 SECTION 49. IC 14-22-6-4, AS AMENDED BY P.L.144-2022,
+33 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+34 JULY 1, 2026]: Sec. 4. (a) For purposes of this section, a trap is
+35 designed to capture and kill a furbearing animal if the animal's death
+36 is the result of:
+37 (1) submerging the animal in water; or
+38 (2) crushing or asphyxiating the animal.
+39 (b) A person may not do the following:
+40 (1) Tend or visit a trap or remove a furbearing animal from a trap
+41 that is not the person's property without the permission of the
+42 owner.
+2026 IN 224—LS 6685/DI 150
+
+22
+1 (2) For a trap that is designed to capture but not kill a furbearing
+2 animal:
+3 (A) fail to tend or visit; or have tended or visited a trap and
+4 (B) remove a furbearing animal from;
+5 a trap that is the person's property within a period not exceeding
+6 twenty-four (24) hours.
+7 (3) For a trap that is designed to capture and kill a furbearing
+8 animal:
+9 (A) fail to tend or visit; or have tended or visited a trap and
+10 (B) remove a furbearing animal from;
+11 a trap that is the person's property within a period not exceeding
+12 forty-eight (48) hours.
+13 (c) The department shall publish a recommendation that the best
+14 practice to comply with this section is to tend or visit, or have tended
+15 or visited a furbearing trap that is the person's property within a period
+16 not to exceed twenty-four (24) hours.
+17 SECTION 50. IC 14-22-6-14 IS REPEALED [EFFECTIVE JULY
+18 1, 2026]. Sec. 14. (a) The:
+19 (1) division of fish and wildlife of the department; and
+20 (2) division of soil conservation established within the Indiana
+21 state department of agriculture by IC 15-11-4-1, through the soil
+22 and water conservation districts established under IC 14-32;
+23 shall, in cooperation with other conservation education organizations
+24 and one (1) or more organizations of hunters, establish a program to
+25 help landowners with problems determined by the director to be caused
+26 by localized deer population.
+27 (b) The program established under this section must educate
+28 landowners concerning the means by which a landowner can:
+29 (1) control; or
+30 (2) obtain assistance in controlling;
+31 the deer population on the landowner's tract of land.
+32 (c) Under the program established under this section, one (1) or
+33 more hunters or organizations of hunters may, upon request by a
+34 landowner, work with the department and the landowner to alleviate
+35 problems caused by localized deer populations.
+36 (d) In each county, the division of fish and wildlife, in cooperation
+37 with the soil and water conservation district established within the
+38 county under IC 14-32, shall disseminate information about the
+39 program established under this section.
+40 SECTION 51. IC 14-22-8-1 IS REPEALED [EFFECTIVE JULY 1,
+41 2026]. Sec. 1. As used in this chapter, "fund" refers to the game bird
+42 habitat restoration fund established by this chapter.
+2026 IN 224—LS 6685/DI 150
+
+23
+1 SECTION 52. IC 14-22-8-6 IS REPEALED [EFFECTIVE JULY 1,
+2 2026]. Sec. 6. (a) The game bird habitat restoration fund is established
+3 as a dedicated fund.
+4 (b) The department shall administer the fund. The director may
+5 expend the money in the fund exclusively for the purpose of restoring
+6 the habitat of the various game birds in Indiana.
+7 (c) The proceeds from the sale of stamps shall be deposited in and
+8 transferred from the fish and wildlife fund to the fund. However, a
+9 transfer is not required if the budget agency finds that it would reduce
+10 the balance in the fish and wildlife fund to less than three million
+11 dollars ($3,000,000) at the end of the state fiscal year.
+12 (d) Money in the fund does not revert to the state general fund at the
+13 end of a state fiscal year. If the fund is abolished, the contents revert to
+14 the fish and wildlife fund.
+15 SECTION 53. IC 14-22-9-10, AS AMENDED BY P.L.195-2017,
+16 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+17 JULY 1, 2026]: Sec. 10. (a) This section does not apply to the
+18 following:
+19 (1) A privately owned lake, farm pond, or public or private
+20 drainage ditch.
+21 (2) A landowner or tenant adjacent to public waters or boundary
+22 waters of the state, who chemically, mechanically, or physically
+23 controls aquatic vegetation in the immediate vicinity of a boat
+24 landing or bathing beach on or adjacent to the real property of the
+25 landowner or tenant if the following conditions exist:
+26 (A) The area where vegetation is to be controlled does not
+27 exceed:
+28 (i) twenty-five (25) feet along the legally established,
+29 average, or normal shoreline;
+30 (ii) a water depth of six (6) feet; and
+31 (iii) a total surface area of six hundred twenty-five (625)
+32 square feet.
+33 (B) Control of vegetation does not occur in a public waterway
+34 of the state.
+35 (b) A person may not chemically, mechanically, physically, or
+36 biologically control aquatic vegetation in the public: waters or:
+37 (1) waters containing state owned fish;
+38 (2) waters of the state; or
+39 (3) boundary waters of the state;
+40 without a permit issued by the department. All procedures to control
+41 aquatic vegetation under this section shall be conducted in accordance
+42 with rules adopted by the department under IC 4-22-2.
+2026 IN 224—LS 6685/DI 150
+
+24
+1 (c) Subject to IC 14-22-2-10, upon receipt of an application for a
+2 permit to control aquatic vegetation and the payment of a fee of five
+3 dollars ($5), the department may issue a permit to the applicant.
+4 However, if the aquatic vegetation proposed to be controlled is present
+5 in a public water supply, the department may not, without prior written
+6 approval from the department of environmental management, approve
+7 a permit for chemical control of the aquatic vegetation.
+8 (d) This section does not do any of the following:
+9 (1) Act as a bar to a suit or cause of action by a person or
+10 governmental agency.
+11 (2) Relieve the permittee from liability, rules, restrictions, or
+12 permits that may be required of the permittee by any other
+13 governmental agency.
+14 (3) Affect water pollution control laws (as defined in
+15 IC 13-11-2-261) and the rules adopted under water pollution
+16 control laws (as defined in IC 13-11-2-261).
+17 SECTION 54. IC 14-22-10-5 IS AMENDED TO READ AS
+18 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5. The title to a wild
+19 animal illegally taken or accidentally killed in violation of this article
+20 or IC 14-2 (before its repeal) does not vest in the taker of the wild
+21 animal, but remains in the state. The director shall may do the
+22 following:
+23 (1) Seize and confiscate the wild animal in the name of the state
+24 of Indiana.
+25 (2) Sell or dispose of the wild animal.
+26 (3) Deposit proceeds, if any, into the fish and wildlife fund.
+27 SECTION 55. IC 14-22-11-19 IS REPEALED [EFFECTIVE JULY
+28 1, 2026]. Sec. 19. (a) The department may adopt rules under IC 4-22-2
+29 to establish and operate a lottery system to allow an individual to
+30 purchase a license to take more than one (1) antlered deer within a one
+31 (1) year period.
+32 (b) The rules adopted under subsection (a) must include the
+33 following provisions:
+34 (1) A provision stating that an individual must have held and used
+35 a valid license to take a deer under IC 14-22-12 within the same
+36 year in order to participate in the lottery under this section.
+37 (2) A provision stating that the fee for participating in the lottery
+38 under this section is thirty dollars ($30).
+39 (3) A provision stating that the drawing for the lottery under this
+40 section will be held on December 15.
+41 (4) A provision stating that there will be only one hundred (100)
+42 licenses awarded under the lottery.
+2026 IN 224—LS 6685/DI 150
+
+25
+1 (5) A provision stating that the season for the deer hunt for which
+2 a license is awarded under the lottery is the first week of January.
+3 SECTION 56. IC 14-22-12-2 IS REPEALED [EFFECTIVE JULY
+4 1, 2026]. Sec. 2. Except for a license sold under IC 14-22-31-8, the
+5 department shall use the following to increase the upland game bird
+6 population in Indiana:
+7 (1) Four dollars ($4) from the cost of every nonresident license to
+8 hunt any game for any period in any manner.
+9 (2) Forty dollars ($40) from the cost of every nonresident license
+10 to hunt deer for any period in any manner.
+11 SECTION 57. IC 14-22-12-3 IS REPEALED [EFFECTIVE JULY
+12 1, 2026]. Sec. 3. The department shall deposit in the fish and wildlife
+13 fund twenty dollars ($20) from the cost of every nonresident license to
+14 hunt deer for any time in any manner. The department shall transfer the
+15 revenue deposited under this section from the fish and wildlife fund to
+16 the deer research and management fund. However, a transfer is not
+17 required if the budget agency finds that it would reduce the balance in
+18 the fish and wildlife fund to less than three million dollars ($3,000,000)
+19 at the end of the state fiscal year.
+20 SECTION 58. IC 14-22-15.5-7 IS REPEALED [EFFECTIVE JULY
+21 1, 2026]. Sec. 7. An individual who acts as a hunting guide without a
+22 hunting guide license in violation of section 2 of this chapter commits
+23 a Class B infraction.
+24 SECTION 59. IC 14-22-16-4, AS AMENDED BY P.L.155-2015,
+25 SECTION 16, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+26 JULY 1, 2026]: Sec. 4. A person desiring to possess in Indiana at one
+27 (1) time more than:
+28 (1) five hundred (500) thousand (5,000) live minnows; or
+29 (2) five hundred (500) thousand (5,000) live crayfish;
+30 not intended for the purpose of engaging in the business of selling or
+31 bartering live minnows or crayfish for bait must procure a permit to
+32 possess the minnows or crayfish.
+33 SECTION 60. IC 14-22-32 IS REPEALED [EFFECTIVE JULY 1,
+34 2026]. (Game Bird and Exotic Mammal Regulation).
+35 SECTION 61. IC 14-22-34-1, AS AMENDED BY P.L.7-2015,
+36 SECTION 40, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+37 JULY 1, 2026]: Sec. 1. (a) As used in this chapter, "endangered
+38 species" means any species or subspecies of wildlife wild animal
+39 whose prospects of survival or recruitment within Indiana are in
+40 jeopardy or are likely within the foreseeable future to become so due
+41 to any of the following factors:
+42 (1) The destruction, drastic modification, or severe curtailment of
+2026 IN 224—LS 6685/DI 150
+
+26
+1 the habitat of the wildlife. wild animal.
+2 (2) The overutilization of the wildlife wild animal for scientific,
+3 commercial, or sporting purposes.
+4 (3) The effect on the wildlife wild animal of disease, pollution,
+5 or predation.
+6 (4) Other natural or manmade factors affecting the prospects of
+7 survival or recruitment within Indiana.
+8 (5) Any combination of the factors described in subdivisions (1)
+9 through (4).
+10 (b) The term includes any species or subspecies of fish and wildlife
+11 wild animals appearing on the United States list of endangered and
+12 threatened wildlife wild animals (50 CFR 17.11).
+13 SECTION 62. IC 14-22-34-3 IS AMENDED TO READ AS
+14 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 3. (a) As used in this
+15 chapter, "management" means the collection and application of
+16 biological information for the purposes of increasing the number of
+17 individuals within species and populations of wildlife wild animals up
+18 to the optimum carrying capacity of their habitat and maintaining those
+19 levels.
+20 (b) The term includes the following:
+21 (1) The entire range of activities that constitute a modern
+22 scientific resource program, including research, census, law
+23 enforcement, habitat acquisition and improvement, and education.
+24 (2) When and where appropriate, the periodic or total protection
+25 of species or populations as well as regulated taking.
+26 SECTION 63. IC 14-22-34-5 IS AMENDED TO READ AS
+27 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 5. As used in this
+28 chapter, "take" means to:
+29 (1) harass, hunt, capture, or kill; or
+30 (2) attempt to harass, hunt, capture, or kill;
+31 wildlife. a wild animal.
+32 SECTION 64. IC 14-22-34-6 IS REPEALED [EFFECTIVE JULY
+33 1, 2026]. Sec. 6. As used in this chapter, "wildlife" means:
+34 (1) any wild mammal, bird, reptile, amphibian, fish, mollusk,
+35 crustacean, or other wild animal; or
+36 (2) any part, product, egg or offspring, or the dead body or parts
+37 of the wild animal.
+38 SECTION 65. IC 14-22-34-10 IS AMENDED TO READ AS
+39 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 10. On the basis of:
+40 (1) investigations on nongame species required by section 7 of
+41 this chapter; and
+42 (2) other available scientific and commercial data;
+2026 IN 224—LS 6685/DI 150
+
+27
+1 and after consultation with other state wildlife wild animal agencies,
+2 appropriate federal agencies, and other interested persons and
+3 organizations, the director shall adopt rules to propose a list of those
+4 species and subspecies of wildlife wild animals indigenous to Indiana
+5 that are determined to be endangered in Indiana, giving the common
+6 and scientific names by species and subspecies.
+7 SECTION 66. IC 14-22-34-12 IS AMENDED TO READ AS
+8 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 12. (a) Except as
+9 otherwise provided in this chapter, a person may not take, possess,
+10 transport, export, process, sell or offer for sale, or ship, and a common
+11 or contract carrier may not knowingly transport or receive for shipment
+12 a species or subspecies of wildlife wild animals appearing on any of
+13 the following:
+14 (1) The list of wildlife wild animals indigenous to Indiana
+15 determined to be endangered in Indiana under this chapter.
+16 (2) The United States list of endangered wildlife wild animals
+17 (50 CFR 17.11) as in effect on January 1, 1979.
+18 (3) The list of endangered species developed under section 13 of
+19 this chapter.
+20 (b) A species or subspecies of wildlife wild animals appearing on
+21 a list described in subsection (a) that:
+22 (1) enters Indiana from another state or from a point outside the
+23 territorial limits of the United States; and
+24 (2) is transported across Indiana destined for a point beyond
+25 Indiana;
+26 may be so entered and transported without restriction in accordance
+27 with the terms of a federal permit or permit issued under the laws of
+28 another state.
+29 (c) A person who:
+30 (1) violates subsection (a) or (b); or
+31 (2) fails to procure or violates the terms of a permit issued under:
+32 (A) section 15 of this chapter; or
+33 (B) section 16 of this chapter;
+34 commits a Class A misdemeanor.
+35 SECTION 67. IC 14-22-34-15 IS AMENDED TO READ AS
+36 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 15. The director may
+37 permit, under the terms and conditions that are prescribed by rule, the
+38 taking, possession, transportation, exportation, or shipment of species
+39 or subspecies of wildlife wild animals that have been designated by
+40 rule as in need of management or appear on the:
+41 (1) state list of endangered species;
+42 (2) United States list of endangered native fish and wildlife, as
+2026 IN 224—LS 6685/DI 150
+
+28
+1 amended;
+2 (3) list of wildlife wild animals added under section 13 of this
+3 chapter; or
+4 (4) United States list of endangered foreign fish and wildlife, wild
+5 animals, as modified after July 26, 1973;
+6 for scientific, zoological, or educational purposes, for propagation in
+7 captivity of the wildlife, wild animals, or for other special purposes.
+8 SECTION 68. IC 14-22-34-18 IS AMENDED TO READ AS
+9 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 18. The provisions of
+10 this chapter prohibiting the taking, possessing, transportation,
+11 exporting, processing, sale, or offer to sell do not apply to wildlife wild
+12 animals in the possession of a person in Indiana on July 26, 1973.
+13 SECTION 69. IC 14-22-34-19 IS REPEALED [EFFECTIVE JULY
+14 1, 2026]. Sec. 19. The costs of the programs established under this
+15 chapter may not be paid with money dedicated to fish and game
+16 purposes. However, transfers may be made from money dedicated for
+17 fish and game purposes to the nongame fund established under section
+18 20 of this chapter.
+19 SECTION 70. IC 14-22-34-20 IS AMENDED TO READ AS
+20 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 20. (a) The nongame
+21 fund is established as a dedicated fund.
+22 (b) The department shall administer the fund.
+23 (c) In recognition of the importance of preserving the natural
+24 heritage of Indiana, it is the intent of the general assembly to provide
+25 a fund to be used exclusively for the protection, conservation,
+26 management, and identification of nongame and endangered species of
+27 wildlife wild animals primarily through the acquisition of the natural
+28 habitat of the animals. The department may expend the money in the
+29 fund exclusively for the preservation of nongame and endangered
+30 species of wildlife wild animals under this chapter.
+31 (d) Money in the fund does not revert to the state general fund at the
+32 end of a state fiscal year. However, if the fund is abolished, the money
+33 in the fund reverts to the state general fund.
+34 SECTION 71. IC 14-22-34-21 IS REPEALED [EFFECTIVE JULY
+35 1, 2026]. Sec. 21. If the commission establishes entrance fees for
+36 admission to fish and wildlife areas, the fees shall be deposited in the
+37 fund. However, the holder of a hunting or fishing license under this
+38 article may not be charged a fee for admission to fish and wildlife
+39 areas.
+40 SECTION 72. IC 14-23-1-3 IS ADDED TO THE INDIANA CODE
+41 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+42 1, 2026]: Sec. 3. (a) The division of forestry equipment and
+2026 IN 224—LS 6685/DI 150
+
+29
+1 maintenance fund is established as a dedicated fund for the
+2 purpose of defraying the costs of equipment and equipment
+3 maintenance for the division of forestry. The department shall
+4 administer the fund.
+5 (b) The fund consists of the following:
+6 (1) Fifty percent (50%) of the net proceeds from revenue
+7 generated by timber harvests on state forests.
+8 (2) Donations, gifts, grants, and money received from any
+9 other source, including appropriations or transfers from
+10 other funds or accounts.
+11 (3) Investment earnings from any portion of the fund.
+12 (c) The expenses of administering the fund must be paid from
+13 the money in the fund.
+14 (d) The treasurer of state shall invest the money in the fund not
+15 currently needed to meet the obligations of the fund in the same
+16 manner as other public money may be invested.
+17 (e) Money in the fund at the end of the fiscal year does not
+18 revert to the state general fund.
+19 SECTION 73. IC 14-23-6.6-7, AS ADDED BY P.L.124-2025,
+20 SECTION 1, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+21 JULY 1, 2026]: Sec. 7. (a) Subject to subsection (b), a certified
+22 prescribed burn manager who conducts the prescribed burning in
+23 accordance with section 6 of this chapter is immune from civil liability
+24 for harm caused by the:
+25 (1) prescribed burn; or
+26 (2) smoke produced by the prescribed burn.
+27 (b) The immunity described in subsection (a) does not apply if the
+28 harm was the result of the certified prescribed burn manager's:
+29 (1) negligence; or
+30 (2) willful and wanton misconduct.
+31 (c) Subject to subsection (d), a landowner or landowner's agent who
+32 conducts prescribed burning on the landowner's property in accordance
+33 with section 6 of this chapter is immune from civil liability for harm
+34 caused by the:
+35 (1) prescribed burn; or
+36 (2) smoke produced by the prescribed burn.
+37 (d) The immunity described in subsection (c) does not apply if the
+38 harm was the result of the:
+39 (1) negligence of the landowner or the landowner's agent; or
+40 (2) willful and wanton misconduct of the landowner or the
+41 landowner's agent.
+42 (e) The division of forestry's department's officers, agents, and
+2026 IN 224—LS 6685/DI 150
+
+30
+1 employees are immune from civil liability, in accordance with
+2 IC 34-13-3, arising out of any of the following:
+3 (1) Participation in planning, undertaking, or assisting with
+4 prescribed burning.
+5 (2) Administration of the prescribed burn certification program,
+6 including revocation of prescribed burn certifications issued
+7 under the program.
+8 SECTION 74. IC 14-27-7.3-3.5 IS ADDED TO THE INDIANA
+9 CODE AS A NEW SECTION TO READ AS FOLLOWS
+10 [EFFECTIVE JULY 1, 2026]: Sec. 3.5. (a) If the condition of a
+11 structure regulated by this chapter becomes so dangerous to the
+12 safety of life or property that the department determines there is
+13 not sufficient time to issue and enforce an order to:
+14 (1) maintain;
+15 (2) alter;
+16 (3) repair;
+17 (4) reconstruct;
+18 (5) change the construction or location; or
+19 (6) remove the structure;
+20 in the manner required by this chapter, then the department may
+21 immediately take the measures necessary to provide emergency
+22 protection to life or property, or both, including the partial or
+23 complete removal of the structure.
+24 (b) The department may recover the cost of the emergency
+25 measures taken under this section from the owner of the structure
+26 by appropriate legal action.
+27 SECTION 75. IC 14-30-3-16 IS AMENDED TO READ AS
+28 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 16. (a) The
+29 commission, in coordination with the department, shall keep a
+30 record of the commission's resolutions, transactions, and findings. This
+31 record is a public record.
+32 (b) The commission may adopt rules for the transaction of business.
+33 SECTION 76. IC 14-30.5-2-2, AS AMENDED BY P.L.92-2025,
+34 SECTION 50, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 2. (a) If one (1) county executive submits an
+36 ordinance and a written request for recognition of a proposed
+37 watershed development commission under section 1(c) of this chapter,
+38 the natural resources commission shall decide under subsections (c)
+39 through (e) whether to recognize the proposed commission.
+40 (b) If the county executives of two (2) or more counties submit
+41 ordinances and written requests under section 1(c) of this chapter for
+42 recognition of a single proposed watershed development commission
+2026 IN 224—LS 6685/DI 150
+
+31
+1 empowered to act in a single designated watershed that includes areas
+2 within both or all of the counties:
+3 (1) the natural resources commission may not decide whether to
+4 recognize the proposed commission unless the provisions of the
+5 ordinances submitted under section 1(c)(1) of this chapter are
+6 essentially identical in:
+7 (A) identifying the designated watershed; and
+8 (B) stating the purposes of the proposed commission; and
+9 (2) if the natural resources commission determines that the
+10 requirement set forth in subdivision (1) is met, the natural
+11 resources commission shall decide under subsections (c) through
+12 (e) whether to recognize the proposed commission.
+13 (c) Before making a decision whether to recognize a proposed
+14 commission under this section, the division of water, on behalf of the
+15 natural resources commission, shall hold at least one (1) public hearing
+16 concerning the proposed commission in each county whose executive
+17 submitted an ordinance and a written request for recognition of the
+18 proposed commission under section 1(c) of this chapter. Any interested
+19 person attending a public hearing held under this subsection shall have
+20 the right to:
+21 (1) address the natural resources commission; and
+22 (2) provide written comments;
+23 on whether the proposed commission should be established. The
+24 division of water, on behalf of the natural resources commission, may
+25 convene the meeting, record the testimony given, and receive the
+26 written comments provided.
+27 (d) The division of water, on behalf of the natural resources
+28 commission, shall give notice of a public hearing to be held under
+29 subsection (c):
+30 (1) by publication at least one (1) time in one (1) newspaper of
+31 general circulation in the county in which the hearing will be
+32 held; and
+33 (2) through the website of the natural resources commission.
+34 (e) In deciding whether to recognize a proposed commission, the
+35 natural resources commission shall determine the answer to each of the
+36 following questions:
+37 (1) Are the purposes for which the proposed commission would
+38 be established, as set forth in the ordinance or ordinances under
+39 section 1(b)(3) of this chapter, within the purposes set forth in
+40 IC 14-30.5-3-1 for which a watershed development commission
+41 may be established?
+42 (2) Do the purposes of the proposed commission, as set forth in
+2026 IN 224—LS 6685/DI 150
+
+32
+1 the ordinance or ordinances under section 1(b)(3) of this chapter,
+2 correspond to legitimate flood damage reduction, drainage, storm
+3 water management, recreation, or water infrastructure needs of
+4 each county seeking establishment of the commission, as set forth
+5 under section 1(b)(4) of this chapter?
+6 (3) Is it reasonable to expect that the establishment of a
+7 commission having powers under this article only in the county
+8 or counties from which the ordinance or ordinances were
+9 submitted under section 1(c)(1) of this chapter would effectively
+10 address the flood damage reduction, drainage, storm water
+11 management, recreation, or water infrastructure needs of each
+12 county that submitted an ordinance under section 1(c)(1) of this
+13 chapter?
+14 (4) Is it reasonable to expect that the establishment of a
+15 commission that has powers under this article only in the area or
+16 areas inside the geographic boundaries of the designated
+17 watershed would effectively address the flood damage reduction,
+18 drainage, storm water management, recreation, or water
+19 infrastructure needs of each county that submitted an ordinance
+20 under section 1(c)(1) of this chapter?
+21 (5) Is the territory of the proposed commission at least as large as
+22 the entirety of the same eight (8) digit U.S. Geological Survey
+23 hydrologic unit code?
+24 (6) Has a regional watershed study or watershed management
+25 plan been conducted in consultation with the Indiana finance
+26 authority and the department of natural resources that assesses
+27 water use, water quality, drinking water systems, wastewater
+28 management systems, storm water management, flood control,
+29 drainage management, recreational uses, natural resources, and
+30 water infrastructure needs of the watershed of the proposed
+31 commission? If so, can the establishment of the proposed
+32 commission be expected to address the needs identified in that
+33 study or management plan?
+34 (f) If:
+35 (1) one (1) county's executive submits an ordinance and a request
+36 for recognition of a proposed commission under section 1(c) of
+37 this chapter; and
+38 (2) the natural resources commission answers all of the questions
+39 set forth in subsection (e) favorably;
+40 the natural resources commission shall issue an order recognizing the
+41 watershed development commission and recognizing the county
+42 referred to in subdivision (1) as a member of the watershed
+2026 IN 224—LS 6685/DI 150
+
+33
+1 development commission.
+2 (g) If:
+3 (1) executives of two (2) or more counties submit ordinances and
+4 requests for recognition of a proposed watershed development
+5 commission under section 1(c) of this chapter; and
+6 (2) the natural resources commission answers all of the questions
+7 set forth in subsection (e) favorably with respect to at least one (1)
+8 of the counties;
+9 the natural resources commission shall issue an order recognizing the
+10 watershed development commission and recognizing as a member of
+11 the watershed development commission each county with respect to
+12 which the natural resources commission answered all of the questions
+13 set forth in subsection (e) favorably.
+14 (h) If the natural resources commission does not answer all of the
+15 questions set forth in subsection (e) favorably with respect to a county,
+16 the natural resources commission shall:
+17 (1) inform the executive of the county in writing of its decision;
+18 and
+19 (2) specify in the writing the reason or reasons for each
+20 unfavorable answer.
+21 (i) The action of the natural resources commission under this section
+22 in declining to recognize a proposed watershed development
+23 commission for a particular watershed does not preclude the later
+24 submission of one (1) or more new ordinances and written requests for
+25 recognition of a proposed watershed development commission for the
+26 same designated watershed.
+27 (j) An action of the natural resources commission under this section
+28 declining to recognize a particular county as a member of a watershed
+29 development commission does not preclude the later submission of:
+30 (1) another ordinance and written request under section 1(c) of
+31 this chapter for recognition of the county as a member of another
+32 proposed watershed development commission; or
+33 (2) an ordinance and written request under section 4 or 5 of this
+34 chapter proposing the county for membership in an established
+35 watershed development commission.
+36 SECTION 77. IC 14-30.5-2-6, AS AMENDED BY P.L.92-2025,
+37 SECTION 51, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+38 JULY 1, 2026]: Sec. 6. (a) A county to which section 4 or 5 of this
+39 chapter applies may not become a member of an existing watershed
+40 development commission unless:
+41 (1) the executives of all of the counties that are members of the
+42 existing commission adopt ordinances accepting the county as a
+2026 IN 224—LS 6685/DI 150
+
+34
+1 member county of the existing commission; and
+2 (2) the natural resources commission issues an order under this
+3 section recognizing the county as a member county of the existing
+4 commission.
+5 (b) Before making a decision whether to recognize a county as a
+6 member county of an existing commission under this section, the
+7 natural resources commission shall hold at least one (1) public hearing
+8 in the county concerning the proposed membership of the county in the
+9 existing commission. Any interested person attending a public hearing
+10 held under this subsection shall have the right to:
+11 (1) address the natural resources commission; and
+12 (2) provide written comments;
+13 concerning the proposed membership of the county in the existing
+14 commission. The division of water, on behalf of the natural resources
+15 commission, may convene the meeting, record the testimony given, and
+16 receive the written comments provided.
+17 (c) The division of water, on behalf of the natural resources
+18 commission, shall give notice of a public hearing to be held under
+19 subsection (b):
+20 (1) by publication at least one (1) time in one (1) newspaper of
+21 general circulation in the county in which the hearing will be
+22 held; and
+23 (2) through the website of the natural resources commission.
+24 (d) In deciding whether to recognize a county to which section 4 or
+25 5 of this chapter applies as a member of an existing commission, the
+26 natural resources commission shall determine the answer to each of the
+27 following questions:
+28 (1) Do the stated purposes for which the watershed development
+29 commission was established correspond to the flood damage
+30 reduction, drainage, storm water management, recreation, or
+31 water infrastructure needs of the county, as stated under section
+32 4(b)(3) or 5(b)(3) of this chapter?
+33 (2) Is it reasonable to expect that the county's flood damage
+34 reduction, drainage, storm water management, recreation, or
+35 water infrastructure needs, as stated under section 4(b)(3) or
+36 5(b)(3) of this chapter, would be addressed more effectively if the
+37 county were a member of the existing commission than those
+38 needs have previously been addressed?
+39 (3) Would the county's membership in the existing commission
+40 diminish the effectiveness of the existing watershed development
+41 commission in addressing the flood damage reduction, drainage,
+42 storm water management, recreation, or water infrastructure
+2026 IN 224—LS 6685/DI 150
+
+35
+1 needs of other member counties?
+2 (4) Is the territory of the proposed commission at least as large as
+3 the entirety of the same eight (8) digit U.S. Geological Survey
+4 hydrologic unit code?
+5 (5) Has a regional watershed study or watershed management
+6 plan been conducted in consultation with Indiana finance
+7 authority and the department of natural resources that assesses
+8 water use, water quality, drinking water systems, wastewater
+9 management systems, storm water management, flood control,
+10 drainage management, recreational uses, natural resources, and
+11 water infrastructure needs of the watershed of the proposed
+12 commission? If so, can the establishment of the proposed
+13 commission be expected to address the needs identified in that
+14 study or management plan?
+15 (e) If the natural resources commission answers all of the questions
+16 set forth in subsection (d) favorably, the natural resources commission
+17 shall issue an order recognizing the membership of the county in the
+18 existing commission.
+19 (f) If the natural resources commission does not answer all of the
+20 questions set forth in subsection (d) favorably, the natural resources
+21 commission shall inform the executive of the county to which section
+22 4 or 5 of this chapter applies in writing of its decision and specify in the
+23 writing the reason or reasons for each unfavorable answer.
+24 (g) An action of the natural resources commission under this section
+25 declining to recognize a county as a member of an established
+26 watershed development commission does not preclude the later
+27 submission of another ordinance under section 4 or 5 of this chapter
+28 seeking membership for the county in an existing commission.
+29 SECTION 78. IC 14-31-3-4 IS REPEALED [EFFECTIVE JULY 1,
+30 2026]. Sec. 4. As used in this chapter, "harvest season" means the
+31 season established by the commission under section 14(b)(1) of this
+32 chapter.
+33 SECTION 79. IC 14-31-3-4.5 IS ADDED TO THE INDIANA
+34 CODE AS A NEW SECTION TO READ AS FOLLOWS
+35 [EFFECTIVE JULY 1, 2026]: Sec. 4.5. As used in this chapter,
+36 "licensee" refers to a person issued any of the following valid
+37 licenses under this chapter:
+38 (1) A ginseng dealer license.
+39 (2) A ginseng harvester license.
+40 SECTION 80. IC 14-31-3-5.5 IS ADDED TO THE INDIANA
+41 CODE AS A NEW SECTION TO READ AS FOLLOWS
+42 [EFFECTIVE JULY 1, 2026]: Sec. 5.5. As used in this chapter,
+2026 IN 224—LS 6685/DI 150
+
+36
+1 "valid license" refers to a license that:
+2 (1) is issued by the department; and
+3 (2) has not been suspended or revoked under section 11 of this
+4 chapter.
+5 SECTION 81. IC 14-31-3-7 IS AMENDED TO READ AS
+6 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 7. (a) A person may
+7 not harvest, buy, or sell ginseng in Indiana without the proper
+8 license issued by the department under section 8 of this chapter.
+9 (b) A person must have be issued a valid license issued by the
+10 department during the current selling season to be a ginseng dealer
+11 in Indiana.
+12 (c) A person must be issued a valid license during the current
+13 harvest season to be a ginseng havester in Indiana.
+14 SECTION 82. IC 14-31-3-8 IS AMENDED TO READ AS
+15 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 8. (a) To obtain a
+16 ginseng:
+17 (1) dealer's license, a person must: do the following:
+18 (1) (A) apply to the department for the license in the manner
+19 prescribed by the department; and
+20 (2) (B) pay a license fee of one two hundred dollars ($100)
+21 ($200) before August 15 August 30 of each year; or
+22 (2) harvester's license, a person must apply to the department
+23 for the license in the manner prescribed by the department.
+24 There is no cost for a license issued by the department under
+25 subdivision (2).
+26 (b) A ginseng dealer's license issued under subsection (a) is
+27 effective September 1 of each year and expires annually on August
+28 31 of the following calendar year.
+29 (c) A ginseng harvester shall obtain written authorization from
+30 a real property owner to harvest ginseng on the owner's real
+31 property. Written authorization under this subsection must include
+32 the:
+33 (1) name, address, telephone number, and signature of the
+34 real property owner; and
+35 (2) start and end date the ginseng harvester is authorized to
+36 harvest ginseng on the real property.
+37 Unless the end date of the written authorization specifies otherwise,
+38 the department must assume the end date of the authorization is
+39 the end of the current harvest season.
+40 (d) A ginseng harvester shall provide the written authorization
+41 required under subsection (c) to the department upon request.
+42 (e) Not later than ten (10) calendar days after each quarter, a
+2026 IN 224—LS 6685/DI 150
+
+37
+1 ginseng dealer must submit all records regarding ginseng bought
+2 and sold for the quarter to the department via the ginseng portal.
+3 (f) Not later than thirty (30) calendar days after the last day of
+4 a selling season, a ginseng dealer must submit to the department
+5 via the online ginseng portal a summary of all ginseng bought and
+6 sold by the ginseng dealer during the selling season. The summary
+7 must also contain the following information in the manner
+8 required by the department:
+9 (1) The name, address, and license number of each person
+10 who bought ginseng from the dealer or sold ginseng to the
+11 dealer.
+12 (2) The type, weight, and condition of the ginseng, wild
+13 simulated or artificially propagated, that was bought or sold.
+14 (3) The number and date of shipments and the county from
+15 which ginseng is taken by a harvester.
+16 SECTION 83. IC 14-31-3-9 IS AMENDED TO READ AS
+17 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 9. (a) As used in this
+18 section, "selling season" means the season established by the
+19 commission under section 14(b)(2) of this chapter. The selling season
+20 for ginseng begins September 1 each year and ends March 31 of the
+21 following calendar year.
+22 (b) Each ginseng dealer shall submit a summary of all ginseng
+23 purchased and sold by the ginseng dealer during the selling season to
+24 the department within thirty (30) days of the last day of the selling
+25 season. The summary must also contain other information and be
+26 prepared in the manner required by the department by rule. Except as
+27 otherwise provided under this section, a person may not buy or sell
+28 ginseng except during the selling season under subsection (a).
+29 (c) A ginseng dealer must receive a certification from the
+30 department under this section to ship ginseng for the first time to
+31 the following:
+32 (1) Another ginseng dealer.
+33 (2) A ginseng exporter.
+34 (3) For export from the ginseng dealer.
+35 (d) A ginseng dealer may retain ginseng for sale that is lawfully
+36 acquired during the selling season under subsection (a) if the
+37 ginseng dealer obtains from the department a certificate of ginseng
+38 shipment issued within the same selling season as the transaction
+39 took place.
+40 (e) A ginseng dealer must complete a certificate of ginseng
+41 shipment under subsection (d). The department must:
+42 (1) examine the certificate of ginseng shipment;
+2026 IN 224—LS 6685/DI 150
+
+38
+1 (2) examine the ginseng shipment; and
+2 (3) if approved, certify and date the certificate via the ginseng
+3 portal.
+4 (f) The three (3) certificates of ginseng shipment must be
+5 retained as follows:
+6 (1) One (1) copy must be retained by the department.
+7 (2) One (1) copy must accompany the ginseng shipment.
+8 (3) One (1) copy must be retained by the ginseng dealer for
+9 the ginseng dealer's records.
+10 SECTION 84. IC 14-31-3-10 IS AMENDED TO READ AS
+11 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 10. (a) Wild ginseng
+12 may not be harvested except during the harvest season.
+13 (b) Ginseng harvested in Indiana may not be possessed by a ginseng
+14 harvester during the part of a year established under section 14(b)(3)
+15 of this chapter, after the selling season unless the department gives
+16 written authorization. otherwise.
+17 (c) Ginseng harvested in Indiana may not be bought, sold, or
+18 possessed by a ginseng dealer during the part of a year established
+19 under section 14(b)(4) of this chapter, unless the department gives
+20 written authorization otherwise.
+21 (d) (c) Ginseng that is harvested in Indiana may not be taken from
+22 Indiana without written authorization from the department.
+23 (d) A ginseng dealer must maintain true and complete records
+24 of the ginseng dealer's purchases and sales of ginseng. The
+25 department may, at a reasonable time, inspect the:
+26 (1) records; and
+27 (2) business premises;
+28 of the ginseng dealer.
+29 (e) A ginseng dealer or ginseng harvester may not misrepresent
+30 in:
+31 (1) a report;
+32 (2) a log;
+33 (3) a certificate; or
+34 (4) any other record required under this chapter;
+35 that a substance is ginseng if the ginseng dealer or ginseng
+36 harvester knows, or reasonably should know, that all or a portion
+37 of the substance is a substance other than ginseng.
+38 (f) A ginseng dealer or ginseng harvester may not knowingly
+39 include false or incorrect information in:
+40 (1) a document;
+41 (2) a log;
+42 (3) a certificate; or
+2026 IN 224—LS 6685/DI 150
+
+39
+1 (4) any other record required under this chapter.
+2 If a ginseng dealer or ginseng harvester determines that
+3 information under this subsection is incorrect, the ginseng dealer
+4 shall immediately inform the department of the correct
+5 information.
+6 SECTION 85. IC 14-31-3-11, AS AMENDED BY P.L.92-2025,
+7 SECTION 52, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 JULY 1, 2026]: Sec. 11. (a) The department may suspend or revoke
+9 a license issued under this chapter if the licensee:
+10 (1) violates any provision of this chapter;
+11 (2) fails to report the records required under this chapter in
+12 the manner specified by the department;
+13 (3) fails to submit the information required to be submitted to
+14 the department:
+15 (A) quarterly; or
+16 (B) annually;
+17 (4) has a suspended or revoked license to harvest or deal
+18 ginseng in another state; or
+19 (5) is prohibited from harvesting or dealing ginseng in
+20 another state or any reason.
+21 (a) (b) The department may revoke or suspend the license of a
+22 person who violates this chapter. All proceedings under this chapter to
+23 revoke or suspend a license are subject to IC 4-21.5. chapter for:
+24 (1) any period of time for which the license was issued; or
+25 (2) a period not longer than five (5) years.
+26 (b) If a court determines that a person has violated this chapter, the
+27 court may, in addition to any other penalty, do the following:
+28 (1) Suspend or revoke the license of the person for any period of
+29 time for which the license was issued.
+30 (2) Order that a license not be issued to the person for a period not
+31 longer than five (5) years.
+32 SECTION 86. IC 14-31-3-12 IS AMENDED TO READ AS
+33 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 12. (a) The following
+34 definitions apply throughout this section:
+35 (1) "Internode" means a section containing a stem scar.
+36 (2) "Prong" means a true compound leaf, including five (5)
+37 leaflets that consist of three (3) large leaflets and two (2) small
+38 leaflets.
+39 (b) The department may carry out scientific research on for ginseng
+40 to determine the following:
+41 (1) The distribution and abundance of ginseng throughout
+42 Indiana.
+2026 IN 224—LS 6685/DI 150
+
+40
+1 (2) The effects of current and future harvesting and cultivation
+2 practices on the survival of ginseng in Indiana.
+3 (c) The ginseng harvest season begins September 1 and ends
+4 December 31 of each year.
+5 (d) A person may not harvest or possess harvested wild ginseng
+6 unless the:
+7 (1) person is issued a valid license to harvest ginseng;
+8 (2) ginseng is harvested only during the harvest season; and
+9 (3) ginseng plant to be harvested meets the following
+10 conditions:
+11 (A) Each individual ginseng plant demonstrates at least
+12 one (1) of the following:
+13 (i) At least three (3) prongs and a flowering or fruiting
+14 stalk. Except as provided in clause (B), the entire stalk
+15 and leaves must be retained with the plant until the plant
+16 is taken to the ginseng harvester's residence or place of
+17 business.
+18 (ii) At least four (4) internodes on the rhizome.
+19 (B) Mature fruits and any seeds from a harvested plant
+20 must be planted in the vicinity where the ginseng plant is
+21 taken in a manner that encourages the germination and
+22 growth of new plants.
+23 SECTION 87. IC 14-31-3-13 IS REPEALED [EFFECTIVE JULY
+24 1, 2026]. Sec. 13. The department may establish ginseng harvesting
+25 quotas based on the results of research and data collection.
+26 SECTION 88. IC 14-31-3-14 IS AMENDED TO READ AS
+27 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 14. (a) The department
+28 may adopt rules under IC 4-22-2 that are necessary to carry out to
+29 implement this chapter.
+30 (b) The commission shall adopt rules under IC 4-22-2 to do the
+31 following:
+32 (1) Establish the harvest season.
+33 (2) Establish the selling season.
+34 (3) Establish the part of a year when ginseng harvested in Indiana
+35 may not be possessed by a ginseng harvester without written
+36 authorization from the department.
+37 (4) Establish the part of a year when ginseng harvested in Indiana
+38 may not be bought, sold, or possessed by a ginseng dealer without
+39 written authorization from the department.
+40 (b) Information contained in the ginseng portal concerning
+41 trade secrets or privileged commercial or financial information
+42 relating to the competitive rights of the person or entity intending
+2026 IN 224—LS 6685/DI 150
+
+41
+1 to explore the described area that is submitted to the director
+2 under this chapter is confidential and not available for public
+3 examination.
+4 SECTION 89. IC 14-31-3-15, AS AMENDED BY P.L.111-2016,
+5 SECTION 40, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+6 JULY 1, 2026]: Sec. 15. A ginseng dealer person who harvests, buys,
+7 or sells ginseng without a valid license issued under section 8 of this
+8 chapter, or who otherwise violates this chapter commits:
+9 (1) purchases or sells ginseng for resale or exportation without a
+10 license; or
+11 (2) obtains a license because of a false or an incorrect statement;
+12 commits
+13 (1) a Class C misdemeanor for a first offense;
+14 (2) a Class B misdemeanor for a second offense; or
+15 (3) a Class A misdemeanor for a third offense and each
+16 subsequent offense.
+17 SECTION 90. IC 14-31-3-16 IS REPEALED [EFFECTIVE JULY
+18 1, 2026]. Sec. 16. A person who harvests ginseng out of a harvest
+19 season in violation of section 10 of this chapter commits a Class B
+20 misdemeanor.
+21 SECTION 91. IC 14-31-3-17 IS REPEALED [EFFECTIVE JULY
+22 1, 2026]. Sec. 17. A person who possesses unprocessed ginseng out of
+23 a harvest season in violation of section 10 of this chapter commits a
+24 Class B misdemeanor.
+25 SECTION 92. IC 14-31-3-18 IS REPEALED [EFFECTIVE JULY
+26 1, 2026]. Sec. 18. A person who harvests ginseng in an amount greater
+27 than a quota established under section 13 of this chapter commits a
+28 Class B infraction.
+29 SECTION 93. IC 14-31-3-19 IS REPEALED [EFFECTIVE JULY
+30 1, 2026]. Sec. 19. A ginseng dealer who buys, sells, or possesses
+31 ginseng in violation of section 10 of this chapter commits a Class B
+32 misdemeanor.
+33 SECTION 94. IC 14-31-3-20 IS REPEALED [EFFECTIVE JULY
+34 1, 2026]. Sec. 20. A person who, without written authorization from the
+35 department, takes or sends from Indiana ginseng that is harvested in
+36 Indiana in violation of section 9 of this chapter commits a Class A
+37 misdemeanor.
+38 SECTION 95. IC 14-31-3-21 IS REPEALED [EFFECTIVE JULY
+39 1, 2026]. Sec. 21. A person who knowingly or intentionally:
+40 (1) takes or sends from Indiana ginseng that was harvested in
+41 another state for export from the United States; or
+42 (2) receives ginseng that was harvested in another state for export
+2026 IN 224—LS 6685/DI 150
+
+42
+1 from the United States;
+2 without written authorization to export the ginseng under the laws of
+3 the state in which the ginseng was harvested commits a Class A
+4 misdemeanor.
+5 SECTION 96. IC 14-33-1-1 IS AMENDED TO READ AS
+6 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) A conservancy
+7 district may be established for any of the following purposes:
+8 (1) Flood prevention and control.
+9 (2) Improving drainage.
+10 (3) Providing for irrigation.
+11 (4) Providing water supply, including treatment and distribution,
+12 for domestic, industrial, and public use.
+13 (5) Providing for the collection, treatment, and disposal of sewage
+14 and other liquid wastes.
+15 (6) Developing forests, wildlife areas, parks, and recreational
+16 facilities if feasible in connection with beneficial water
+17 management.
+18 (7) Preventing the loss of topsoil from injurious water erosion.
+19 (8) Storage of water for augmentation of stream flow.
+20 (9) Operation, maintenance, and improvement of:
+21 (A) a work of improvement for water based recreational
+22 purposes; or
+23 (B) other work of improvement that could have been built for
+24 any other purpose authorized by this section.
+25 (10) Improve water quality.
+26 (b) These purposes may be accomplished by cooperating with
+27 federal and state agencies whose programs are designed to accomplish
+28 any of the purposes of the district.
+29 SECTION 97. IC 14-33-2-19 IS AMENDED TO READ AS
+30 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 19. (a) In determining
+31 the facts, the division of water, on behalf of the commission, shall do
+32 the following:
+33 (1) Hold hearings at which the commission division of water
+34 shall give any interested person the right to be heard.
+35 (2) At the request of an interested person, the commission shall
+36 hold hearings at the county seat of a county containing land in the
+37 proposed district.
+38 (3) The commission shall Choose the county seat.
+39 (b) The commission division of water shall give notice of the
+40 hearings by publication at least one (1) time in one (1) newspaper of
+41 general circulation in each county containing land in the proposed
+42 district.
+2026 IN 224—LS 6685/DI 150
+
+43
+1 SECTION 98. IC 14-33-2-22 IS AMENDED TO READ AS
+2 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 22. The commission,
+3 in coordination with the department, shall make a report of the
+4 commission's findings to the court, including findings on the territorial
+5 limits of the proposed district. The commission shall make this report
+6 within one hundred twenty (120) days after the petition is referred to
+7 the commission, unless the commission requests and receives approval
+8 from the court for additional periods of thirty (30) days each.
+9 SECTION 99. IC 14-38-1-13, AS AMENDED BY P.L.118-2009,
+10 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+11 JULY 1, 2026]: Sec. 13. (a) All proceeds derived:
+12 (1) from or by virtue or by reason of a permit or lease executed or
+13 issued under this chapter; or
+14 (2) from or by reason of any operations under this chapter;
+15 shall, after deducting all costs incurred by the department, be paid to
+16 the treasurer of state for the use of the division of the department
+17 having the custody, control, possession, or authority of or over the real
+18 property involved.
+19 (b) Except as provided in subsection (c), the proceeds shall be
+20 deposited in the proper fund of the appropriate division of the
+21 department.
+22 (c) Except as provided in subsection (d), the proceeds from royalties
+23 or other compensation paid for minerals taken from beneath the
+24 navigable waters of the state shall be deposited in the state general
+25 fund.
+26 (d) The proceeds from royalties or other compensation paid for
+27 minerals taken from beneath the navigable waters of the Wabash River
+28 (as defined in IC 14-13-6-4) shall must be deposited as follows:
+29 (1) Twenty percent (20%) in the Wabash River heritage corridor
+30 fund established by IC 14-13-6-23.
+31 (2) Eighty percent (80%) in the oil and gas fund established
+32 by IC 6-8-1-27.
+33 SECTION 100. IC 25-36.5-1-3, AS AMENDED BY P.L.155-2015,
+34 SECTION 27, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+35 JULY 1, 2026]: Sec. 3. (a) Every person registered as a timber buyer
+36 shall file with the department an effective surety bond issued by a
+37 corporate surety authorized to engage in the business of executing
+38 surety bonds in Indiana.
+39 (b) Instead of the bond required by subsection (a), the department
+40 may accept security in cash or a certificate of deposit under terms
+41 established by rule.
+42 (c) The security required under subsection (a) or (b) shall be made
+2026 IN 224—LS 6685/DI 150
+
+44
+1 payable upon demand to the director, subject to this chapter, for the use
+2 and benefit of the people of Indiana and for the use and benefit of any
+3 timber grower from whom the applicant purchased and who is not paid
+4 by the applicant or for the use and benefit of any timber grower whose
+5 timber has been cut by the applicant or registrant or the applicant's or
+6 registrant's agents, and who has not been paid for the timber.
+7 (d) The security required under subsection (a) or (b) shall be in the
+8 principal amount of five thousand dollars ($5,000) for an applicant who
+9 paid timber growers ten thousand dollars ($10,000) or less for timber
+10 during the immediate preceding year, and an additional one hundred
+11 dollars ($100) for each additional one thousand dollars ($1,000) or
+12 fraction thereof paid to timber growers for timber purchased during the
+13 preceding year. However:
+14 (1) before January 1, 2017, the security required may not be more
+15 than twenty thousand dollars ($20,000); and
+16 (2) after December 31, 2016, the security required may not be
+17 more than fifty thousand dollars ($50,000).
+18 If an applicant has not previously engaged in business as a timber
+19 buyer, the amount of the bond shall be based on the estimated dollar
+20 amount to be paid by the timber buyer to timber growers for timber
+21 purchased during the next succeeding year, as set forth in the
+22 application.
+23 (e) The security required under subsection (a) or (b) shall not be
+24 canceled or altered during the period for which the certificate to the
+25 applicant was issued except upon at least sixty (60) days notice in
+26 writing to the department.
+27 (f) Security shall be in a form and contain the terms and conditions
+28 as may be approved from time to time by the director, be conditioned
+29 to secure an honest cutting and accounting for timber purchased by the
+30 registrant, secure payment to the timber growers, and insure the timber
+31 growers against all fraudulent acts of the registrant in the purchase and
+32 cutting of the timber of this state.
+33 (g) If a timber buyer fails to pay when due any amount due a timber
+34 grower for timber purchased, or fails to pay legally determined
+35 damages for timber wrongfully cut by a timber buyer or the timber
+36 buyer's agent, or commits any violation of this chapter, an adjudicative
+37 proceeding on the bond for forfeiture may be commenced, and notice
+38 of the proceeding shall be provided, under IC 4-21.5-3-6. A surety or
+39 person in possession of the security provided under subsection (a) or
+40 (b) is entitled to notification of the proceeding. If a final agency action
+41 is entered by the department under this subsection against the timber
+42 buyer, the surety or other person in possession of the security shall
+2026 IN 224—LS 6685/DI 150
+
+45
+1 deliver the amount of the security identified in the order. A proceeding
+2 for forfeiture of a timber buyer's bond under IC 4-21.5 is the exclusive
+3 remedy under law for the forfeiture of the bond.
+4 (h) An owner of property seeking a preliminary injunction or
+5 restraining order against a person, corporation, or other entity to
+6 prevent or stop the wrongful cutting of timber on the owner's property
+7 is relieved of the requirement to post a bond or other security with the
+8 court as a prerequisite to the issuance of the preliminary injunction or
+9 restraining order. However, this subsection does not apply to a property
+10 owner who seeks a preliminary injunction or restraining order to
+11 prevent or stop alleged wrongful cutting by a timber cutter or timber
+12 buyer with whom the property owner had contracted for the cutting or
+13 sale of timber.
+14 (i) The department may use a bond paid under this section to:
+15 (1) recover the costs of damage associated with the issued
+16 license; or
+17 (2) ensure performance of the contract.
+18 Timber license bonds may be used to meet performance bonding
+19 regarding buying cut logs from the timber lands of the department.
+20 SECTION 101. IC 25-36.5-1-10, AS AMENDED BY P.L.158-2013,
+21 SECTION 292, IS AMENDED TO READ AS FOLLOWS
+22 [EFFECTIVE JULY 1, 2026]: Sec. 10. (a) A person who:
+23 (1) engages in business as a timber buyer without securing a
+24 registration or in violation of this chapter; or
+25 (2) refuses to permit inspection of the person's premises, books,
+26 accounts, or records as provided in this chapter;
+27 commits a Class A misdemeanor. However, the offense is a Level 6
+28 felony if the person has a prior unrelated conviction for an offense
+29 under this section.
+30 (b) A person who violates this chapter shall repay the cost of
+31 damages not covered by the bond paid by the person. If a person
+32 under this subsection does not repay the cost of damages in full, the
+33 person is ineligible to purchase timber from the department for at
+34 least one (1) year.
+35 SECTION 102. IC 25-39-3-5 IS ADDED TO THE INDIANA
+36 CODE AS A NEW SECTION TO READ AS FOLLOWS
+37 [EFFECTIVE JULY 1, 2026]: Sec. 5. (a) An applicant may request
+38 informal review of a failed written or practical examination from
+39 the division of water of the department.
+40 (b) An applicant requesting an informal review under
+41 subsection (a) must submit the request for informal review with the
+42 director of the division of water, or the director's designee, not
+2026 IN 224—LS 6685/DI 150
+
+46
+1 later than the earlier of:
+2 (1) fifteen (15) days after the applicant is notified of the failing
+3 score, if the notification of the failing score includes:
+4 (A) the address of the person to whom the request under
+5 this subsection must be directed; and
+6 (B) a statement that the request for informal review must
+7 be made not later than fifteen (15) days after the applicant
+8 receives the notice; or
+9 (2) ninety (90) days if the applicant is notified of the failing
+10 score, but the notice does not include the information
+11 described in subdivision (1).
+12 SECTION 103. IC 25-39-3-6 IS ADDED TO THE INDIANA
+13 CODE AS A NEW SECTION TO READ AS FOLLOWS
+14 [EFFECTIVE JULY 1, 2026]: Sec. 6. (a) A sponsor of a continuing
+15 education program, or licensee who attends a continuing education
+16 program, may request informal review of a decision by the
+17 department to:
+18 (1) refuse to authorize credits; or
+19 (2) authorize fewer credits than the sponsor or licensee
+20 believes should be authorized.
+21 (b) A person to whom subsection (a) applies must request
+22 informal review under this section before the continuing education
+23 program is presented.
+24 (c) After the informal review under this section, the director, or
+25 the director's designee, may take an action if the department has
+26 sufficient evidence to determine a continuing education program:
+27 (1) includes information significant to the governing statute or
+28 rule that was not previously known to the department; or
+29 (2) provides innovative or specialized instruction to a limited
+30 constituency with extraordinary educational needs that are
+31 likely to enhance the interests protected or promoted by the
+32 governing statute or rule.
+33 SECTION 104. IC 35-52-14-27.8 IS REPEALED [EFFECTIVE
+34 JULY 1, 2026]. Sec. 27.8. IC 14-22-32-2 defines a crime concerning
+35 game birds and exotic mammals.
+36 SECTION 105. IC 35-52-14-39 IS REPEALED [EFFECTIVE JULY
+37 1, 2026]. Sec. 39. IC 14-31-3-16 defines a crime concerning nature
+38 preserves.
+39 SECTION 106. IC 35-52-14-40 IS REPEALED [EFFECTIVE JULY
+40 1, 2026]. Sec. 40. IC 14-31-3-17 defines a crime concerning nature
+41 preserves.
+42 SECTION 107. IC 35-52-14-41 IS REPEALED [EFFECTIVE JULY
+2026 IN 224—LS 6685/DI 150
+
+47
+1 1, 2026]. Sec. 41. IC 14-31-3-19 defines a crime concerning nature
+2 preserves.
+3 SECTION 108. IC 35-52-14-42 IS REPEALED [EFFECTIVE JULY
+4 1, 2026]. Sec. 42. IC 14-31-3-20 defines a crime concerning nature
+5 preserves.
+6 SECTION 109. IC 35-52-14-43 IS REPEALED [EFFECTIVE JULY
+7 1, 2026]. Sec. 43. IC 14-31-3-21 defines a crime concerning nature
+8 preserves.
+2026 IN 224—LS 6685/DI 150

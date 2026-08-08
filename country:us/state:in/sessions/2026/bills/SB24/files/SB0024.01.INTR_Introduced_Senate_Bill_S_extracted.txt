@@ -1,0 +1,727 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 24
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 5-35; IC 34-30-2.1-51.5.
+Synopsis: State administered retirement program. Establishes a board
+to design, establish, and operate a state administered retirement
+program (program) that automatically enrolls specified private sector
+employees. Requires program compliance by certain employers that
+have not, in the previous two calendar years, offered a qualified
+retirement plan to employees. Specifies the powers and duties of the
+board. Specifies program requirements, including default contribution
+levels and program fees. Requires the board to contract with
+investment managers, private financial institutions, or other service
+providers to invest money and administer the program. Limits the
+liability of particular parties associated with the program. Specifies
+board requirements for disclosure, audits, and reports. Requires the
+board to adopt certain rules. Makes an appropriation.
+Effective: July 1, 2026.
+Becker, Glick, Leising
+December 8, 2025, read first time and referred to Committee on Appropriations.
+2026 IN 24—LS 6017/DI 153
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 24
+A BILL FOR AN ACT to amend the Indiana Code concerning state
+and local administration and to make an appropriation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-35 IS ADDED TO THE INDIANA CODE AS A
+2 NEW ARTICLE TO READ AS FOLLOWS [EFFECTIVE JULY 1,
+3 2026]:
+4 ARTICLE 35. HOOSIER CROSSROADS RETIREMENT
+5 PROGRAM
+6 Chapter 1. Definitions
+7 Sec. 1. The definitions in this chapter apply throughout this
+8 article.
+9 Sec. 2. "Board" means the Hoosier crossroads retirement board
+10 established by IC 5-35-2-1.
+11 Sec. 3. "Employee" means an individual who:
+12 (1) is at least eighteen (18) years of age;
+13 (2) is employed by an employer for at least ninety (90) days;
+14 and
+15 (3) earns wages subject to income taxation under IC 6-3.
+16 Sec. 4. "Employer" means a person or entity engaged in a
+17 for-profit or not-for-profit business, industry, profession, trade, or
+2026 IN 24—LS 6017/DI 153
+
+2
+1 other enterprise in Indiana, that:
+2 (1) employed at least five (5) employees at any time during the
+3 previous calendar year;
+4 (2) has been in business for at least one (1) year; and
+5 (3) has not offered, in the previous two (2) calendar years, a
+6 qualified retirement plan to employees, including a plan
+7 qualified under Section 401(a), 401(k), 403(a), 403(b), 408(k),
+8 408(p), or 457(b) of the Internal Revenue Code.
+9 Sec. 5. "Fee" means investment management charges,
+10 administrative charges, investment advice charges, trading fees,
+11 marketing and sales fees, revenue sharing, broker fees, and other
+12 costs necessary to operate the program.
+13 Sec. 6. "Internal Revenue Code" has the meaning set forth in
+14 IC 6-3-1-11.
+15 Sec. 7. "IRA" means a:
+16 (1) Roth individual retirement account authorized under
+17 Section 408A of the Internal Revenue Code; or
+18 (2) traditional individual retirement account.
+19 Sec. 8. "Program" means the Hoosier crossroads retirement
+20 program developed under IC 5-35-3-1.
+21 Sec. 9. "Program administrator" means an entity with which
+22 the board contracts to administer the program.
+23 Sec. 10. "Wages" means compensation (as defined in Section
+24 219(f)(1) of the Internal Revenue Code) received by an employee
+25 from an employer during the calendar year.
+26 Chapter 2. Hoosier Crossroads Retirement Board
+27 Sec. 1. (a) The Hoosier crossroads retirement board is
+28 established within the office of the treasurer of state for the
+29 purpose of establishing and implementing the Hoosier crossroads
+30 retirement program. The board is a body corporate and politic and
+31 is not a state agency. The board is an instrumentality of the state
+32 exercising essential public functions.
+33 (b) The board consists of the following nine (9) voting members:
+34 (1) The treasurer of state or the treasurer of state's designee.
+35 (2) The state comptroller or the state comptroller's designee.
+36 (3) The following seven (7) members appointed by the
+37 governor:
+38 (A) Four (4) members of the public who have expertise in
+39 investment or retirement savings plan administration,
+40 including:
+41 (i) the day to day operations of plans;
+42 (ii) maintaining individual accounts;
+2026 IN 24—LS 6017/DI 153
+
+3
+1 (iii) investing assets in a retirement savings plan; and
+2 (iv) individual financial planning.
+3 Of the members appointed under this clause, at least one
+4 (1) member must be a representative of a federally
+5 chartered bank and at least one (1) member must be a
+6 representative of a state chartered bank.
+7 (B) One (1) member who is a representative of an
+8 association representing employees.
+9 (C) One (1) member who is a representative of small
+10 businesses.
+11 (D) One (1) member who is a representative of the interests
+12 of program participants.
+13 (c) The governor shall appoint board members as soon as
+14 practicable.
+15 (d) A board member appointed by the governor serves a term
+16 of four (4) years that ends on June 30 of the second odd-numbered
+17 year after the year the member's term begins.
+18 Sec. 2. (a) The treasurer of state or the treasurer of state's
+19 designee shall serve as chairperson of the board.
+20 (b) The board shall elect from among its members any other
+21 officers as may be necessary for the board to carry out its duties
+22 and responsibilities.
+23 Sec. 3. (a) The board shall meet at least four (4) times annually.
+24 (b) The chairperson is authorized to call and set the agenda for
+25 each board meeting.
+26 (c) The board may conduct meetings remotely by teleconference
+27 or videoconference. A member who attends a meeting by
+28 teleconference or videoconference may vote on any measure.
+29 Sec. 4. (a) Five (5) of the members of the board constitute a
+30 quorum. A member's remote or in person attendance at a board
+31 meeting counts toward the quorum determination.
+32 (b) Each board member has one (1) vote.
+33 (c) The board may take action consistent with its powers if:
+34 (1) a quorum is present at a board meeting; and
+35 (2) a majority of the members present at the meeting vote in
+36 favor of the action.
+37 Sec. 5. (a) The governor shall fill a vacancy on the board for a
+38 member described in section 1(b)(3) of this chapter in the same
+39 manner as the original appointment. The newly appointed member
+40 serves the balance of the unexpired term.
+41 (b) A vacancy on the board does not impair the right of a
+42 quorum to exercise the powers and duties of the board.
+2026 IN 24—LS 6017/DI 153
+
+4
+1 Sec. 6. (a) Members of the board are not entitled to the
+2 minimum salary per diem provided by IC 4-10-11-2.1(b). Each
+3 member is, however, entitled to reimbursement for mileage and
+4 traveling expenses as provided under IC 4-13-1-4 and other
+5 expenses actually incurred in connection with the member's duties
+6 as provided in the state policies and procedures established by the
+7 Indiana department of administration and approved by the budget
+8 agency. Amounts paid under this section shall be paid from the
+9 fund (as defined in IC 5-35-4-1).
+10 (b) Except as provided in subsection (c), members of the board
+11 shall serve for the duration of the member's term and may be
+12 reappointed.
+13 (c) Members of the board appointed by the governor serve at
+14 the pleasure of the governor. The governor may remove an
+15 appointed member of the board for any of the following:
+16 (1) Neglect of a duty required by law.
+17 (2) Incompetence.
+18 (3) Malfeasance.
+19 (4) Unprofessional conduct.
+20 (5) Conviction of an offense involving the misappropriation of
+21 funds.
+22 Sec. 7. (a) A board member, an individual serving as staff for
+23 the board, and an agent appointed or engaged by the board shall
+24 discharge their duties as fiduciaries with respect to the program
+25 solely in the interest of the employee participants and beneficiaries
+26 as follows:
+27 (1) For the exclusive purpose of providing benefits to
+28 employee participants and defraying reasonable expenses of
+29 administering the program.
+30 (2) By investing with the care, skill, prudence, and diligence
+31 under the circumstances then prevailing that a prudent
+32 person acting in a like capacity and familiar with those
+33 matters would use in the conduct of an enterprise of a like
+34 character and with like aims.
+35 (3) By using any contributions paid by employees and
+36 employers into the program exclusively for:
+37 (A) the purpose of paying benefits to the employee
+38 participants;
+39 (B) the cost of administration of the program; and
+40 (C) investments made for the benefit of the program.
+41 (b) A board member, an individual serving as staff for the
+42 board, and an agent appointed or engaged by the board shall not
+2026 IN 24—LS 6017/DI 153
+
+5
+1 engage in any activities that might result in a conflict of interest
+2 with their duties.
+3 Sec. 8. A board member, a program administrator, and any
+4 other staff of the board shall not do any of the following:
+5 (1) Directly or indirectly have a personal financial interest in
+6 the making of any investment for the program, or in the gains
+7 or profits accruing from any investment made for the
+8 program.
+9 (2) Borrow any funds or deposits in program accounts or the
+10 fund (as defined in IC 5-35-4-1), or use those funds or deposits
+11 in any manner, as an individual or as an agent or partner of
+12 others.
+13 (3) Become an endorser, surety, or obligor on investments
+14 made under the program.
+15 Sec. 9. (a) The board has the following powers and duties:
+16 (1) Establish, implement, and maintain the program.
+17 (2) Adopt rules for the general administration of the program.
+18 (3) Direct the treasurer of state to hire staff to support the
+19 oversight and administration of the program.
+20 (4) Adopt an investment policy statement.
+21 (5) Oversee the investment of the funds contributed to
+22 accounts in the program consistent with the investment
+23 restrictions established by the board.
+24 (6) Collect application, account, or administrative fees to
+25 defray the costs of administering the program.
+26 (7) Explore and, as appropriate, establish incentives to
+27 encourage participation in the program by eligible employers
+28 and eligible employees. The incentives described in this
+29 subdivision must include a grant program for:
+30 (A) incentivizing compliance with the program; and
+31 (B) defraying the costs of the program for small businesses.
+32 (8) Seek and accept gifts, grants, and donations to be used for
+33 the grant program established under subdivision (7) and for
+34 the purposes of this article, unless the gifts, grants, or
+35 donations would result in a conflict of interest relating to the
+36 solicitation of vendors for program administration.
+37 (9) Enter into a contract, agreement, or arrangement for any
+38 of the following services considered necessary or desirable for
+39 carrying out the purposes of this article:
+40 (A) Services of private and public financial institutions,
+41 depositories, consultants, investment advisers, investment
+42 administrators, and third party program administrators.
+2026 IN 24—LS 6017/DI 153
+
+6
+1 (B) Research, technical, and other services.
+2 (C) Services of other state agencies to assist the board in its
+3 duties.
+4 (10) Set fair and just penalties for employers that do not
+5 comply with the requirements of the program and work with
+6 the department of labor to enforce compliance with the
+7 program.
+8 (11) Evaluate the need for the program, program
+9 administration, and board members to have private
+10 insurance, and, if necessary, the procedures that must be
+11 followed concerning private insurance.
+12 (12) Develop and implement an outreach plan to gain input
+13 and disseminate information regarding the program and
+14 retirement savings in general.
+15 (13) Assess the feasibility of multi-state or regional
+16 agreements to administer the program through shared
+17 administrative resources and enter into those agreements if
+18 determined beneficial.
+19 (14) Include financial education as a part of program
+20 implementation to the extent feasible given available
+21 resources.
+22 (15) Make and enter into contracts, agreements, memoranda
+23 of understanding, arrangements, partnerships, or other
+24 arrangements to collaborate, cooperate, coordinate, contract,
+25 or combine resources, investments, or administrative
+26 functions with other governmental entities, including states,
+27 state agencies, or instrumentalities of states that maintain or
+28 are establishing retirement savings programs compatible with
+29 the program. The board may, under the powers and duties
+30 described by this subdivision, permit the collective, common,
+31 or pooled investment of funds held in program accounts with
+32 the funds of other states' programs:
+33 (A) with which the assets of the program are permitted by
+34 law to be collectively invested;
+35 (B) to the extent necessary or desirable for the effective
+36 and efficient design, administration, and implementation
+37 of the program; and
+38 (C) consistent with the purposes set forth in this article,
+39 including the purpose of achieving economies of scale and
+40 other efficiencies designed to minimize costs for the
+41 program and employee participants.
+42 (b) The investment restrictions described in subsection (a)(5)
+2026 IN 24—LS 6017/DI 153
+
+7
+1 must be consistent with the objectives of the program. The board
+2 shall exercise the prevailing judgment and care that persons of
+3 prudence, discretion, and intelligence exercise in the management
+4 of that person's own affairs, with due regard to the probable
+5 income and level of risk from certain types of investments of
+6 money, in accordance with the policies established by the board.
+7 Sec. 10. (a) The board may enter into intergovernmental
+8 agreements with the secretary of state, the department of state
+9 revenue, the department of labor, and any other agency that the
+10 board deems appropriate to provide outreach, technical assistance,
+11 or compliance services for the purposes of this article. An agency
+12 that enters into an intergovernmental agreement with the board
+13 under this section shall collaborate with the board to provide the
+14 outreach, technical assistance, or compliance services to the board.
+15 (b) The board shall coordinate with the efforts of other states as
+16 those states pursue legal guidance for similar retirement savings
+17 programs.
+18 Sec. 11. The board shall design, establish, and operate the
+19 program in a manner that:
+20 (1) accords with best practices for retirement savings vehicles;
+21 (2) maximizes participation, savings, and sound investment
+22 practices;
+23 (3) maximizes simplicity, including ease of administration for
+24 participating employers and employees;
+25 (4) provides an efficient product to employees by pooling
+26 investment funds;
+27 (5) ensures the portability of benefits; and
+28 (6) provides for the decumulation of employee assets in a
+29 manner that maximizes financial security in retirement.
+30 Chapter 3. Retirement Program
+31 Sec. 1. (a) The board shall develop an automatic enrollment
+32 payroll deduction IRA known as the Hoosier crossroads retirement
+33 program.
+34 (b) The program is a defined contribution plan.
+35 (c) The board shall adhere to the requirements under this
+36 chapter in developing the program.
+37 Sec. 2. The board shall design the program to promote greater
+38 retirement savings for private sector employees in a convenient,
+39 low cost, and portable manner. The program must do the
+40 following:
+41 (1) Automatically enroll a private sector employee who works
+42 for an employer on the date the employee becomes eligible to
+2026 IN 24—LS 6017/DI 153
+
+8
+1 participate under section 6 of this chapter.
+2 (2) Automatically enroll employees with a contribution level
+3 of five percent (5%) of the employee's wages. Employees may:
+4 (A) elect not to participate in the program; or
+5 (B) select a different level of contribution.
+6 (3) Pool investment money in the program to achieve cost
+7 savings through efficiencies and economies of scale.
+8 (4) Minimize total annual fees associated with the program.
+9 (5) Ensure the portability of benefits and consider the type of
+10 IRA offered as a way of increasing the portability of benefits.
+11 (6) Ensure that employers in all Indiana industries are
+12 covered by the program and that employees in all Indiana
+13 industries can participate in the program.
+14 (7) Provide for the investment and decumulation of employee
+15 assets in a manner that maximizes financial security in
+16 retirement.
+17 (8) Allow employers that are not covered by the program to
+18 voluntarily participate in the program.
+19 (9) Allow individuals who are not considered employees under
+20 the program but who meet the qualifications to open an IRA
+21 to voluntarily participate in the program.
+22 Sec. 3. (a) The board shall make or enter into contracts with not
+23 more than three (3) investment managers, private financial
+24 institutions, or other service providers to invest money and
+25 administer the program in a manner consistent with the investment
+26 policy statement adopted under IC 5-35-5-6.
+27 (b) If fewer than three (3) entities:
+28 (1) bid to be investment managers; or
+29 (2) meet the qualifications to be an investment manager as
+30 determined by the board;
+31 the program may proceed with fewer than three (3) investment
+32 managers.
+33 Sec. 4. (a) For the first three (3) years of operation of the
+34 program, total annual fees associated with the program may not
+35 exceed one percent (1%) of the total value of the program's assets.
+36 During this three (3) year period, the board shall conduct a study
+37 to decide upon a fee rate that is fair to employers, employees, and
+38 the state.
+39 (b) In the fourth year of the operation of the program and in
+40 each year thereafter, the board shall implement a total annual flat
+41 fee rate from the study conducted under subsection (a). If the flat
+42 fee rate is no longer efficient to the process of the program, the
+2026 IN 24—LS 6017/DI 153
+
+9
+1 board has the authority to readjust the flat fee rate at the
+2 beginning of the board's next term.
+3 Sec. 5. (a) The board shall establish as an investment option a
+4 life cycle fund with a target date based upon the age of the
+5 employee. Except as provided in subsection (d), unless the board
+6 designates by rule a new investment option, the life cycle fund is
+7 the default investment option for employees who do not elect an
+8 investment option.
+9 (b) The board may establish one (1) or more of the following
+10 additional investment options:
+11 (1) A conservative fund.
+12 (2) A growth fund.
+13 (3) A secure return fund.
+14 (4) An annuity fund.
+15 The board shall determine whether to establish any of the
+16 additional investment options based upon an analysis of the cost,
+17 risk profile, benefit level, feasibility, and ease of implementation of
+18 the additional investment options.
+19 (c) The primary objectives of a secure return fund established
+20 under subsection (b) must be the preservation of the safety of
+21 principal and the provision of a stable and low risk rate of return.
+22 If the board elects to establish a secure return fund, the board may
+23 procure any insurance, annuity, or other product to insure the
+24 value of individual accounts. The cost of the insurance, annuity, or
+25 other product must be paid out of the fund (as defined in
+26 IC 5-35-4-1). Notwithstanding IC 5-35-2-7(a), if the board:
+27 (1) elects to establish a secure return fund; and
+28 (2) procures insurance, an annuity, or another product to
+29 insure the value of individual accounts under this subsection;
+30 the board, the program, the fund (as defined in IC 5-35-4-1), the
+31 state, or a participating employer may not assume liability for
+32 investment or actuarial risk under the policy or contract associated
+33 with the insurance, annuity, or other product.
+34 (d) If the board elects to establish a secure return fund under
+35 subsection (b), the board shall determine whether the secure return
+36 fund or life cycle fund will be the default investment option for
+37 employees who do not elect an investment option. In making this
+38 determination, the board shall consider the cost, risk profile,
+39 benefit level, and ease of enrollment in the secure return fund. The
+40 board may at any time thereafter revisit this determination and,
+41 based upon an analysis of the criteria described in this subsection,
+42 establish either the secure return fund or the life cycle fund as the
+2026 IN 24—LS 6017/DI 153
+
+10
+1 default investment option for employees who do not elect an
+2 investment option.
+3 Sec. 6. After December 31, 2027, an employee who:
+4 (1) resides in Indiana; and
+5 (2) is employed by an employer;
+6 is eligible to participate in the program.
+7 Sec. 7. An employer shall comply with all program requirements
+8 under this article.
+9 Sec. 8. An employee who participates in the program is fully
+10 vested at all times in the employee's account under the program.
+11 Sec. 9. (a) The state has no duty and is not liable to any party for
+12 the payment of a retirement savings benefit accrued by an
+13 individual under the program. Any financial liability for the
+14 payment of retirement savings benefits in excess of money
+15 available under the program is borne solely by the entities with
+16 which the board contracts to provide insurance to protect the value
+17 of the program.
+18 (b) A state board, commission, agency, or an officer or employee
+19 of a state board, commission, or agency is not liable for a loss or
+20 deficiency resulting from particular investments selected under
+21 this article.
+22 (c) A participating employer is not liable for:
+23 (1) an employee's decision to participate in or opt out of the
+24 program; or
+25 (2) the investment decisions of the board or of any employee
+26 participants.
+27 (d) A participating employer is not a fiduciary, or considered to
+28 be a fiduciary, over the program. A participating employer does
+29 not bear responsibility for the administration, investment, or
+30 investment performance of the program.
+31 (e) A participating employer is not liable for an error or
+32 omission:
+33 (1) on a disclosure form for the program;
+34 (2) on the program website; or
+35 (3) in information provided by the state concerning the
+36 program.
+37 (f) A participating employer is not liable with regard to:
+38 (1) investment returns under the program;
+39 (2) program design; or
+40 (3) benefits paid to employee participants in the program.
+41 Sec. 10. Money deposited by employee participants in the
+42 program is not property of the state. The program is not a
+2026 IN 24—LS 6017/DI 153
+
+11
+1 department, institution, or agency of the state. An amount on
+2 deposit in the program may not be commingled with state money.
+3 The state has no claim to, claim against, or interest in money on
+4 deposit in the program.
+5 Sec. 11. (a) Before opening the program for enrollment, the
+6 board shall design and disseminate to all employers an employer
+7 information packet and an employee information packet, both of
+8 which must include:
+9 (1) background information on the program;
+10 (2) appropriate disclosures for employees; and
+11 (3) if necessary, information regarding the vendor website.
+12 (b) The board shall establish and maintain a website designed
+13 to make available to employers, employees, and members of the
+14 general public the employee information packet, the employer
+15 information packet, and any other reports, documents, or
+16 information deemed appropriate by the board.
+17 (c) The employee information packet designed by the board
+18 must include a disclosure form. The disclosure form must explain
+19 at least the following:
+20 (1) The benefits and risks associated with making
+21 contributions to the program.
+22 (2) Instructions for making contributions to the program.
+23 (3) Instructions for opting out of the program.
+24 (4) Instructions for participating in the program with a level
+25 of employee contributions other than the default rate.
+26 (5) The process for withdrawing retirement savings in
+27 accordance with the employee's investment type.
+28 (6) How to obtain additional information about the program.
+29 (7) That:
+30 (A) an employee seeking financial advice should work with
+31 the program administrator or contact a financial adviser;
+32 (B) a participating employer is not in a position to provide
+33 financial advice; and
+34 (C) a participating employer is not liable for a decision an
+35 employee makes in connection with the employee's
+36 participation in the program.
+37 (8) That the program is not an employer sponsored retirement
+38 plan.
+39 (9) That the program accounts and rate of return are not
+40 guaranteed by the state.
+41 (10) The possible tax implications of and restrictions on
+42 individual retirement accounts.
+2026 IN 24—LS 6017/DI 153
+
+12
+1 Sec. 12. The board shall adopt rules that do the following:
+2 (1) Allow employers that are exempt under this article to
+3 voluntarily participate in the program.
+4 (2) Extend eligibility to participate in the program to
+5 individuals who are not employees, including unemployed
+6 individuals, self-employed individuals, and other independent
+7 contractors.
+8 (3) Establish the process for enrollment in the program,
+9 including procedures for the automatic enrollment of
+10 employees and for employees to opt out of the program.
+11 (4) Establish the process for withdrawal from program
+12 accounts.
+13 (5) Establish the process for participants to:
+14 (A) make the default contribution of five percent (5%) to
+15 program accounts; and
+16 (B) adjust contribution levels, including a mechanism for
+17 automatic adjustments of contribution levels.
+18 (6) Establish the process for employers to:
+19 (A) withhold employee contributions to program accounts
+20 from employee wages; and
+21 (B) send the contributions withheld under clause (A) to the
+22 program administrator not later than fourteen (14) days
+23 after the contributions are withheld from the employee's
+24 wages.
+25 (7) Establish the process for participants to make nonpayroll
+26 contributions to program accounts.
+27 (8) Set minimum and maximum contribution levels in
+28 accordance with limits established by the Internal Revenue
+29 Code.
+30 (9) Establish the process and requirements for exempting an
+31 employer from offering the program if the employer offers a
+32 qualified retirement plan, including a plan qualified under
+33 Section 401(a), 401(k), 403(a), 403(b), 408(k), 408(p), or 457(b)
+34 of the Internal Revenue Code. The process for exemption
+35 must:
+36 (A) be minimal for an employer; and
+37 (B) allow an employer to become exempt if the employer
+38 enters into legally compliant multiple employer plans.
+39 (10) Establish, in partnership with the department of labor,
+40 the process for enforcing employer compliance with the
+41 program.
+42 (11) Establish fines for employer noncompliance for each
+2026 IN 24—LS 6017/DI 153
+
+13
+1 employee per year who is eligible to participate in the
+2 program, not to exceed an aggregate amount of five thousand
+3 dollars ($5,000) in a calendar year. The rules required by this
+4 subdivision must include the following:
+5 (A) If the board determines that an employer is not in
+6 compliance with this article or rules adopted under this
+7 article, the board shall issue a notice to the employer:
+8 (i) outlining the nature and extent of the alleged
+9 noncompliance;
+10 (ii) providing instructions for compliance; and
+11 (iii) specifying the potential administrative penalties for
+12 noncompliance.
+13 (B) The enforcement of fines may not commence until the
+14 later of:
+15 (i) one (1) year after the program is established; or
+16 (ii) one (1) year after an employer is scheduled to enter
+17 the program.
+18 (C) An employer may be fined not earlier than three (3)
+19 months after the employer has received a notice of
+20 noncompliance under clause (A).
+21 (12) Mandate the content and frequency of required
+22 disclosures to employees, employers, and other program
+23 participants. These disclosures must include the information
+24 described in section 11(c) of this chapter.
+25 (13) Establish the process and requirements for providing
+26 grants to incentivize compliance with the program and defray
+27 costs incurred by small businesses that participate in the
+28 program.
+29 Chapter 4. Hoosier Crossroads Retirement Fund
+30 Sec. 1. For purposes of this chapter, "fund" means the Hoosier
+31 crossroads retirement fund.
+32 Sec. 2. (a) The Hoosier crossroads retirement fund is
+33 established.
+34 (b) The fund consists of the following:
+35 (1) Money appropriated to the fund by the general assembly.
+36 (2) Money transferred to the fund from the federal
+37 government, other state agencies, or local governments.
+38 (3) Money from the payment of:
+39 (A) fees or penalties imposed under this article; or
+40 (B) other money due to the board.
+41 (4) Gifts, grants, or donations made to the board.
+42 (5) Gifts, grants, donations, or investments concerning the
+2026 IN 24—LS 6017/DI 153
+
+14
+1 program received by the treasurer of state.
+2 (c) The treasurer of state shall invest the money in the fund not
+3 currently needed to meet the obligations of the fund in the same
+4 manner as other public money may be invested. Interest that
+5 accrues from these investments must be deposited in the fund.
+6 (d) Unexpended and unencumbered money remaining in the
+7 fund at the end of a state fiscal year does not revert to the state
+8 general fund.
+9 (e) Money in the fund is continuously appropriated to the board
+10 for the purposes of implementing and administering this article.
+11 Chapter 5. Miscellaneous Provisions
+12 Sec. 1. The treasurer of state may, for the costs associated with
+13 the administration of this article, seek, accept, and expend from
+14 private or public sources:
+15 (1) gifts;
+16 (2) grants;
+17 (3) donations; or
+18 (4) investments;
+19 that are not required to be repaid.
+20 Sec. 2. (a) Except as provided in subsections (b) and (c),
+21 individual account information for accounts under the program,
+22 including:
+23 (1) names;
+24 (2) addresses;
+25 (3) telephone numbers;
+26 (4) personal identification information;
+27 (5) amounts contributed; and
+28 (6) earnings on amounts contributed;
+29 is confidential and must be maintained as confidential.
+30 (b) Individual account information may be disclosed to the
+31 extent necessary to administer the program in a manner consistent
+32 with this article, IC 6, and the Internal Revenue Code.
+33 (c) Subsection (a) does not apply if the individual who provides
+34 the information or is the subject of the information expressly
+35 agrees in writing that the information may be disclosed.
+36 Sec. 3. (a) Not later than July 1 of each year, the board shall
+37 submit to the:
+38 (1) governor;
+39 (2) state comptroller; and
+40 (3) members of the:
+41 (A) house committee on ways and means; and
+42 (B) senate committee on appropriations;
+2026 IN 24—LS 6017/DI 153
+
+15
+1 a report detailing the board's activities and the status of the
+2 program. The report to the members of the general assembly must
+3 be in an electronic format under IC 5-14-6.
+4 (b) The report must include at least the following:
+5 (1) Statistics regarding enrollment in the program.
+6 (2) The number of program accounts opened.
+7 (3) The average amount employees are saving through the
+8 program.
+9 (4) Average contribution levels.
+10 (5) A summary of common complaints or concerns about the
+11 program.
+12 (6) Information regarding the administrative costs and fees
+13 associated with the program.
+14 (c) The report must be made available on the program website
+15 not later than January 1 following the date the report is submitted.
+16 Sec. 4. (a) The board shall cause an accurate account of all
+17 activities, operations, receipts, and expenditures to be maintained
+18 in relation to the program and the board.
+19 (b) Each year after the first full fiscal year following program
+20 implementation, a full audit of the books and accounts of the board
+21 pertaining to the activities, operations, receipts, expenditures,
+22 personnel, services, and facilities of the program and the board
+23 shall be conducted by a certified public accountant.
+24 (c) The audit must include the review of direct and indirect costs
+25 attributable to the use of outside consultants, independent
+26 contractors, and any other persons who are not state employees for
+27 the administration of the program.
+28 (d) For purposes of the audit, the board shall allow the auditors
+29 access to the properties and records of the program and board.
+30 The auditors may prescribe methods of accounting and the
+31 rendering of periodic reports in relation to projects undertaken by
+32 the program.
+33 Sec. 5. (a) Not later than twenty (20) days before the convening
+34 of each regular session of the general assembly, the board shall do
+35 the following:
+36 (1) Prepare an annual report.
+37 (2) Submit the annual report to:
+38 (A) the governor; and
+39 (B) the general assembly (in an electronic format under
+40 IC 5-14-6).
+41 (3) Make the annual report available to the public.
+42 (b) The annual report required in subsection (a) must include
+2026 IN 24—LS 6017/DI 153
+
+16
+1 the following:
+2 (1) An audited financial report prepared in accordance with
+3 generally accepted accounting principles, detailing the
+4 activities, operations, receipts, and expenditures of the
+5 program and board during the preceding year.
+6 (2) The progress and accomplishments made by the board
+7 during the preceding year.
+8 (3) Projected activities of the program for the upcoming year.
+9 Sec. 6. (a) The board shall annually prepare and adopt a written
+10 statement of investment policy that includes a risk management
+11 and oversight program.
+12 (b) The investment policy must prohibit the board, program,
+13 and fund (as defined in IC 5-35-4-1) from borrowing for
+14 investment purposes.
+15 (c) The risk management and oversight program must be
+16 designed to ensure that an effective risk management system is in
+17 place to:
+18 (1) monitor the risk levels of the program to ensure that the
+19 risks taken are prudent and properly managed;
+20 (2) provide an integrated process for overall risk
+21 management; and
+22 (3) assess investment returns and risk to determine if the risks
+23 taken are adequately compensated compared to applicable
+24 performance benchmarks and standards.
+25 (d) The board shall hold a public hearing to consider the
+26 statement of investment policy and any changes to the investment
+27 policy.
+28 SECTION 2. IC 34-30-2.1-51.5 IS ADDED TO THE INDIANA
+29 CODE AS A NEW SECTION TO READ AS FOLLOWS
+30 [EFFECTIVE JULY 1, 2026]: Sec. 51.5. IC 5-35-3-9 (Concerning the
+31 Hoosier crossroads retirement program).
+2026 IN 24—LS 6017/DI 153

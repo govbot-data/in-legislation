@@ -1,0 +1,2344 @@
+Title: 
+Official Title: 
+Source: versions - House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+*EH1002.2*
+February 13, 2026
+ENGROSSED
+HOUSE BILL No. 1002
+_____
+DIGEST OF HB 1002 (Updated February 12, 2026 9:39 am - DI 140)
+Citations Affected: IC 4-22; IC 8-1; noncode.
+Synopsis: Electric utility affordability. Requires an electricity supplier,
+other than a municipally owned utility, that is under the jurisdiction of
+the Indiana utility regulatory commission (IURC) to do the following:
+(1) Beginning with the first monthly billing cycle that begins after June
+30, 2026, apply a levelized billing plan (plan) to all active residential
+customer accounts: (A) for service provided under the electricity
+supplier's standard residential tariff to a household that is eligible for
+and has applied for assistance from the state's home energy assistance
+program; and (B) to which a plan does not already apply. (2) Not later
+than April 1, 2026, offer each customer a mechanism by which the
+customer may opt out of a plan at any time without penalty. (3) Not
+later than July 1, 2026, for any plan offered by the electricity supplier
+(Continued next page)
+Effective: Upon passage; July 1, 2026.
+Shonkwiler, Soliday, Pressel, Burton
+(SENATE SPONSORS — KOCH, HUNLEY, FORD J.D.)
+January 8, 2026, read first time and referred to Committee on Utilities, Energy and
+Telecommunications.
+January 22, 2026, amended, reported — Do Pass.
+January 27, 2026, read second time, amended, ordered engrossed.
+January 28, 2026, engrossed. Read third time, passed. Yeas 89, nays 4.
+SENATE ACTION
+February 2, 2026, read first time and referred to Committee on Utilities.
+February 9, 2026, amended, reported favorably — Do Pass; reassigned to Committee on
+Appropriations.
+February 12, 2026, reported favorably — Do Pass.
+EH 1002—LS 7032/DI 101
+
+Digest Continued
+and applied to an active customer account, amend or design the plan so
+that plan's account reconciliation mechanism is applied at such times
+during a calendar year to reflect typical seasonal patterns of electricity
+usage by residential customers, but not more than two times during a
+calendar year. Prohibits an electricity supplier from referring to or
+promoting a levelized billing plan as a "budget billing plan" unless the
+levelized billing plan also provides other specified forms of relief for
+customers. Authorizes the IURC to adopt rules to implement these
+provisions. Amends existing law granting the IURC the authority to
+take certain actions with respect to the rates and services of public
+utilities during emergency circumstances, as judged by the IURC, to
+provide instead that the IURC may recommend that the governor
+declare a disaster emergency or proclaim a state of energy emergency
+during which the IURC may take such actions. Specifies that the
+emergency must result from: (1) a national economic depression; (2)
+an act of war; or (3) a disaster of unprecedented size and
+destructiveness. Provides that an electric utility, other than a
+municipally owned utility, may not terminate residential electric
+service to a customer on any day with respect to which the National
+Weather Service has forecast, not earlier than 48 hours in advance, a
+heat index of at least 95 degrees for the location where the customer
+receives service. Requires an electricity supplier, other than a
+municipally owned utility, that is under the jurisdiction of the IURC for
+the approval of rates and charges to report to the office of utility
+consumer counselor (OUCC) on a quarterly basis certain data
+concerning residential customer accounts. Requires the OUCC to
+annually compile and summarize the information contained in the
+reports and include the summary in the OUCC's annual report to the
+interim study committee on energy, utilities, and telecommunications.
+Provides that an investor owned electricity supplier that is under the
+jurisdiction of the IURC for the approval of rates and charges must
+petition the IURC for approval of any change in its basic rates and
+charges through the submission of a three-year multi-year rate plan
+(MYRP). Beginning in 2026, requires each electricity supplier to file
+its first petition with the IURC for approval of an MYRP according to
+a prescribed schedule. Provides that the base rates for the first rate year
+of an MYRP shall be established by the IURC in the same manner that
+base rates would be established in a proceeding for a change in basic
+rates and charges that occurs outside an MYRP. Specifies that in a
+petition to the IURC for a multi-year plan, an electricity supplier must
+include certain information in its case in chief. Provides that for each
+rate year in an electricity supplier's MYRP, the following apply: (1) A
+customer affordability performance metric and an associated
+performance incentive mechanism (PIM) that: (A) is based on the
+electricity supplier's performance in meeting the customer affordability
+performance metric; and (B) provides financial rewards or penalties to
+the electricity supplier based on that performance. (2) A service
+restoration performance metric and an associated PIM that: (A) is
+based on the electricity supplier's performance in meeting the service
+restoration performance metric; and (B) provides financial rewards or
+penalties to the electricity supplier based on that performance. Sets
+forth the methods by which the IURC must calculate the prescribed
+performance metrics and determine the associated PIMs. Sets forth
+specified findings the IURC must make in approving an electricity
+supplier's MYRP. Provides that at any time before the expiration of an
+electricity supplier's approved MYRP, the IURC may, upon its own
+motion, or at the request of the OUCC or the electricity supplier: (1)
+examine the electricity supplier's rates under the MYRP; (2) conduct
+periodic reviews with opportunities for public hearings and comments;
+and (3) adjust the base rates or PIMs under the MYRP. Beginning in
+2029, requires the IURC to include in its annual report certain
+information about: (1) the status of electricity suppliers' MYRP filings
+(Continued next page)
+EEHH 11000022——LLSS 77003322//DDII 110011
+
+Digest Continued
+and current MYRPs; (2) electricity suppliers' calculated performance
+metrics for the current rate year; and (3) the impact of all applicable
+PIMs on customer rates. Requires the IURC to adopt rules to
+implement these provisions. Requires an electricity supplier, other than
+a municipally owned utility, that is under the jurisdiction of the IURC
+to offer, not later than July 1, 2026, a low income customer assistance
+program (program) that provides financial assistance to low income
+residential customers for the payment of monthly bills for utility
+service. Requires an electricity supplier to annually fund its program
+in an amount equal to: (1) at least 0.2% of the electricity supplier's
+jurisdictional revenues for residential customers; plus (2) any
+contributions from governmental agencies or programs or from other
+third parties. Provides that if a customer who applies for assistance is
+eligible for assistance under the program, the electricity supplier shall
+enroll the customer in the program. Provides that an electricity supplier
+may, but is not required to, petition the IURC for approval to recover
+eligible program costs. Provides that "eligible program costs" do not
+include costs recovered by the electricity supplier through contributions
+that are provided at no cost to the electricity supplier. Beginning in
+2027, requires the IURC to include each year in its annual report
+specified information concerning each electricity supplier's program
+with respect to the most recently concluded state fiscal year. Requires
+the IURC to adopt rules to implement these provisions.
+EEHH 11000022——LLSS 77003322//DDII 110011
+
+February 13, 2026
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+ENGROSSED
+HOUSE BILL No. 1002
+A BILL FOR AN ACT to amend the Indiana Code concerning
+utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 4-22-2.3-7, AS ADDED BY P.L.249-2023,
+2 SECTION 43, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 7. The Indiana utility regulatory commission
+4 may adopt interim rules under the interim rule procedures in
+5 IC 4-22-2-37.2 pursuant to its authority under IC 8-1-1-3(g). or
+6 IC 8-1-2-113. A rule described in this section expires not later than two
+7 (2) years after the rule is accepted for filing by the publisher of the
+8 Indiana Register and may not be continued in another interim rule.
+9 SECTION 2. IC 8-1-2-4.7 IS ADDED TO THE INDIANA CODE
+10 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE
+11 UPON PASSAGE]: Sec. 4.7. (a) As used in this section, "levelized
+12 billing plan" means a levelized payment plan, however
+13 denominated, that:
+14 (1) applies to a customer's account with an electricity
+15 supplier;
+EH 1002—LS 7032/DI 101
+
+2
+1 (2) provides for the payment of a customer's bill in equal
+2 monthly installments; and
+3 (3) involves a reconciliation mechanism in which:
+4 (A) the amount of utility service actually used by the
+5 customer during a specified period is compared with the
+6 amount of utility service for which the customer was billed
+7 under the plan during the specified period; and
+8 (B) the customer's account is either billed or credited, as
+9 appropriate, for any difference identified under clause (A).
+10 (b) As used in this section, "customer" refers to a residential
+11 customer who has agreed to pay for utility service from an
+12 electricity supplier under the electricity supplier's standard
+13 residential tariff. The term does not include a residential customer
+14 who has agreed to pay for utility service from an electricity
+15 supplier under an alternative billing tariff approved by the
+16 commission.
+17 (c) As used in this section, "electricity supplier" means a person,
+18 other than a municipally owned utility (as defined in IC 8-1-2-1(h)),
+19 that:
+20 (1) provides utility service to customers; and
+21 (2) is under the jurisdiction of the commission for the
+22 approval of rates and charges.
+23 (d) As used in this section, "utility service" means electric
+24 service that is provided at retail to customers.
+25 (e) An electricity supplier shall do the following:
+26 (1) Beginning with the first monthly billing cycle that begins
+27 after June 30, 2026, apply a levelized billing plan to all active
+28 customer accounts:
+29 (A) for utility service provided under the electricity
+30 supplier's standard residential tariff to a customer who is
+31 part of a household that is eligible for and has applied for
+32 assistance from a home energy assistance program
+33 administered under IC 4-4-33; and
+34 (B) to which a levelized billing plan does not already apply.
+35 (2) Not later than April 1, 2026, offer each customer of the
+36 electricity supplier a mechanism, through one (1) or more
+37 methods described in subsection (f)(4), by which the customer
+38 may opt out of a levelized billing plan at any time, without
+39 penalty, before or after the levelized billing plan is applied to
+40 the customer's account, subject to the reconciliation
+41 mechanism described in subsection (a)(3).
+42 (3) Not later than July 1, 2026, for any levelized billing plan
+EH 1002—LS 7032/DI 101
+
+3
+1 offered by the electricity supplier and applied to an active
+2 customer account, regardless of the date the levelized billing
+3 plan was first offered or applied, amend or design the
+4 levelized billing plan, as applicable, so that the reconciliation
+5 mechanism described in subsection (a)(3) is applied at such
+6 times during a calendar year to reflect, to the extent possible,
+7 typical seasonal patterns of electricity usage by residential
+8 customers, but not more than two (2) times during a calendar
+9 year.
+10 (f) Not later than April 1, 2026, an electricity supplier shall
+11 provide to each customer described in subsection (e)(1) a written
+12 notice that:
+13 (1) informs the customer that a levelized billing plan will be
+14 applied to the customer's account beginning with the first
+15 monthly billing cycle that begins after June 30, 2026, if a
+16 levelized billing plan does not already apply to the customer's
+17 account;
+18 (2) describes, in clear language that is easily understandable
+19 to a lay person, the reconciliation mechanism described in
+20 subsection (a)(3), including an explanation of:
+21 (A) the number of times during a calendar year that the
+22 reconciliation mechanism will be applied to the customer's
+23 account, subject to subsection (e)(3);
+24 (B) for each time during a calendar year that the
+25 reconciliation mechanism will be applied, the monthly
+26 billing cycle after which the reconciliation mechanism will
+27 be applied; and
+28 (C) the method by which the electricity supplier will:
+29 (i) compare the amount of utility service actually used by
+30 the customer with the amount of utility service for which
+31 the customer was billed under the plan during the billing
+32 cycles that are being reconciled; and
+33 (ii) either bill or credit the customer's account, as
+34 appropriate, for any difference identified under item (i);
+35 (3) offers the customer a mechanism, through one (1) or more
+36 methods described in subdivision (4), by which the customer
+37 may opt out of a levelized billing plan at any time, without
+38 penalty, before or after the levelized billing plan is applied to
+39 the customer's account, subject to the reconciliation
+40 mechanism described in subsection (a)(3); and
+41 (4) is delivered to the customer by one (1) or more of the
+42 following methods:
+EH 1002—LS 7032/DI 101
+
+4
+1 (A) United States mail.
+2 (B) Electronic mail.
+3 (C) A mobile application or another Internet based
+4 method.
+5 (g) Not later than April 1, 2026, an electricity supplier shall post
+6 on its website the information set forth in subsection (f)(2) and
+7 (f)(3) for each levelized billing plan offered by the electricity
+8 supplier, regardless of the date the levelized billing plan was first
+9 offered.
+10 (h) Except as provided in subsection (i), an electricity supplier
+11 may not refer to or promote a levelized billing plan required under
+12 this section as a "budget billing plan" in:
+13 (1) the information required to be posted on the electricity
+14 supplier's website under subsection (g);
+15 (2) any customer bill that is issued after June 30, 2026; or
+16 (3) any customer or external communications made after June
+17 30, 2026.
+18 (i) The prohibition set forth in subsection (h) does not apply
+19 with respect to a billing plan that provides for levelized payments
+20 if the plan also allows a customer to:
+21 (1) pay current or past due amounts for utility service in
+22 lower amounts, over an extended period of time, or according
+23 to another schedule agreed upon by the electricity supplier
+24 and the customer;
+25 (2) defer the payment of current or past due amounts for
+26 utility service to some future date; or
+27 (3) receive a forbearance with respect to the payment of
+28 certain amounts owed.
+29 (j) The commission may adopt rules under IC 4-22-2 to
+30 implement this section.
+31 SECTION 3. IC 8-1-2-42.7, AS ADDED BY P.L.133-2013,
+32 SECTION 4, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+33 UPON PASSAGE]: Sec. 42.7. (a) Subsections (g) and (j) do not
+34 apply to an electricity supplier (as defined in IC 8-1-46-6) that has
+35 filed a petition with the commission to change the electricity
+36 supplier's basic rates and charges through the submission of a
+37 multi-year rate plan under IC 8-1-46.
+38 (a) (b) For purposes of this section,"average prime rate" means the
+39 arithmetic mean, to the nearest one-hundredth of one percent (0.01%),
+40 of the prime rate values published in the Federal Reserve Bulletin for
+41 the three (3) months preceding the first month of a calendar quarter.
+42 (b) (c) For purposes of this section, "case in chief" includes the
+EH 1002—LS 7032/DI 101
+
+5
+1 following:
+2 (1) Testimony, exhibits, and supporting work papers.
+3 (2) Proposed test year and rate base cutoff dates.
+4 (3) Proposed revenue requirements.
+5 (4) Jurisdictional operating revenues and expenses, including
+6 taxes and depreciation.
+7 (5) Balance sheet and income statements.
+8 (6) Jurisdictional rate base.
+9 (7) Proposed cost of capital and capital structure.
+10 (8) Jurisdictional class cost of service study.
+11 (9) Proposed rate design and pro forma tariff sheets.
+12 (c) (d) For purposes of this section, "utility" refers to the following:
+13 (1) A public utility.
+14 (2) A municipally owned utility.
+15 (3) A cooperative owned utility.
+16 (d) (e) In a petition filed with the commission to change basic rates
+17 and charges, a utility may designate a test period for the commission to
+18 use. The utility must include with its petition the utility's complete case
+19 in chief. The commission shall approve a test period that is one (1) of
+20 the following:
+21 (1) A forward looking test period determined on the basis of
+22 projected data for the twelve (12) month period beginning not
+23 later than twenty-four (24) months after the date on which the
+24 utility petitions the commission for a change in its basic rates and
+25 charges.
+26 (2) A historic test period based on a twelve (12) month period that
+27 ends not more than two hundred seventy (270) days before the
+28 date on which the utility petitions the commission for a change in
+29 its basic rates and charges. The commission may adjust a historic
+30 test period for fixed, known, and measurable changes and
+31 appropriate normalizations and annualizations.
+32 (3) A hybrid test period based on at least twelve (12) consecutive
+33 months of combined historic data and projected data. The
+34 commission may adjust the historic data as set forth in
+35 subdivision (2).
+36 (e) (f) This subsection does not apply to a proceeding in which a
+37 utility is seeking an increase in basic rates and charges and requesting
+38 initial relief under IC 8-1-2.5-5 or IC 8-1-2.5-6. If the commission does
+39 not issue an order on a petition filed by a utility under subsection (d)
+40 (e) within three hundred (300) days after the utility files its case in
+41 chief in support of the proposed increase, the utility may temporarily
+42 implement fifty percent (50%) of the utility's proposed permanent
+EH 1002—LS 7032/DI 101
+
+6
+1 increase in basic rates and charges, subject to the commission's review
+2 and determination under subsection (f). (g). The utility shall submit the
+3 proposed temporary rates and charges to the commission at least thirty
+4 (30) days before the date on which the utility seeks to implement the
+5 temporary rates and charges. The temporary rates and charges may
+6 reflect proposed or existing approved customer class allocations and
+7 rate designs. However, if the utility uses a forward looking test period
+8 described in subsection (d)(1) (e)(1) or a hybrid test period described
+9 in subsection (d)(3), (e)(3), the utility may not:
+10 (1) implement the temporary increase before the date on which
+11 the projected data period begins; or
+12 (2) object during a proceeding before the commission to a
+13 discovery request for historic data as described in subsection
+14 (d)(2) (e)(2) solely on the basis that the utility has designated a
+15 forward looking or hybrid test period.
+16 (f) (g) The commission shall review the temporary rates and charges
+17 to determine compliance with this section. The temporary rates and
+18 charges take effect on the latest of the following dates unless the
+19 commission determines that the temporary rates and charges are not
+20 properly designed in compliance with this section:
+21 (1) The date proposed by the utility.
+22 (2) Three hundred (300) days after the date on which the utility
+23 files its case in chief.
+24 (3) The termination of any extension of the three hundred (300)
+25 day deadline authorized under subsection (g) (h) or (h). (i).
+26 If the commission determines that the temporary rates and charges are
+27 not properly designed in compliance with this section, the utility may
+28 cure the defect and file the corrected temporary rates and charges with
+29 the commission within a reasonable period determined by the
+30 commission.
+31 (g) (h) If the commission grants a utility an extension of the
+32 procedural schedule, the commission may extend the three hundred
+33 (300) day deadline set forth in subsection (e) (f) by the length of the
+34 extension.
+35 (h) (i) The commission may suspend the three hundred (300) day
+36 deadline set forth in subsection (e) (f) one (1) time for good cause. The
+37 suspension may not exceed sixty (60) days.
+38 (i) (j) If a utility implements temporary rates and charges that differ
+39 from the permanent rates and charges approved by the commission in
+40 a final order on the petition filed under subsection (d), (e), the utility
+41 shall perform a reconciliation and implement a refund, in the form of
+42 a credit rider, or a surcharge, as applicable, on customer bills rendered
+EH 1002—LS 7032/DI 101
+
+7
+1 on or after the date the commission approves the credit or surcharge.
+2 The refund or surcharge shall be credited or added in equal amounts
+3 each month for six (6) months. The amount of the total refund or
+4 surcharge equals the amount by which the temporary rates and charges
+5 differ from the permanent rates and charges, plus, for a refund only,
+6 interest at the applicable average prime rate for each calendar quarter
+7 during which the temporary rates and charges were in effect.
+8 SECTION 4. IC 8-1-2-113, AS AMENDED BY P.L.93-2024,
+9 SECTION 65, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+10 UPON PASSAGE]: Sec. 113. (a) Subject to subsections (b) and (c),
+11 the commission may, when it considers it necessary to prevent injury
+12 to the business or interests of the people of, or any public utility of this
+13 state operating in, Indiana in case the event of any emergency to be
+14 judged by the commission, that results from:
+15 (1) a national economic depression;
+16 (2) an act of war; or
+17 (3) a disaster of unprecedented size and destructiveness
+18 resulting from manmade or natural causes;
+19 recommend that the governor declare a disaster emergency under
+20 IC 10-14-3-12 or proclaim a state of energy emergency under
+21 IC 10-14-3-13, as applicable, during which the commission may
+22 temporarily alter, amend, or with the consent of the public utility
+23 concerned, suspend any existing rates, service, practices, schedules,
+24 and order or orders relating to or affecting any public utility or part of
+25 any public utility operating in this state. Indiana. The alterations,
+26 amendments, or suspensions of the rates, service, schedules, or
+27 practices made by the commission shall may apply to one (1) or more
+28 of the public utilities operating in this state or to any portion thereof,
+29 Indiana, as directed by the commission, and shall take effect at the
+30 time and remain in force only for the length of time prescribed by the
+31 commission. duration of the disaster emergency or the energy
+32 emergency, as applicable.
+33 (b) The commission may adopt rules under IC 4-22-2 to carry out
+34 this section.
+35 (b) The declaration of a disaster emergency by the governor
+36 upon the recommendation of the commission under subsection (a)
+37 is subject to:
+38 (1) the time limitations set forth in IC 10-14-3-12(b); and
+39 (2) termination by the general assembly under
+40 IC 10-14-3-12(c).
+41 (c) The proclamation of a state of energy emergency by the
+42 governor upon the recommendation of the commission under
+EH 1002—LS 7032/DI 101
+
+8
+1 subsection (a) is subject to:
+2 (1) the time limitation set forth in IC 10-14-3-13(c); and
+3 (2) approval by the general assembly under IC 10-14-3-13(d)
+4 with respect to a second or subsequent renewal of the
+5 proclamation.
+6 SECTION 5. IC 8-1-2-121, AS AMENDED BY P.L.181-2006,
+7 SECTION 48, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+8 UPON PASSAGE]: Sec. 121. (a) As used in this section, "electric or
+9 gas utility" includes a municipally owned, privately owned, or
+10 cooperatively owned utility.
+11 (b) As used in this section, "electric utility" includes a privately
+12 owned or cooperatively owned utility.
+13 (a) (c) Notwithstanding any other provision of law, but subject to
+14 subsection (i), the following apply with respect to the termination
+15 of residential electric or gas service:
+16 (1) An electric or gas utility may not terminate residential
+17 electric or gas service from December 1 through March 15 of
+18 any year no electric or gas utility, including a municipally owned,
+19 privately owned, or cooperatively owned utility, shall terminate
+20 residential electric or gas service for persons customers who are
+21 eligible for and have applied for assistance from a heating
+22 assistance program administered under IC 4-4-33.
+23 (2) Subject to subsection (d), on any day for which a local
+24 weather forecast office of the National Weather Service has
+25 forecast, not earlier than forty-eight (48) hours in advance, a
+26 heat index of at least ninety-five (95) degrees Fahrenheit for
+27 a county or part of a county within an electric utility's
+28 assigned service area under IC 8-1-2.3, the electric utility may
+29 not terminate residential electric service for customers who:
+30 (A) receive residential electric service from the electric
+31 utility at a location to which the forecasted heat index
+32 applies; and
+33 (B) are eligible for and have applied for assistance under
+34 a heating assistance program administered under
+35 IC 4-4-33 during the calendar year in which the forecast is
+36 made.
+37 For purposes of subdivision (1), the commission shall implement
+38 procedures to ensure that electric or gas utility service is continued
+39 while eligibility for such persons customers is being determined.
+40 (d) If:
+41 (1) an electric utility has provided a notice of disconnection to
+42 a customer described in subsection (c)(2) before the local
+EH 1002—LS 7032/DI 101
+
+9
+1 weather forecast office of the National Weather Service
+2 forecasts a heat index described in subsection (c)(2) for the
+3 customer's service location; and
+4 (2) the fourteen (14) day period following the issuance of the
+5 disconnection notice during which the electric utility is
+6 prohibited from terminating the customer's electric service
+7 under 170 IAC 4-1-16 would have elapsed on the forecasted
+8 date for the heat index to reach the level described in
+9 subsection (c)(2);
+10 the fourteen (14) day period described in subdivision (2) is tolled
+11 until the first day that follows the day with respect to which the
+12 forecast was made and during which the forecasted heat index is
+13 not reached.
+14 (e) Not later than June 1, 2026, an electric or gas utility shall
+15 post on the electric or gas utility's website a notice that:
+16 (1) informs customers of the relief available to eligible
+17 customers under subsection (c); and
+18 (2) includes:
+19 (A) a toll free telephone number; or
+20 (B) a link to a web page;
+21 that a customer may call or access for information on how to
+22 apply for assistance from a heating assistance program
+23 administered under IC 4-4-33.
+24 (b) (f) Any An electric or gas utility including a municipally owned,
+25 privately owned, or cooperatively owned utility, shall provide any
+26 residential customer whose account is delinquent an opportunity to
+27 enter into a reasonable amortization agreement with such company to
+28 pay the delinquent account. Such an amortization agreement must
+29 provide the customer with adequate opportunity to apply for and
+30 receive the benefits of any available public assistance program. An
+31 amortization agreement is subject to amendment on the customer's
+32 request if there is a change in the customer's financial circumstances.
+33 (c) (g) The commission may establish a reasonable rate of interest
+34 which a utility may charge on the unpaid balance of a customer's
+35 delinquent bill that may not exceed the rate established by the
+36 commission under section 34.5 of this chapter.
+37 (d) (h) The commission shall adopt rules under IC 4-22-2 to carry
+38 out the provisions of this section.
+39 (e) (i) This section does not prohibit an electric or gas utility from
+40 terminating residential utility service upon a request of a customer or
+41 under the following circumstances:
+42 (1) If a condition dangerous or hazardous to life, physical safety,
+EH 1002—LS 7032/DI 101
+
+10
+1 or property exists.
+2 (2) Upon order by any court, the commission, or other duly
+3 authorized public authority.
+4 (3) If fraudulent or unauthorized use of electricity or gas is
+5 detected and the utility has reasonable grounds to believe the
+6 affected customer is responsible for such use.
+7 (4) If the utility's regulating or measuring equipment has been
+8 tampered with and the utility has reasonable grounds to believe
+9 that the affected customer is responsible for such tampering.
+10 SECTION 6. IC 8-1-2.6-2, AS AMENDED BY P.L.107-2014,
+11 SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+12 UPON PASSAGE]: Sec. 2. (a) This section applies to rules and orders
+13 that:
+14 (1) concern telecommunications service or providers of
+15 telecommunications service; and
+16 (2) may be adopted or issued by the commission under the
+17 authority of state or federal law.
+18 (b) Rules and orders described in this section:
+19 (1) may be adopted or issued only after notice and hearing,
+20 unless:
+21 (A) the commission determines acts in accordance with
+22 IC 8-1-2-113 that an during a disaster emergency exists that
+23 is declared by the governor and that requires the commission
+24 or a provider to take immediate action to:
+25 (i) prevent injury to the business or interests of the citizens
+26 of Indiana; or
+27 (ii) maintain a provider's financial integrity and ability to
+28 provide adequate basic telecommunications service;
+29 (B) the commission is authorized under IC 8-1-2 to adopt a
+30 particular rule or issue a particular order without the necessity
+31 of a hearing; or
+32 (C) after receiving notice of the commission's proposed action,
+33 all parties to a proceeding consent to the commission taking
+34 action without a hearing; and
+35 (2) must be:
+36 (A) consistent with this chapter; and
+37 (B) in the public interest, as determined by the commission
+38 under subsection (d).
+39 (c) Rules and orders described in this section must promote one (1)
+40 or more of the following:
+41 (1) Cost minimization for providers to the extent that a provider's
+42 quality of service and facilities are not diminished.
+EH 1002—LS 7032/DI 101
+
+11
+1 (2) A more accurate evaluation by the commission of a provider's
+2 physical or financial conditions or needs as well as a less costly
+3 regulatory procedure for either the provider, the provider's
+4 customers, or the commission.
+5 (3) Consumer access to affordable basic telecommunications
+6 service.
+7 (4) Development of depreciation guidelines and procedures that
+8 recognize technological obsolescence.
+9 (5) Increased provider management efficiency beneficial to
+10 customers.
+11 (6) Regulation consistent with a competitive environment.
+12 (d) In determining whether the public interest will be served, as
+13 required under subsection (b), the commission shall consider:
+14 (1) whether technological change, competitive forces, or
+15 regulation by other state and federal regulatory bodies render the
+16 exercise of jurisdiction by the commission unnecessary or
+17 wasteful;
+18 (2) whether the exercise of commission jurisdiction produces
+19 tangible benefits to the customers of providers; and
+20 (3) whether the exercise of commission jurisdiction inhibits a
+21 regulated entity from competing with unregulated providers of
+22 functionally similar telecommunications services or equipment.
+23 SECTION 7. IC 8-1-6.1 IS ADDED TO THE INDIANA CODE AS
+24 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+25 1, 2026]:
+26 Chapter 6.1. Quarterly Residential Customer Reports by
+27 Electricity Suppliers
+28 Sec. 1. As used in this chapter, "levelized billing plan" has the
+29 meaning set forth in IC 8-1-2-4.7.
+30 Sec. 2. As used in this chapter, "customer" refers to a
+31 residential customer who has agreed to pay for utility service from
+32 an electricity supplier.
+33 Sec. 3. As used in this chapter, "electricity supplier" means a
+34 person, other than a municipally owned utility (as defined in
+35 IC 8-1-2-1(h)), that:
+36 (1) provides utility service to customers in Indiana; and
+37 (2) is under the jurisdiction of the commission for the
+38 approval of rates and charges.
+39 Sec. 4. As used in this chapter, "office" refers to the office of
+40 utility consumer counselor created by IC 8-1-1.1-2.
+41 Sec. 5. As used in this chapter, "payment plan" means a
+42 payment arrangement that:
+EH 1002—LS 7032/DI 101
+
+12
+1 (1) is entered into by an electricity supplier and a customer of
+2 the electricity supplier; and
+3 (2) allows the customer to:
+4 (A) pay current or past due amounts for utility service in
+5 lower amounts or over an extended period of time, or
+6 according to another agreed upon schedule;
+7 (B) defer the payment of current or past due amounts for
+8 utility service to some future date; or
+9 (C) receive a forbearance with respect to the payment of
+10 certain amounts owed.
+11 Sec. 6. As used in this chapter, "protected account" means an
+12 account that is for utility service that is provided to a customer
+13 who is eligible for and has applied for assistance from a home
+14 energy assistance program administered under IC 4-4-33.
+15 Sec. 7. As used in this chapter, "utility service" means
+16 residential electric service that is provided at retail.
+17 Sec. 8. (a) An electricity supplier shall submit to the office
+18 quarterly reports containing the information set forth in this
+19 subsection with respect to the calendar quarter covered by the
+20 report. A report under this subsection shall be submitted to the
+21 office in the manner and form prescribed by the office and not
+22 later than thirty (30) days after the last day of the calendar quarter
+23 covered by the report. The first report submitted to the office
+24 under this subsection must cover the third calendar quarter of
+25 2026. A report under this subsection must include the following
+26 information for each month in the calendar quarter covered by the
+27 report, including, to the extent available, a comparison of the same
+28 information for the same month of the immediately preceding
+29 calendar year:
+30 (1) The total number of open customer accounts.
+31 (2) The total number of customers who received assistance
+32 from a home energy assistance program administered under
+33 IC 4-4-33.
+34 (3) The total number of open protected accounts for
+35 customers.
+36 (4) The total number of open customer accounts that were
+37 delinquent for more than sixty (60) days.
+38 (5) The total dollar amount owed with respect to the accounts
+39 identified under subdivision (4).
+40 (6) The total number of payment plans entered into between
+41 the electricity supplier and customers of the electricity
+42 supplier.
+EH 1002—LS 7032/DI 101
+
+13
+1 (7) The total number of levelized billing plans applied to
+2 customer accounts.
+3 (8) The total number of customer accounts sent a notice of
+4 disconnection for nonpayment.
+5 (9) The total number of utility service disconnections
+6 performed for nonpayment.
+7 (10) The total dollar value of customer accounts written off as
+8 uncollectible.
+9 (b) An electricity supplier shall report all information and data
+10 required under subsection (a) in the aggregate and in a manner
+11 that does not identify individual customers of the electricity
+12 supplier.
+13 (c) This section does not empower the office to require
+14 electricity suppliers to disclose confidential and proprietary
+15 business information without adequate protection of the
+16 information. The office shall exercise all necessary caution to avoid
+17 disclosure of any confidential information reported by electricity
+18 suppliers under this section.
+19 Sec. 9. The office shall adopt guidelines to implement this
+20 chapter.
+21 Sec. 10. Beginning in 2027, the office shall annually compile and
+22 summarize the information received from electricity suppliers
+23 under section 8 of this chapter for the previous calendar year and
+24 include the office's summary of the information in the office's
+25 annual report to the interim study committee on energy, utilities,
+26 and telecommunications.
+27 SECTION 8. IC 8-1-32.4-15, AS AMENDED BY P.L.8-2012,
+28 SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+29 UPON PASSAGE]: Sec. 15. (a) The commission may declare act in
+30 accordance with IC 8-1-2-113 that an during a disaster emergency
+31 exists in that is declared by the governor and that includes an area
+32 in Indiana that is not served by any communications service provider
+33 offering voice service through any technology or medium. If the
+34 commission declares an acts in accordance with IC 8-1-2-113 during
+35 a declared disaster emergency, under this section, the commission
+36 may issue any order necessary to protect the health, safety, and welfare
+37 of affected residents or businesses and may expedite the availability of
+38 voice service to the affected residents or businesses.
+39 (b) If the commission authorizes a communications service provider
+40 to offer voice service under this section, the commission shall permit
+41 the communications service provider to offer the voice service through
+42 any available technology or medium determined by the
+EH 1002—LS 7032/DI 101
+
+14
+1 communications service provider.
+2 SECTION 9. IC 8-1-39-9, AS AMENDED BY P.L.89-2019,
+3 SECTION 3, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+4 UPON PASSAGE]: Sec. 9. (a) Subject to subsection (d), a public
+5 utility that provides electric or gas utility service may file with the
+6 commission rate schedules establishing a TDSIC that will allow the
+7 periodic automatic adjustment of the public utility's basic rates and
+8 charges to provide for timely recovery of eighty percent (80%) of
+9 approved capital expenditures and TDSIC costs. The petition must:
+10 (1) use the customer class revenue allocation factor based on firm
+11 load approved in the public utility's most recent retail base rate
+12 case order;
+13 (2) include the public utility's TDSIC plan for eligible
+14 transmission, distribution, and storage system improvements; and
+15 (3) identify projected effects of the plan described in subdivision
+16 (2) on retail rates and charges.
+17 The public utility shall provide a copy of the petition to the office of the
+18 utility consumer counselor when the petition is filed with the
+19 commission.
+20 (b) The public utility shall update the public utility's TDSIC plan
+21 under subsection (a)(2) at least annually. An update may include a
+22 petition for approval of:
+23 (1) a targeted economic development project under section 11 of
+24 this chapter; or
+25 (2) transmission, distribution, and storage system improvements
+26 not described in the public utility's TDSIC plan most recently
+27 approved by the commission under section 10 of this chapter.
+28 (c) A public utility that recovers capital expenditures and TDSIC
+29 costs under subsection (a) shall defer the remaining twenty percent
+30 (20%) of approved capital expenditures and TDSIC costs, including
+31 depreciation, allowance for funds used during construction, and post in
+32 service carrying costs, and shall recover those capital expenditures and
+33 TDSIC costs as part of the next general rate case that the public utility
+34 files with the commission.
+35 (d) Except as provided in section 15 of this chapter, a public utility
+36 may not file a petition under subsection (a) within nine (9) months after
+37 the date on which the commission issues an order changing the public
+38 utility's basic rates and charges with respect to the same type of utility
+39 service.
+40 (e) This subsection does not apply to an electricity supplier (as
+41 defined in IC 8-1-46-6) that:
+42 (1) is subject to a multi-year rate plan under IC 8-1-46; or
+EH 1002—LS 7032/DI 101
+
+15
+1 (2) petitions the commission for approval of a multi-year rate
+2 plan under IC 8-1-46;
+3 during the term of the electricity supplier's approved TDSIC plan.
+4 A public utility that implements a TDSIC under this chapter shall,
+5 before the expiration of the public utility's approved TDSIC plan,
+6 petition the commission for review and approval of the public utility's
+7 basic rates and charges with respect to the same type of utility service.
+8 (f) A public utility may file a petition under this section not more
+9 than one (1) time every six (6) months.
+10 (g) Actual capital expenditures and TDSIC costs that exceed the
+11 approved capital expenditures and TDSIC costs require specific
+12 justification by the public utility and specific approval by the
+13 commission before being authorized for recovery in customer rates.
+14 SECTION 10. IC 8-1-46 IS ADDED TO THE INDIANA CODE AS
+15 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+16 PASSAGE]:
+17 Chapter 46. Performance Based Ratemaking for Electricity
+18 Suppliers
+19 Sec. 1. (a) As used in this chapter, "average monthly residential
+20 bill", with respect to an electricity supplier, means the average
+21 total monthly charges billed, over the course of a calendar year, to
+22 all customers receiving retail electric service under the electricity
+23 supplier's standard residential tariff.
+24 (b) The term includes the following charges:
+25 (1) Fixed service charges.
+26 (2) Energy charges based on the amount of electricity
+27 provided to or consumed by the customer during the billing
+28 cycle.
+29 (3) Additional charges or credits, including any applicable
+30 rate adjustment mechanisms approved by the commission.
+31 (4) Taxes.
+32 Sec. 2. As used in this chapter, "commission" refers to the
+33 Indiana utility regulatory commission created by IC 8-1-1-2.
+34 Sec. 3. (a) As used this chapter, "customer", with respect to an
+35 electricity supplier, means a metered electrical service point:
+36 (1) that is located at a specific location in Indiana; and
+37 (2) for which an active billing account is established by the
+38 electricity supplier.
+39 (b) As the context requires, the term includes the person of
+40 record who has agreed to pay for the retail electric service
+41 provided by the electricity supplier at the location described in
+42 subsection (a).
+EH 1002—LS 7032/DI 101
+
+16
+1 Sec. 4. As used in this chapter, "customer affordability
+2 performance metric", with respect to an electricity supplier, means
+3 a metric that:
+4 (1) is determined by the commission under section 23 of this
+5 chapter for a particular rate year included in that electricity
+6 supplier's multi-year rate plan;
+7 (2) is based on the most recent customer affordability
+8 performance report submitted to the commission by the
+9 electricity supplier under section 18 of this chapter; and
+10 (3) is used by the commission to establish a customer
+11 affordability PIM that applies to that rate year and provides
+12 financial rewards or penalties to the electricity supplier based
+13 on the electricity supplier's measured customer affordability
+14 performance.
+15 Sec. 5. As used in this chapter, "customer average interruption
+16 duration index", or "CAIDI", means an index that:
+17 (1) indicates the average time required to restore electric
+18 service to an electricity supplier's customers affected by
+19 sustained service interruptions; and
+20 (2) is calculated by determining the quotient of:
+21 (A) the sum of sustained service interruption durations in
+22 minutes for a specified period; divided by
+23 (B) the total number of customers affected by the sustained
+24 service interruptions;
+25 in accordance with IEEE 1366.
+26 Sec. 6. (a) As used in this chapter, "electricity supplier" means
+27 a public utility (as defined in IC 8-1-2-1(a)) that:
+28 (1) furnishes retail electric service to customers in Indiana;
+29 and
+30 (2) is under the jurisdiction of the commission for the
+31 approval of rates and charges.
+32 (b) The term does not include:
+33 (1) a municipally owned utility (as defined in IC 8-1-2-1(h));
+34 (2) a corporation organized under IC 8-1-13; or
+35 (3) a corporation organized under IC 23-17 that is an electric
+36 cooperative and that has at least one (1) member that is a
+37 corporation organized under IC 8-1-13.
+38 Sec. 7. As used in this chapter, "IEEE 1366" refers to:
+39 (1) the 2022 edition of IEEE 1366, IEEE Guide for Electric
+40 Power Distribution Reliability Indices, as adopted by the
+41 Institute of Electrical and Electronics Engineers; or
+42 (2) if the commission adopts a rule under IC 4-22-2 to amend:
+EH 1002—LS 7032/DI 101
+
+17
+1 (A) the 2022 edition; or
+2 (B) any subsequent edition;
+3 of IEEE 1366, the version of IEEE 1366 as amended by the
+4 commission.
+5 Sec. 8. As used in this chapter, "major event day", or "MED",
+6 means a day with respect to which an electricity supplier's daily
+7 system SAIDI exceeds a statistical threshold value that is:
+8 (1) calculated using the 2.5 Beta methodology developed by
+9 the Institute of Electrical and Electronics Engineers; and
+10 (2) based on the most recent five (5) years of relevant data for
+11 the electricity supplier;
+12 as defined in IEEE 1366.
+13 Sec. 9. As used in this chapter, "multi-year rate plan" means a
+14 ratemaking mechanism under which the commission sets an
+15 electricity supplier's base rates for a three (3) year period that
+16 includes:
+17 (1) authorized periodic changes in the electricity supplier's
+18 base rates; and
+19 (2) adjustments to the electricity supplier's base rates based
+20 on the electricity supplier's performance with respect to each
+21 performance incentive mechanism applicable to the electricity
+22 supplier;
+23 during the three (3) year period, without requiring the electricity
+24 supplier to file a new base rate case with respect to the changes and
+25 adjustments.
+26 Sec. 10. As used in this chapter, "performance based
+27 ratemaking" means an alternative ratemaking approach for
+28 electricity suppliers that includes one (1) or more performance
+29 incentive mechanisms in the context of a multi-year rate plan.
+30 Sec. 11. As used in this chapter, "performance incentive
+31 mechanism", or "PIM", means a ratemaking mechanism that is
+32 approved by the commission and that:
+33 (1) links an electricity supplier's earnings to the electricity
+34 supplier's performance in targeted areas that are consistent
+35 with the provision of electric utility service with the attributes
+36 set forth in IC 8-1-2-0.6, including:
+37 (A) reliability;
+38 (B) affordability;
+39 (C) resiliency;
+40 (D) stability; and
+41 (E) environmental sustainability;
+42 as described in IC 8-1-2-0.6; and
+EH 1002—LS 7032/DI 101
+
+18
+1 (2) is based on specific performance metrics against which the
+2 electricity supplier's performance is measured.
+3 Sec. 12. As used in this chapter, "rate year" refers to a
+4 particular year in a multi-year rate plan with respect to which:
+5 (1) authorized base rates; and
+6 (2) adjustments to base rates, including adjustments based on
+7 an electricity supplier's performance in meeting performance
+8 metrics serving as the basis of all applicable PIMs;
+9 are in effect.
+10 Sec. 13. As used in this chapter, "service interruption" means
+11 the loss of electric service to one (1) or more customers connected
+12 to the distribution portion of an electricity supplier's system.
+13 Sec. 14. As used in this chapter, "service restoration
+14 performance metric", with respect to an electricity supplier, means
+15 a metric that:
+16 (1) is determined by the commission under section 24 of this
+17 chapter for a particular rate year included in that electricity
+18 supplier's multi-year rate plan;
+19 (2) is based on the most recent service restoration
+20 performance report submitted to the commission by the
+21 electricity supplier under section 19 of this chapter; and
+22 (3) is used by the commission to establish a service restoration
+23 PIM that applies to that rate year and provides financial
+24 rewards or penalties to the electricity supplier based on the
+25 electricity supplier's measured service restoration
+26 performance.
+27 Sec. 15. (a) As used in this chapter, "sustained service
+28 interruption" means a service interruption that is at least five (5)
+29 minutes in duration.
+30 (b) The term does not include the following, regardless of
+31 duration:
+32 (1) A planned service interruption that is:
+33 (A) initiated by an electricity supplier to perform
+34 scheduled activities, such as work related to:
+35 (i) system or facilities maintenance or upgrades;
+36 (ii) infrastructure improvements; or
+37 (iii) new construction; and
+38 (B) communicated to customers in advance.
+39 (2) A curtailment or interruption of service to a customer
+40 receiving service under an interruptible service tariff to the
+41 extent that the curtailment or interruption of service occurs
+42 in accordance with the customer's service agreement.
+EH 1002—LS 7032/DI 101
+
+19
+1 Sec. 16. As used in this chapter, "system average interruption
+2 duration index", or "SAIDI", means an index that:
+3 (1) indicates the total duration of sustained service
+4 interruptions for an electricity supplier's average customer
+5 during a specified period; and
+6 (2) is calculated by determining the quotient of:
+7 (A) the sum of sustained service interruption durations in
+8 minutes for the specified period; divided by
+9 (B) the total number of customers;
+10 in accordance with IEEE 1366.
+11 Sec. 17. As used in this chapter, "system average interruption
+12 frequency index", or "SAIFI", means an index that:
+13 (1) indicates the number of sustained service interruptions an
+14 electricity supplier's average customer experiences over a
+15 specified period; and
+16 (2) is calculated by determining the quotient of:
+17 (A) the total number of customers that experienced
+18 sustained service interruptions over the specified period;
+19 divided by
+20 (B) the total number of customers;
+21 in accordance with IEEE 1366.
+22 Sec. 18. Beginning in 2027, before March 1 of each year, an
+23 electricity supplier shall file with the commission, on a form
+24 prescribed by the commission, a customer affordability
+25 performance report that includes the following information:
+26 (1) The electricity supplier's average monthly residential bill
+27 for each of the most recently concluded five (5) calendar
+28 years, normalized for weather if not otherwise normalized for
+29 weather through a rate adjustment mechanism described in
+30 section 1(b)(3) of this chapter.
+31 (2) The average annual percentage change (rounded to the
+32 nearest one-tenth percent (0.1%)) in the electricity supplier's
+33 average monthly residential bill over the course of the most
+34 recently concluded five (5) calendar years, normalized for
+35 weather if not otherwise normalized for weather through a
+36 rate adjustment mechanism described in section 1(b)(3) of this
+37 chapter.
+38 (3) For each of the most recently concluded five (5) calendar
+39 years, the annual percentage change in seasonally adjusted
+40 electricity prices for the United States as measured by the
+41 Consumer Price Index, as published by the United States
+42 Bureau of Labor Statistics.
+EH 1002—LS 7032/DI 101
+
+20
+1 (4) The average annual percentage change (rounded to the
+2 nearest one-tenth percent (0.1%)) in seasonally adjusted
+3 electricity prices for the United States as measured by the
+4 Consumer Price Index, as published by the United States
+5 Bureau of Labor Statistics, over the course of the most
+6 recently concluded five (5) calendar years.
+7 Sec. 19. Beginning in 2027, before March 1 of each year, an
+8 electricity supplier shall file with the commission, on a form
+9 prescribed by the commission, a service restoration performance
+10 report that includes the following information for each of the most
+11 recently concluded six (6) calendar years:
+12 (1) Each of the following indices, reported to exclude major
+13 event days, for the electricity supplier's system in Indiana as
+14 a whole:
+15 (A) SAIDI.
+16 (B) SAIFI.
+17 (C) CAIDI.
+18 (2) Each of the following indices, reported to include major
+19 event days, for the electricity supplier's system in Indiana as
+20 a whole:
+21 (A) SAIDI.
+22 (B) SAIFI.
+23 (C) CAIDI.
+24 (3) The number of customers used by the utility in calculating
+25 each index required under subdivisions (1) and (2).
+26 Sec. 20. (a) Except as otherwise provided in subsections (b) and
+27 (c), and subject to the schedule set forth in this section, an
+28 electricity supplier must petition the commission for approval of
+29 any change in its basic rates and charges through the submission
+30 of a multi-year rate plan in accordance with this chapter. An
+31 electricity supplier shall file its first petition with the commission
+32 for approval of a multi-year rate plan under this chapter according
+33 to the following schedule:
+34 (1) After November 15, 2026, and before December 15, 2026,
+35 for the electricity supplier with the greatest number of
+36 Indiana customers.
+37 (2) After June 30, 2027, and before August 1, 2027, for an
+38 electricity supplier with respect to which the commission has
+39 issued an order that:
+40 (A) establishes basic rates and charges for the electricity
+41 supplier as part of a base rate case; and
+42 (B) is issued after April 30, 2024, and before February 1,
+EH 1002—LS 7032/DI 101
+
+21
+1 2025.
+2 (3) After December 31, 2027, and before February 1, 2028, for
+3 an electricity supplier with respect to which the commission
+4 has issued an order that:
+5 (A) establishes basic rates and charges for the electricity
+6 supplier as part of a base rate case; and
+7 (B) is issued after February 1, 2025, and before April 1,
+8 2025.
+9 (4) After June 30, 2028, and before August 1, 2028, for an
+10 electricity supplier with respect to which the commission has
+11 issued an order that:
+12 (A) establishes basic rates and charges for the electricity
+13 supplier as part of a base rate case; and
+14 (B) is issued after June 1, 2025, and before July 1, 2025.
+15 (5) After December 31, 2028, and before February 1, 2029, for
+16 an electricity supplier with respect to which the commission
+17 has issued an order that:
+18 (A) establishes basic rates and charges for the electricity
+19 supplier as part of a base rate case that is not part of a
+20 multi-year rate plan under this chapter; and
+21 (B) is issued after January 1, 2026.
+22 (b) An electricity supplier may file its first petition with the
+23 commission for approval of a multi-year rate plan under this
+24 chapter before the beginning of the time frame that would
+25 otherwise apply to the electricity supplier under subsection (a) if
+26 the petition:
+27 (1) requests approval of a reduction in the electricity
+28 supplier's overall revenue requirement for the first rate year
+29 of the multi-year rate plan;
+30 (2) meets all requirements for a multi-year rate plan under
+31 this chapter; and
+32 (3) is filed with the commission not later than September 1,
+33 2026.
+34 (c) An electricity supplier may petition the commission for relief
+35 for changes to the electricity supplier's basic rates and charges:
+36 (1) after March 14, 2026; and
+37 (2) before the beginning of the electricity supplier's applicable
+38 time frame for filing the electricity supplier's first petition for
+39 approval of multi-year rate plan under subsection (a).
+40 However, the filing of a petition for relief under this subsection
+41 does not exempt an electricity supplier from filing its first petition
+42 for a multi-year rate plan under this chapter in accordance with
+EH 1002—LS 7032/DI 101
+
+22
+1 the schedule set forth in subsection (a).
+2 (d) An electricity supplier shall file its second petition and all
+3 subsequent petitions with the commission for approval of a
+4 multi-year rate plan under this chapter:
+5 (1) not earlier than sixty (60) days before; and
+6 (2) not later than thirty (30) days before;
+7 the expiration of its then current multi-year rate plan.
+8 Sec. 21. (a) The following apply to a multi-year rate plan under
+9 this chapter:
+10 (1) An electricity supplier's petition for approval of a
+11 multi-year rate plan under this chapter must include the
+12 electricity supplier's:
+13 (A) case in chief (as defined in IC 8-1-2-42.7(c), including
+14 the electricity supplier's proposed:
+15 (i) revenue requirement; and
+16 (ii) base rates for each customer class; and
+17 (B) proposed test period using forward looking periods the
+18 close of which correspond with the end of the second and
+19 third rate years in the electricity supplier's multi-year rate
+20 plan;
+21 for each of the rate years in the multi-year rate plan.
+22 (2) The base rates for the first rate year of an electricity
+23 supplier's multi-year rate plan shall be established by the
+24 commission in the same manner that base rates would be
+25 established in a proceeding for a change in the electricity
+26 supplier's basic rates and charges that occurs outside of a
+27 multi-year rate plan, based on an appropriate test year under
+28 IC 8-1-2-42.7(e) used to determine the electricity supplier's
+29 actual and pro forma operating revenues, expenses, and
+30 operating income under current and proposed rates, adjusted
+31 for changes that are fixed, known, and measurable for
+32 ratemaking purposes and that occur within a reasonable time
+33 after the end of the test year.
+34 (3) The base rates for the second and third rate years of an
+35 electricity supplier's multi-year rate plan shall be established
+36 using:
+37 (A) changes in the electricity supplier's net plant in service
+38 from the end of the immediately preceding rate year,
+39 including any difference between:
+40 (i) actual net plant in service at the end of the rate year;
+41 and
+42 (ii) the projected net plant in service used in the
+EH 1002—LS 7032/DI 101
+
+23
+1 electricity supplier's test period for that rate year; and
+2 (B) changes in the net balance of any regulatory asset or
+3 liability from the end of the immediately preceding rate
+4 year.
+5 As used in this subdivision, "net plant in service" refers to
+6 both utility plant in service and accumulated depreciation.
+7 (4) In establishing an electricity supplier's authorized return
+8 for the electricity supplier's multi-year rate plan, the
+9 commission shall consider any increased or decreased risk to:
+10 (A) the electricity supplier; and
+11 (B) the electricity supplier's ratepayers;
+12 that may result from the implementation of the multi-year
+13 rate plan.
+14 (5) For each rate year in an electricity supplier's multi-year
+15 rate plan, the following apply:
+16 (A) A customer affordability performance metric that:
+17 (i) is determined by the commission under section 23 of
+18 this chapter for that rate year;
+19 (ii) is based on the most recent customer affordability
+20 performance report submitted to the commission by the
+21 electricity supplier under section 18 of this chapter; and
+22 (iii) is used by the commission to establish a customer
+23 affordability PIM that applies to that rate year.
+24 (B) A customer affordability PIM that:
+25 (i) is based on the electricity supplier's performance in
+26 meeting the customer affordability performance metric
+27 described in clause (A); and
+28 (ii) provides financial rewards or penalties to the
+29 electricity supplier based on that performance in
+30 accordance with section 23 of this chapter.
+31 (C) A service performance restoration metric that:
+32 (i) is determined by the commission under section 24 of
+33 this chapter for that rate year;
+34 (ii) is based on the most recent service restoration
+35 performance report submitted to the commission by the
+36 electricity supplier under section 19 of this chapter; and
+37 (iii) is used by the commission to establish a service
+38 restoration PIM that applies to that rate year.
+39 (D) A service restoration PIM that:
+40 (i) is based on the electricity supplier's performance in
+41 meeting the service restoration performance metric
+42 described in clause (C); and
+EH 1002—LS 7032/DI 101
+
+24
+1 (ii) provides financial rewards or penalties to the
+2 electricity supplier based on that performance in
+3 accordance with section 24 of this chapter.
+4 (b) An electricity supplier's petition for approval of a multi-year
+5 rate plan under this chapter may include alternative regulatory
+6 practices, procedures, accounting treatments, and mechanisms that
+7 are consistent with this chapter.
+8 (c) A multi-year rate plan under this chapter shall be considered
+9 separately by the commission from all:
+10 (1) rate adjustment mechanisms, including the fuel
+11 adjustment charge under IC 8-1-2-42; and
+12 (2) other cost recovery mechanisms;
+13 otherwise allowed by law, unless otherwise incorporated into the
+14 multi-year rate plan. In an electricity supplier's first petition for a
+15 multi-year rate plan under this chapter, the electricity supplier
+16 shall include a plan to incorporate planned capital expenditures,
+17 subject to preapproval by the commission, into the electricity
+18 supplier's subsequent multi-year rate plans under this chapter.
+19 (d) An electricity supplier may elect to:
+20 (1) exclude from its proposed multi-year rate plan; and
+21 (2) defer for consideration by the commission and for future
+22 recovery;
+23 costs incurred or to be incurred in a regulatory asset, to the extent
+24 those specific costs are incremental and are not otherwise already
+25 included for recovery in the electricity supplier's rates, as
+26 authorized by IC 8-1-2-10.
+27 Sec. 22. (a) The commission shall approve a multi-year rate plan
+28 for an electricity supplier under this chapter if, after notice and
+29 hearing, the commission finds the following:
+30 (1) That the electricity supplier's rates under the multi-year
+31 rate plan are just and reasonable.
+32 (2) That the multi-year rate plan reasonably assures the
+33 continuation of safe and reliable electric service for the
+34 electricity supplier's customers.
+35 (3) That the multi-year rate plan will not unreasonably
+36 prejudice any class of the electricity supplier's customers and
+37 will not result in sudden substantial rate increases to the
+38 electricity supplier's customers or any class of customers.
+39 (4) That the multi-year rate plan:
+40 (A) will result in just and reasonable rates;
+41 (B) is in the public interest; and
+42 (C) is consistent with the requirements set forth in this
+EH 1002—LS 7032/DI 101
+
+25
+1 chapter and in the rules adopted by the commission under
+2 section 27 of this chapter.
+3 (5) That the multi-year rate plan meets any other legal
+4 requirement.
+5 (b) At any time before the expiration of an electricity supplier's
+6 approved multi-year rate plan under this chapter, the commission
+7 may, with good cause and upon its own motion, or at the request of
+8 the office of utility consumer counselor or the electricity supplier
+9 do any of the following:
+10 (1) Examine the reasonableness of the electricity supplier's
+11 rates under the multi-year rate plan.
+12 (2) Conduct periodic reviews with opportunities for public
+13 hearings and comments from interested parties.
+14 (3) Initiate a proceeding to adjust the base rates or PIMs
+15 under the multi-year rate plan as necessary to ensure that the
+16 multi-year rate plan continues to satisfy the criteria set forth
+17 in subsection (a).
+18 Sec. 23. (a) For each rate year in an electricity supplier's
+19 multi-year rate plan, the commission shall determine a customer
+20 affordability performance metric for that electricity supplier by
+21 calculating the difference between:
+22 (1) the average annual percentage change (rounded to nearest
+23 one-tenth percent (0.1%)) in the electricity supplier's average
+24 monthly residential bill over the course of the most recently
+25 concluded five (5) calendar years (normalized for weather if
+26 not otherwise normalized for weather through a rate
+27 adjustment mechanism described in section 1(b)(3) of this
+28 chapter); minus
+29 (2) the average annual percentage change (rounded to nearest
+30 one-tenth percent (0.1%)) in seasonally adjusted electricity
+31 prices for the United States as measured by the Consumer
+32 Price Index, as published by the United States Bureau of
+33 Labor Statistics, over the course of the most recently
+34 concluded five (5) calendar years;
+35 as reported in the most recent customer affordability performance
+36 report submitted to the commission by the electricity supplier
+37 under section 18 of this chapter. The difference calculated under
+38 this subsection is the electricity supplier's customer affordability
+39 performance metric for the rate year.
+40 (b) If the electricity supplier's customer affordability
+41 performance metric under subsection (a) is a positive number that
+42 exceeds two (2) percentage points, the commission shall adjust the
+EH 1002—LS 7032/DI 101
+
+26
+1 electricity supplier's authorized return for the rate year downward
+2 by not more than one (1) basis point.
+3 (c) If the electricity supplier's customer affordability
+4 performance metric under subsection (a) is a negative number that
+5 when multiplied by negative one (-1) exceeds two (2) percentage
+6 points, the commission shall adjust the electricity supplier's
+7 authorized return for the rate year upward by not more than one
+8 (1) basis point.
+9 Sec. 24. (a) For each rate year included in an electricity
+10 supplier's multi-year rate plan, the commission shall determine,
+11 using the most recent service restoration performance report
+12 submitted to the commission by the electricity supplier under
+13 section 19 of this chapter, a service restoration performance metric
+14 for that electricity supplier in the following manner:
+15 STEP ONE: Determine the electricity supplier's average
+16 SAIDI over the course of the five (5) calendar years
+17 immediately preceding the most recently concluded calendar
+18 year, including major event days, for the electricity supplier's
+19 system in Indiana as a whole.
+20 STEP TWO: Determine the electricity supplier's SAIDI for
+21 the most recently concluded calendar year, including major
+22 event days, for the electricity supplier's system in Indiana as
+23 a whole.
+24 STEP THREE: Calculate the difference between the STEP
+25 ONE result minus the STEP TWO result.
+26 STEP FOUR: Calculate the quotient of the STEP THREE
+27 result divided by the STEP ONE result, rounded to the
+28 nearest one-hundredth (0.01).
+29 STEP FIVE: Calculate the product of one hundred (100)
+30 multiplied by the STEP FOUR result. This product is the
+31 electricity supplier's service restoration performance metric
+32 for the rate year.
+33 (b) If the electricity supplier's service restoration performance
+34 metric under subsection (a) is a positive number that exceeds five
+35 (5), the commission shall adjust the electricity supplier's authorized
+36 return for the rate year upward by not more than one-half (0.50)
+37 basis point.
+38 (c) If the electricity supplier's service restoration performance
+39 metric under subsection (a) is a negative number that when
+40 multiplied by negative one (-1) exceeds five (5), the commission
+41 shall adjust the electricity supplier's authorized return for the rate
+42 year downward by not more than one-half (0.50) basis point.
+EH 1002—LS 7032/DI 101
+
+27
+1 Sec. 25. (a) Beginning in 2029, the commission shall include in
+2 the annual report that the commission is required to submit under
+3 IC 8-1-1-14 before October 1 of each year the following
+4 information as of the last day of the most recently concluded state
+5 fiscal year:
+6 (1) For each electricity supplier that is subject to this chapter,
+7 the date of the electricity supplier's most recently filed
+8 petition for approval of a multi-year rate plan under this
+9 chapter.
+10 (2) For each petition listed under subdivision (1):
+11 (A) the date of the commission's final order approving the
+12 multi-year rate plan; or
+13 (B) if the petition is pending before the commission, the
+14 procedural status of the petition.
+15 (3) For each electricity supplier that is subject to this chapter,
+16 the beginning and end dates of the electricity supplier's
+17 current multi-year rate plan under this chapter, to the extent
+18 applicable in a report submitted under this section before
+19 2030.
+20 (4) For each electricity supplier that is subject to this chapter,
+21 the electricity supplier's calculated:
+22 (A) customer affordability performance metric; and
+23 (B) service restoration performance metric;
+24 for the current rate year in the electricity supplier's
+25 multi-year rate plan under this chapter, to the extent
+26 applicable in a report submitted under this section before
+27 2030.
+28 (5) For each electricity supplier that is subject to this chapter,
+29 any available data as to the impact on customer rates of the
+30 electricity supplier's applicable:
+31 (A) customer affordability performance metric; and
+32 (B) service restoration performance metric;
+33 during the most recently concluded rate year under a
+34 multi-year rate plan of the electricity supplier under this
+35 chapter.
+36 (6) Any other quantitative or qualitative information that the
+37 commission considers relevant for members of:
+38 (A) the interim study committee on energy, utilities, and
+39 telecommunications established by IC 2-5-1.3-4(8); and
+40 (B) the general assembly;
+41 to consider in evaluating multi-year rate plans under this
+42 chapter.
+EH 1002—LS 7032/DI 101
+
+28
+1 (b) Subject to subsection (c), an electricity supplier shall provide
+2 the commission, at the time and in the manner prescribed by the
+3 commission, any information or related materials required by the
+4 commission to fulfill the commission's reporting obligations under
+5 subsection (a).
+6 (c) Upon request by an electricity supplier, the commission shall
+7 determine whether any information or related materials required
+8 by the commission under subsection (b):
+9 (1) are confidential under IC 5-14-3-4;
+10 (2) are exempt from public access and disclosure by Indiana
+11 law; and
+12 (3) must be treated as confidential and protected from public
+13 access and disclosure by the commission.
+14 Sec. 26. After March 14, 2026, any reference in IC 8-1, or in
+15 rules adopted by the commission, to:
+16 (1) a "base rate case";
+17 (2) a "general rate case";
+18 (3) a proceeding for a change or increase in "basic rates and
+19 charges"; or
+20 (4) words of similar import;
+21 with respect to an electricity supplier subject to this chapter is
+22 considered a reference to the establishment of the electricity
+23 supplier's basic rates and charges for the first year of the
+24 electricity supplier's multi-year rate plan under this chapter.
+25 Sec. 27. The commission shall adopt rules under IC 4-22-2 to
+26 implement this chapter.
+27 SECTION 11. IC 8-1-47 IS ADDED TO THE INDIANA CODE AS
+28 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE UPON
+29 PASSAGE]:
+30 Chapter 47. Low Income Customer Assistance Programs for
+31 Electric Utility Service
+32 Sec. 1. As used in this chapter, "electricity supplier" means a
+33 person, other than a municipally owned utility (as defined in
+34 IC 8-1-2-1(h)), that:
+35 (1) provides utility service to customers; and
+36 (2) is under the jurisdiction of the commission for the
+37 approval of rates and charges.
+38 Sec. 2. (a) As used in this chapter, "eligible program costs"
+39 means costs that are associated with an electricity supplier's low
+40 income customer assistance program and that:
+41 (1) have been incurred, or are reasonably estimated to be
+42 incurred, by the electricity supplier in administering the low
+EH 1002—LS 7032/DI 101
+
+29
+1 income customer assistance program, including
+2 administrative activities involving:
+3 (A) customer eligibility verification;
+4 (B) billing services; and
+5 (C) contribution management; and
+6 (2) have not been and will not be recovered by the electricity
+7 supplier through contributions of any money, services, or
+8 property that have been or will be provided at no cost to the
+9 electricity supplier by or through any:
+10 (A) governmental agency or program; or
+11 (B) other third party, including voluntary charitable
+12 contributions from nonprofit organizations or from
+13 employees, customers, or shareholders of the electricity
+14 supplier;
+15 in support of the program.
+16 (b) The term does not include lost revenues associated with an
+17 electricity supplier's low income customer assistance program.
+18 Sec. 3. As used in this chapter, "low income customer" refers to
+19 a residential customer who is part of a household that:
+20 (1) has agreed to pay for utility service from an electricity
+21 supplier; and
+22 (2) is eligible for and has applied for assistance from a home
+23 energy assistance program administered under IC 4-4-33.
+24 Sec. 4. As used in this chapter, "utility service" means electric
+25 service that is provided at retail to customers.
+26 Sec. 5. (a) Not later than July 1, 2026, an electricity supplier
+27 shall offer a low income customer assistance program that provides
+28 financial assistance to low income customers for the payment of
+29 monthly bills for utility service provided by the electricity supplier.
+30 A program that:
+31 (1) is offered by the electricity supplier before July 1, 2026;
+32 (2) provides financial assistance to low income customers for
+33 the payment of monthly bills for utility service provided by
+34 the electricity supplier;
+35 (3) remains in effect on July 1, 2026; and
+36 (4) includes eligibility criteria consistent with section 3(2) of
+37 this chapter;
+38 qualifies as a low income customer assistance program for
+39 purposes of this section.
+40 (b) Subject to subsection (c), an electricity supplier may
+41 establish:
+42 (1) per customer funding limits;
+EH 1002—LS 7032/DI 101
+
+30
+1 (2) enrollment limits; or
+2 (3) other limits, caps, or restrictions;
+3 applicable to the low income customer assistance program based
+4 on funds available for the program from governmental agencies or
+5 programs or from other third parties, including voluntary
+6 charitable contributions from nonprofit organizations or from
+7 employees, customers, or shareholders of the electricity supplier.
+8 (c) If at any time during a calendar year:
+9 (1) an electricity supplier is no longer able to offer assistance
+10 to additional eligible customers under the electricity
+11 supplier's low income customer assistance program as a result
+12 of any limit, cap, or restriction established under subsection
+13 (b); and
+14 (2) the full amount allocated or to be allocated to the program
+15 under section 6(1) of this chapter has not been allocated to low
+16 income customers enrolled in the program at the time the
+17 limit, cap, or restriction is reached;
+18 the portion of the amount allocated or to be allocated to the
+19 program under section 6(1) of this chapter that has not been
+20 allocated to low income customers enrolled in the program at the
+21 time the limit, cap, or restriction is reached shall be segregated
+22 from all other funds of the electricity supplier and held in trust for
+23 allocation to low income customers enrolled in the electricity
+24 supplier's low income customer assistance program in the
+25 following calendar year.
+26 Sec. 6. Beginning in 2027, not later than March 1 of each year,
+27 an electricity supplier shall fund the electricity supplier's low
+28 income customer assistance program in an amount equal to:
+29 (1) at least two-tenths percent (0.2%) of the electricity
+30 supplier's jurisdictional revenues for residential customers;
+31 plus
+32 (2) any contributions from:
+33 (A) governmental agencies or programs; or
+34 (B) other third parties, including voluntary charitable
+35 contributions from nonprofit organizations or from
+36 employees, customers, or shareholders of the electricity
+37 supplier.
+38 Sec. 7. (a) In each residential customer bill issued by an
+39 electricity supplier after June 30, 2026, the electricity supplier
+40 must include a notice that:
+41 (1) informs customers that the electricity supplier offers a low
+42 income customer assistance program for eligible customers;
+EH 1002—LS 7032/DI 101
+
+31
+1 and
+2 (2) includes:
+3 (A) a toll free telephone number; or
+4 (B) a link to a web page;
+5 that a customer may call or access for information on how to
+6 apply for assistance under the program.
+7 (b) Not later than July 1, 2026, the electricity supplier shall post
+8 the information described in subsection (a)(1) and (a)(2) on the
+9 electricity supplier's website. If at any time during a calendar year,
+10 the electricity supplier is no longer able to offer assistance to
+11 additional eligible customers under the electricity supplier's low
+12 income customer assistance program as a result of any:
+13 (1) per customer funding limits;
+14 (2) enrollment limits; or
+15 (3) other limits, caps, or restrictions;
+16 established by the electricity supplier under section 5(b) of this
+17 chapter, the electricity supplier shall include on its website a
+18 statement notifying customers of that fact. If the electricity
+19 supplier is subsequently able to enroll new eligible customers in the
+20 program during that calendar year, the electricity supplier shall
+21 remove the previously posted statement from its website and post
+22 a new statement indicating that the program is again accepting
+23 new applications for assistance.
+24 Sec. 8. If a customer:
+25 (1) applies for assistance under an electricity supplier's low
+26 income customer assistance program; and
+27 (2) qualifies as a low income customer under section 3(2) of
+28 this chapter;
+29 the electricity supplier shall enroll the customer in the program, to
+30 the extent the electricity supplier is able to do so under any per
+31 customer funding limits, enrollment limits, or other limits, caps, or
+32 restrictions established by the electricity supplier under section
+33 5(b) of this chapter and applicable at the time of the customer's
+34 application.
+35 Sec. 9. (a) An electricity supplier may, but is not required to,
+36 petition the commission for approval to recover eligible program
+37 costs. An electricity supplier may file a petition with the
+38 commission under this section:
+39 (1) as part of a base rate case; or
+40 (2) at any time as part of an independent proceeding in which
+41 the electricity supplier petitions the commission to recover
+42 eligible program costs on a timely basis through a periodic
+EH 1002—LS 7032/DI 101
+
+32
+1 rate adjustment mechanism.
+2 (b) A petition under subsection (a)(2) for approval of a rate
+3 schedule that periodically adjusts the electricity supplier's rates
+4 and charges to provide for the timely recovery of eligible program
+5 costs must include the following for a twelve (12) month period set
+6 forth in the electricity supplier's petition:
+7 (1) A description of any money, services, or property that has
+8 been or will be provided at no cost to the electricity supplier
+9 by or through any:
+10 (A) governmental agency or program; or
+11 (B) other third party, including voluntary charitable
+12 contributions from nonprofit organizations or from
+13 employees, customers, or shareholders of the electricity
+14 supplier;
+15 in support of the low income customer assistance program,
+16 including the actual or estimated amount or value of the
+17 money, services, or property described.
+18 (2) A statement of any amounts that have been or will be
+19 allocated or contributed to the electricity supplier's low
+20 income customer assistance program under section 6 of this
+21 chapter.
+22 (3) A breakdown of eligible program costs that have been or
+23 will be incurred by the electricity supplier, including the:
+24 (A) amounts; and
+25 (B) purposes;
+26 for which they have been or will be incurred.
+27 A rate schedule proposed by an electricity supplier under this
+28 subsection may be based in whole or in part on reasonable cost
+29 forecasts over all or any part of the twelve (12) month period on
+30 which the electricity supplier's petition is based, subject to the
+31 commission's consideration of the electricity supplier's historical
+32 forecasting accuracy. If forecasted data is used, the proposed rate
+33 schedule must provide for a reconciliation mechanism to correct
+34 for any variance between the forecasted eligible program costs and
+35 the actual eligible program costs incurred.
+36 (c) Subject to subsection (d), if after reviewing an electricity
+37 supplier's petition under subsection (a)(2), the commission
+38 determines that:
+39 (1) the electricity supplier has incurred or will incur eligible
+40 program costs that are reasonable in amount;
+41 (2) notwithstanding section 10 of this chapter, the effect or the
+42 potential effect, in both the long and short term, of the
+EH 1002—LS 7032/DI 101
+
+33
+1 proposed rate schedule on the electric rates of
+2 nonparticipating customers or other customer classes of the
+3 electricity supplier will be minimal; and
+4 (3) approval of the proposed rate schedule is in the public
+5 interest;
+6 the commission shall approve the electricity supplier's proposed
+7 rate schedule under subsection (b).
+8 (d) The commission may not approve a rate schedule under
+9 subsection (b) that would result in an average aggregate increase
+10 in an electricity supplier's total retail revenues of more than two
+11 percent (2%) with respect to the twelve (12) month period on
+12 which the electricity supplier's proposed rate schedule is based. If
+13 an electricity supplier incurs eligible program costs in connection
+14 with the electricity supplier's low income customer assistance
+15 program that exceed the limit set forth in this subsection, the
+16 electricity supplier may seek to recover those eligible program
+17 costs in the electricity supplier's next base rate case.
+18 Sec. 10. A low income customer assistance program offered
+19 under this chapter that affects rates and charges for service is not
+20 discriminatory for purposes of this chapter or any other law
+21 regulating rates and charges for service.
+22 Sec. 11. (a) Beginning in 2027, the commission shall include in
+23 the annual report that the commission is required to submit under
+24 IC 8-1-1-14 before October 1 of each year the following
+25 information for each electricity supplier with respect to the most
+26 recently concluded state fiscal year:
+27 (1) The number of low income customers enrolled in the
+28 electricity supplier's low income customer assistance program
+29 at the beginning and end of the state fiscal year.
+30 (2) The total amount of assistance provided to low income
+31 customers under the electricity supplier's program.
+32 (3) The median amount of assistance provided to each
+33 customer under the electricity supplier's program.
+34 (4) Subject to subsection (c), an identification of the sources
+35 and amounts of any money, services, or property contributed
+36 to the electricity supplier's program by or through:
+37 (A) governmental agencies or programs; or
+38 (B) other third parties, including voluntary charitable
+39 contributions from nonprofit organizations or from
+40 employees, customers, or shareholders of the electricity
+41 supplier.
+42 (5) An identification of the amounts of any:
+EH 1002—LS 7032/DI 101
+
+34
+1 (A) per customer funding limits;
+2 (B) enrollment limits; or
+3 (C) other limits, caps, or restrictions;
+4 established by the electricity supplier under section 5(b) of
+5 this chapter, along with information as to whether and when
+6 any such limits, caps, or restrictions were reached or applied
+7 during the state fiscal year.
+8 (b) Subject to subsection (c), an electricity supplier shall provide
+9 the commission, at the time and in the manner prescribed by the
+10 commission, any information required under subsection (a) to be
+11 included in the commission's annual report.
+12 (c) Upon request by an electricity supplier, the commission shall
+13 determine whether any information and related materials
+14 described in subsection (a):
+15 (1) are confidential under IC 5-14-3-4;
+16 (2) are exempt from public access and disclosure by Indiana
+17 law; and
+18 (3) must be treated as confidential and protected from public
+19 access and disclosure by the commission.
+20 In addition, an electricity supplier is not required to name
+21 individual third party donors under subsection (a)(4) and may
+22 instead report the types of third party organizations and
+23 individuals that contributed to the electricity supplier's program
+24 and the amounts contributed by each type.
+25 Sec. 12. The commission shall adopt rules under IC 4-22-2 to
+26 implement this chapter.
+27 SECTION 12. [EFFECTIVE UPON PASSAGE] (a) As used in this
+28 SECTION, "commission" refers to the Indiana utility regulatory
+29 commission created by IC 8-1-1-2.
+30 (b) Not later than May 1, 2026, the commission shall amend the
+31 following rules of the commission as necessary to conform the rules
+32 with IC 8-1-2-121, as amended by this act:
+33 (1) 170 IAC 4.
+34 (2) Any other rule that:
+35 (A) has been adopted by the commission; and
+36 (B) is inconsistent with IC 8-1-2-121, as amended by this
+37 act.
+38 (c) This SECTION expires January 1, 2027.
+39 SECTION 13. [EFFECTIVE UPON PASSAGE] (a) Before
+40 January 1, 2027, the commission shall amend 170 IAC 4-1-23 as
+41 necessary to conform 170 IAC 4-1-23 to the requirements of
+42 IC 8-1-46, as added by this act.
+EH 1002—LS 7032/DI 101
+
+35
+1 (b) This SECTION expires January 2, 2027.
+2 SECTION 14. An emergency is declared for this act.
+EH 1002—LS 7032/DI 101
+
+36
+COMMITTEE REPORT
+Mr. Speaker: Your Committee on Utilities, Energy and
+Telecommunications, to which was referred House Bill 1002, has had
+the same under consideration and begs leave to report the same back
+to the House with the recommendation that said bill be amended as
+follows:
+Page 1, line 3, delete ""budget" and insert ""levelized".
+Page 2, line 15, delete "budget" and insert "levelized".
+Page 2, line 19, delete "budget" and insert "levelized".
+Page 2, line 23, delete "budget" and insert "levelized".
+Page 2, line 24, delete "budget" and insert "levelized".
+Page 2, line 27, delete "budget" and insert "levelized".
+Page 2, line 29, delete "budget" and insert "levelized".
+Page 2, line 30, delete "budget" and insert "levelized".
+Page 2, line 32, delete "least" and insert "such".
+Page 2, line 33, delete "two (2)".
+Page 2, line 35, delete "customers." and insert "customers, but not
+more than two (2) times during a calendar year.".
+Page 2, line 40, delete "budget" and insert "levelized".
+Page 3, line 1, delete "budget" and insert "levelized".
+Page 3, line 22, delete "budget" and insert "levelized".
+Page 3, line 23, delete "budget" and insert "levelized".
+Page 3, line 34, delete "budget" and insert "levelized".
+Page 3, line 35, delete "budget" and insert "levelized".
+Page 3, between lines 36 and 37, begin a new paragraph and insert:
+"(h) Except as provided in subsection (i), an electricity supplier
+may not refer to or promote a levelized billing plan required under
+this section as a "budget billing plan" in:
+(1) the information required to be posted on the electricity
+supplier's website under subsection (g);
+(2) any customer bill that is issued after June 30, 2026; or
+(3) any customer or external communications made after June
+30, 2026.
+(i) The prohibition set forth in subsection (h) does not apply
+with respect to a billing plan that provides for levelized payments
+if the plan also allows a customer to:
+(1) pay current or past due amounts for utility service in
+lower amounts, over an extended period of time, or according
+to another schedule agreed upon by the electricity supplier
+and the customer;
+(2) defer the payment of current or past due amounts for
+EH 1002—LS 7032/DI 101
+
+37
+utility service to some future date; or
+(3) receive a forbearance with respect to the payment of
+certain amounts owed.".
+Page 3, line 37, delete "(h)" and insert "(j)".
+Page 3, line 41, delete "This section does" and insert "Subsections
+(g) and (j) do".
+Page 6, between lines 15 and 16, begin a new paragraph and insert:
+"SECTION 3. IC 8-1-2-113, AS AMENDED BY P.L.93-2024,
+SECTION 65, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 113. (a) Subject to subsections (b) and (c),
+the commission may, when it considers it necessary to prevent injury
+to the business or interests of the people of, or any public utility of this
+state operating in, Indiana in case the event of any emergency to be
+judged by the commission, that results from:
+(1) a national economic depression;
+(2) an act of war; or
+(3) a disaster of unprecedented size and destructiveness
+resulting from manmade or natural causes;
+recommend that the governor declare a disaster emergency under
+IC 10-14-3-12 or proclaim a state of energy emergency under
+IC 10-14-3-13, as applicable, during which the commission may
+temporarily alter, amend, or with the consent of the public utility
+concerned, suspend any existing rates, service, practices, schedules,
+and order or orders relating to or affecting any public utility or part of
+any public utility operating in this state. Indiana. The alterations,
+amendments, or suspensions of the rates, service, schedules, or
+practices made by the commission shall may apply to one (1) or more
+of the public utilities operating in this state or to any portion thereof,
+Indiana, as directed by the commission, and shall take effect at the
+time and remain in force only for the length of time prescribed by the
+commission. duration of the disaster emergency or the energy
+emergency, as applicable.
+(b) The commission may adopt rules under IC 4-22-2 to carry out
+this section.
+(b) The declaration of a disaster emergency by the governor
+upon the recommendation of the commission under subsection (a)
+is subject to:
+(1) the time limitations set forth in IC 10-14-3-12(b); and
+(2) termination by the general assembly under
+IC 10-14-3-12(c).
+(c) The proclamation of a state of energy emergency by the
+governor upon the recommendation of the commission under
+EH 1002—LS 7032/DI 101
+
+38
+subsection (a) is subject to:
+(1) the time limitation set forth in IC 10-14-3-13(c); and
+(2) approval by the general assembly under IC 10-14-3-13(d)
+with respect to a second or subsequent renewal of the
+proclamation.".
+Page 6, delete lines 24 through 31.
+Page 6, line 32, delete "(d)" and insert "(c)".
+Page 6, line 33, delete "(i), the following apply with respect to the
+termination" and insert "(h),".
+Page 6, delete line 34.
+Page 6, line 35, delete "(1) An" and insert "an".
+Page 6, run in lines 33 through 35.
+Page 6, line 36, after "15" insert "or, in the case of an electric
+utility, from June 1 through September 23".
+Page 6, run in line 41 through page 7, line 18.
+Page 6, delete line 42.
+Page 7, delete lines 1 through 17.
+Page 7, line 18, delete "For purposes of subdivision (1), the" and
+insert "The".
+Page 7, delete lines 21 through 33, begin a new paragraph and
+insert:
+"(d) Not later than June 1, 2026, an electric or gas utility shall
+post on the electric or gas utility's website a notice that:
+(1) informs customers of the relief available to eligible
+customers under subsection (c); and
+(2) includes:
+(A) a toll free telephone number; or
+(B) a link to a web page;
+that a customer may call or access for information on how to
+apply for assistance from a heating assistance program
+administered under IC 4-4-33.".
+Page 7, line 34, delete "(f)" and insert "(e)".
+Page 8, line 1, delete "(g)" and insert "(f)".
+Page 8, line 5, delete "(h)" and insert "(g)".
+Page 8, line 7, delete "(i)" and insert "(h)".
+Page 8, between lines 19 and 20, begin a new paragraph and insert:
+"SECTION 5. IC 8-1-6.1 IS ADDED TO THE INDIANA CODE AS
+A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+1, 2026]:
+Chapter 6.1. Quarterly Residential Customer Reports by
+Electricity Suppliers
+Sec. 1. As used in this chapter, "budget billing arrangement"
+EH 1002—LS 7032/DI 101
+
+39
+means a levelized payment plan, however denominated, that:
+(1) applies to a customer's account with an electricity
+supplier;
+(2) provides for the payment of a customer's bill in equal
+monthly installments; and
+(3) involves a reconciliation mechanism in which:
+(A) the amount of utility service actually used by the
+customer during a specified period is compared with the
+amount of utility service for which the customer was billed
+under the plan during the specified period; and
+(B) the customer's account is either billed or credited, as
+appropriate, for any difference identified under clause (A).
+Sec. 2. As used in this chapter, "customer" refers to a
+residential customer who has agreed to pay for utility service from
+an electricity supplier.
+Sec. 3. As used in this chapter, "electricity supplier" means a
+person, however organized, that:
+(1) provides utility service to customers in Indiana; and
+(2) is under the jurisdiction of the commission for the
+approval of rates and charges.
+Sec. 4. As used in this chapter, "office" refers to the office of
+utility consumer counselor created by IC 8-1-1.1-2.
+Sec. 5. As used in this chapter, "payment plan" means a
+payment arrangement that:
+(1) is entered into by an electricity supplier and a customer of
+the electricity supplier; and
+(2) allows the customer to:
+(A) pay current or past due amounts for utility service in
+lower amounts or over an extended period of time, or
+according to another agreed upon schedule;
+(B) defer the payment of current or past due amounts for
+utility service to some future date; or
+(C) receive a forbearance with respect to the payment of
+certain amounts owed.
+Sec. 6. As used in this chapter, "protected account" means an
+account that:
+(1) is for utility service that:
+(A) is provided to a customer who is vulnerable because of
+advanced age, serious illness, or disability; and
+(B) is not subject to termination or disconnection for
+nonpayment or for which termination or disconnection for
+nonpayment is restricted during specified periods; or
+EH 1002—LS 7032/DI 101
+
+40
+(2) otherwise qualifies as a protected account under guidelines
+adopted by the office under section 9 of this chapter.
+Sec. 7. As used in this chapter, "utility service" means
+residential electric service that is provided at retail.
+Sec. 8. (a) An electricity supplier shall submit to the office
+quarterly reports containing the information set forth in this
+subsection with respect to the calendar quarter covered by the
+report. A report under this subsection shall be submitted to the
+office in the manner and form prescribed by the office and not
+later than thirty (30) days after the last day of the calendar quarter
+covered by the report. The first report submitted to the office
+under this subsection must cover the third calendar quarter of
+2026. A report under this subsection must include the following
+information for each month in the calendar quarter covered by the
+report, including, to the extent available, a comparison of the same
+information for the same month of the immediately preceding
+calendar year:
+(1) The total number of open customer accounts.
+(2) The total amount billed by the electricity supplier for all
+open customer accounts.
+(3) The total gross receipts received by the electricity supplier
+for all open customer accounts.
+(4) Of the total amount of gross receipts reported under
+subdivision (3), the total amount that was paid through a
+home energy assistance program administered under
+IC 4-4-33.
+(5) The total number of customers who received assistance
+from a home energy assistance program administered under
+IC 4-4-33.
+(6) The total number of open protected accounts for
+customers.
+(7) The total number of open customer accounts that were
+delinquent for at least sixty (60) days and not more than
+ninety (90) days.
+(8) The total dollar amount owed with respect to the accounts
+identified under subdivision (7).
+(9) The total number of open customer accounts that were
+delinquent for more than ninety (90) days.
+(10) The total dollar amount owed with respect to the
+accounts identified under subdivision (9).
+(11) The total number of customer accounts referred for
+collection to an attorney or a collection agency.
+EH 1002—LS 7032/DI 101
+
+41
+(12) The total number of new payment plans entered into
+between the electricity supplier and customers of the
+electricity supplier.
+(13) The total number of new budget billing plans applied to
+customer accounts.
+(14) The total number of customer accounts sent a notice of
+disconnection for nonpayment.
+(15) The total number of utility service disconnections
+performed for nonpayment.
+(16) The total number of utility service restorations after
+disconnection for nonpayment.
+(17) The average duration of utility service disconnection for
+customer accounts identified under subdivision (16).
+(18) The total number of customer accounts written off as
+uncollectible.
+(19) The total dollar value of customer accounts identified
+under subdivision (18).
+(20) The total dollar value of recovered bad debt with respect
+to customer accounts.
+(21) Any other relevant information concerning customer
+accounts that the office:
+(A) considers appropriate in evaluating:
+(i) the payment history of customers; and
+(ii) the billing and related practices of electricity
+suppliers with respect to customers; and
+(B) requires under guidelines adopted under section 9 of
+this chapter.
+(b) An electricity supplier shall report all information and data
+required under subsection (a) in the aggregate and in a manner
+that does not identify individual customers of the electricity
+supplier.
+(c) This section does not empower the office to require
+electricity suppliers to disclose confidential and proprietary
+business information without adequate protection of the
+information. The office shall exercise all necessary caution to avoid
+disclosure of any confidential information reported by electricity
+suppliers under this section.
+Sec. 9. The office shall adopt guidelines to implement this
+chapter.
+Sec. 10. Beginning in 2027, the office shall annually compile and
+summarize the information received from electricity suppliers
+under section 8 of this chapter for the previous calendar year and
+EH 1002—LS 7032/DI 101
+
+42
+include the office's summary of the information in the office's
+annual report to the interim study committee on energy, utilities,
+and telecommunications.".
+Page 12, line 31, delete "(a)".
+Page 13, delete lines 3 through 9.
+Page 14, line 5, delete "February" and insert "March".
+Page 14, line 32, delete "February" and insert "March".
+Page 15, line 2, delete "days only," and insert "days,".
+Page 16, line 26, delete "supplier's proposed:" and insert
+"supplier's:".
+Page 16, delete lines 27 through 30, begin a new line double block
+indented and insert:
+"(A) case in chief (as defined in IC 8-1-2-42.7(c), including
+the electricity supplier's proposed:
+(i) revenue requirement; and
+(ii) base rates for each customer class; and
+(B) proposed test period using forward looking periods the
+close of which correspond with the end of the second and
+third rate years in the electricity supplier's multi-year rate
+plan;".
+Page 16, line 37, after "test year" insert "under IC 8-1-2-42.7(e)".
+Page 17, line 3, after "established" insert "using:
+(A) changes in the electricity supplier's net plant in service
+from the end of the immediately preceding rate year,
+including any difference between:
+(i) actual net plant in service at the end of the rate year;
+and
+(ii) the projected net plant in service used in the
+electricity supplier's test period for that rate year; and
+(B) changes in the net balance of any regulatory asset or
+liability from the end of the immediately preceding rate
+year.".
+Page 17, delete lines 4 through 8.
+Page 17, line 33, delete "Two (2) service restoration performance
+metrics," and insert "A service performance restoration metric
+that:".
+Page 17, delete lines 34 through 36.
+Page 17, line 37, delete "are" and insert "is".
+Page 17, line 39, delete "are" and insert "is".
+Page 17, line 42, delete "are each used by the commission to
+establish two (2)" and insert "is used by the commission to establish
+a service restoration PIM that applies to that rate year.".
+EH 1002—LS 7032/DI 101
+
+43
+Page 18, delete lines 1 through 2.
+Page 18, line 3, delete "Two (2) service restoration PIMs" and insert
+"A service restoration PIM".
+Page 18, line 4, delete "are" and insert "is".
+Page 18, line 5, delete "metrics" and insert "metric".
+Page 18, line 7, delete "provide" and insert "provides".
+Page 18, line 10, delete "operates".
+Page 18, line 11, delete "independently of, and".
+Page 18, line 12, delete "from," and insert "from".
+Page 18, line 17, after "plan." insert "In an electricity supplier's
+first petition for a multi-year rate plan under this chapter, the
+electricity supplier shall include a plan to incorporate planned
+capital expenditures, subject to preapproval by the commission,
+into the electricity supplier's subsequent multi-year rate plans
+under this chapter.".
+Page 19, between lines 1 and 2, begin a new line block indented and
+insert:
+"(5) That the multi-year rate plan meets any other legal
+requirement.".
+Page 19, line 4, after "of" insert "the office of utility consumer
+counselor or".
+Page 20, line 9, delete "normalized".
+Page 20, delete lines 12 through 27, begin a new line block indented
+and insert:
+"STEP ONE: Determine the electricity supplier's average
+SAIDI over the course of the five (5) calendar years
+immediately preceding the most recently concluded calendar
+year, including major event days, for the electricity supplier's
+system in Indiana as a whole.
+STEP TWO: Determine the electricity supplier's SAIDI for
+the most recently concluded calendar year, including major
+event days, for the electricity supplier's system in Indiana as
+a whole.".
+Page 20, line 35, delete "normalized".
+Page 20, line 37, delete "normalized".
+Page 20, line 42, delete "normalized".
+Page 21, delete lines 6 through 42.
+Page 22, delete lines 1 through 5.
+Page 22, line 27, after "metric;" insert "and".
+Page 22, line 28, delete "normalized".
+Page 22, delete lines 29 through 30.
+Page 22, line 38, after "metric;" insert "and".
+EH 1002—LS 7032/DI 101
+
+44
+Page 22, line 39, delete "normalized".
+Page 22, delete lines 40 through 41.
+Page 24, line 15, delete "through:" and insert "through
+contributions of any money, services, or property that have been
+or will be provided at no cost to the electricity supplier by or
+through any:
+(A) governmental agency or program; or
+(B) other third party, including voluntary charitable
+contributions from nonprofit organizations or from
+employees, customers, or shareholders of the electricity
+supplier;
+in support of the program.".
+Page 24, delete lines 16 through 25.
+Page 25, line 25, delete "6" and insert "(6)(1)".
+Page 25, line 29, delete "6" and insert "(6)(1)".
+Page 25, line 36, delete "(a)".
+Page 25, line 37, delete "allocate to" and insert "fund".
+Page 25, line 38, after "program" insert "in".
+Page 25, line 39, delete "to at least fifty percent (50%) of the amount
+of any lost" and insert "to:
+(1) at least two-tenths percent (0.2%) of the electricity
+supplier's jurisdictional revenues for residential customers;
+plus
+(2) any contributions from:
+(A) governmental agencies or programs; or
+(B) other third parties, including voluntary charitable
+contributions from nonprofit organizations or from
+employees, customers, or shareholders of the electricity
+supplier.".
+Page 25, delete lines 40 through 42.
+Page 26, delete lines 1 through 11.
+Page 27, line 35, after "allocated" insert "or contributed".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass.
+(Reference is to HB 1002 as introduced.)
+SOLIDAY
+Committee Vote: yeas 13, nays 0.
+EH 1002—LS 7032/DI 101
+
+45
+HOUSE MOTION
+Mr. Speaker: I move that House Bill 1002 be amended to read as
+follows:
+Page 8, line 1, delete "(h), an electric or gas utility may not
+terminate" and insert "(i), the following apply with respect to the
+termination of residential electric or gas service:
+(1) An electric or gas utility may not terminate residential
+electric or gas service from December 1 through March 15 of
+any year no electric or gas utility, including a municipally owned,
+privately owned, or cooperatively owned utility, shall terminate
+residential electric or gas service for persons customers who are
+eligible for and have applied for assistance from a heating
+assistance program administered under IC 4-4-33.
+(2) Subject to subsection (d), on any day for which a local
+weather forecast office of the National Weather Service has
+forecast, not earlier than forty-eight (48) hours in advance, a
+heat index of at least ninety-five (95) degrees Fahrenheit for
+a county or region within an electric utility's assigned service
+area under IC 8-1-2.3, the electric utility may not terminate
+residential electric service for customers who:
+(A) receive residential electric service from the electric
+utility at a location to which the forecasted heat index
+applies; and
+(B) are eligible for and have applied for assistance under
+a heating assistance program administered under
+IC 4-4-33 during the calendar year in which the forecast is
+made.
+For purposes of subdivision (1), the commission shall implement
+procedures to ensure that electric or gas utility service is continued
+while eligibility for such persons customers is being determined.
+(d) If:
+(1) an electric utility has provided a notice of disconnection to
+a customer described in subsection (c)(2) before the local
+weather forecast office of the National Weather Service
+forecasts a heat index described in subsection (c)(2) for the
+customer's service location; and
+(2) the fourteen (14) day period following the issuance of the
+disconnection notice during which the electric utility is
+prohibited from terminating the customer's electric service
+under 170 IAC 4-1-16 has not elapsed on the date the forecast
+is made;
+EH 1002—LS 7032/DI 101
+
+46
+the fourteen (14) day period described in subdivision (2) is tolled
+for a period beginning on the date on which the forecasted heat
+index described in subsection (c)(2) is made by the local weather
+forecast office of the National Weather service and ending at 11:59
+p.m. on the first day that follows the day with respect to which the
+forecast was made and during which the forecasted heat index is
+not reached.".
+Page 8, delete lines 2 through 11.
+Page 8, line 12, delete "(d)" and insert "(e)".
+Page 8, line 22, delete "(e)" and insert "(f)".
+Page 8, line 31, delete "(f)" and insert "(g)".
+Page 8, line 35, delete "(g)" and insert "(h)".
+Page 8, line 37, delete "(h)" and insert "(i)".
+Page 9, line 13, delete ""budget billing arrangement"" and insert
+""levelized billing plan" has the meaning set forth in IC 8-1-2-4.7.".
+Page 9, delete lines 14 through 25.
+Page 11, line 17, delete "budget" and insert "levelized".
+Page 19, line 7, delete "December 31, 2026," and insert "November
+15, 2026,".
+Page 19, line 7, delete "February 1, 2027," and insert "December
+15, 2026,".
+Page 32, delete line 31.
+Page 32, line 32, delete "(3)" and insert "(2)".
+(Reference is to HB 1002 as printed January 22, 2026).
+SHONKWILER
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Utilities, to which was
+referred House Bill No. 1002, has had the same under consideration
+and begs leave to report the same back to the Senate with the
+recommendation that said bill be AMENDED as follows:
+Page 1, between the enacting clause and line 1, begin a new
+paragraph and insert:
+"SECTION 1. IC 4-22-2.3-7, AS ADDED BY P.L.249-2023,
+SECTION 43, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 7. The Indiana utility regulatory commission
+may adopt interim rules under the interim rule procedures in
+IC 4-22-2-37.2 pursuant to its authority under IC 8-1-1-3(g). or
+EH 1002—LS 7032/DI 101
+
+47
+IC 8-1-2-113. A rule described in this section expires not later than two
+(2) years after the rule is accepted for filing by the publisher of the
+Indiana Register and may not be continued in another interim rule.".
+Page 2, line 5, after "tariff." insert "The term does not include a
+residential customer who has agreed to pay for utility service from
+an electricity supplier under an alternative billing tariff approved
+by the commission.".
+Page 2, line 7, delete "however organized," and insert "other than
+a municipally owned utility (as defined in IC 8-1-2-1(h)),".
+Page 2, line 18, delete "tariff; and" and insert "tariff to a customer
+who is part of a household that is eligible for and has applied for
+assistance from a home energy assistance program administered
+under IC 4-4-33; and".
+Page 2, line 20, after "customer" insert "of the electricity supplier".
+Page 2, line 22, after "out of" delete "the" and insert "a".
+Page 2, line 38, delete "having an active account for utility" and
+insert "described in subsection (e)(1)".
+Page 2, delete line 39.
+Page 2, line 40, delete "residential tariff".
+Page 7, line 40, delete "municipally owned, privately owned," and
+insert "privately owned".
+Page 8, line 14, delete "region" and insert "part of a county".
+Page 8, line 36, delete "has not elapsed on the date the forecast" and
+insert "would have elapsed on the forecasted date for the heat index
+to reach the level described in subsection (c)(2);".
+Page 8, delete line 37.
+Page 8, delete lines 39 through 41.
+Page 8, line 42, delete "p.m. on" and insert "until".
+Page 9, between lines 40 and 41, begin a new paragraph and insert:
+"SECTION 6. IC 8-1-2.6-2, AS AMENDED BY P.L.107-2014,
+SECTION 2, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 2. (a) This section applies to rules and orders
+that:
+(1) concern telecommunications service or providers of
+telecommunications service; and
+(2) may be adopted or issued by the commission under the
+authority of state or federal law.
+(b) Rules and orders described in this section:
+(1) may be adopted or issued only after notice and hearing,
+unless:
+(A) the commission determines acts in accordance with
+IC 8-1-2-113 that an during a disaster emergency exists that
+EH 1002—LS 7032/DI 101
+
+48
+is declared by the governor and that requires the commission
+or a provider to take immediate action to:
+(i) prevent injury to the business or interests of the citizens
+of Indiana; or
+(ii) maintain a provider's financial integrity and ability to
+provide adequate basic telecommunications service;
+(B) the commission is authorized under IC 8-1-2 to adopt a
+particular rule or issue a particular order without the necessity
+of a hearing; or
+(C) after receiving notice of the commission's proposed action,
+all parties to a proceeding consent to the commission taking
+action without a hearing; and
+(2) must be:
+(A) consistent with this chapter; and
+(B) in the public interest, as determined by the commission
+under subsection (d).
+(c) Rules and orders described in this section must promote one (1)
+or more of the following:
+(1) Cost minimization for providers to the extent that a provider's
+quality of service and facilities are not diminished.
+(2) A more accurate evaluation by the commission of a provider's
+physical or financial conditions or needs as well as a less costly
+regulatory procedure for either the provider, the provider's
+customers, or the commission.
+(3) Consumer access to affordable basic telecommunications
+service.
+(4) Development of depreciation guidelines and procedures that
+recognize technological obsolescence.
+(5) Increased provider management efficiency beneficial to
+customers.
+(6) Regulation consistent with a competitive environment.
+(d) In determining whether the public interest will be served, as
+required under subsection (b), the commission shall consider:
+(1) whether technological change, competitive forces, or
+regulation by other state and federal regulatory bodies render the
+exercise of jurisdiction by the commission unnecessary or
+wasteful;
+(2) whether the exercise of commission jurisdiction produces
+tangible benefits to the customers of providers; and
+(3) whether the exercise of commission jurisdiction inhibits a
+regulated entity from competing with unregulated providers of
+functionally similar telecommunications services or equipment.".
+EH 1002—LS 7032/DI 101
+
+49
+Page 10, line 10, delete "however organized," and insert "other
+than a municipally owned utility (as defined in IC 8-1-2-1(h)),".
+Page 10, line 29, delete "that:" and insert "that is for utility service
+that is provided to a customer who is eligible for and has applied
+for assistance from a home energy assistance program
+administered under IC 4-4-33.".
+Page 10, delete lines 30 through 37.
+Page 11, delete lines 12 through 19.
+Page 11, line 20, delete "(5)" and insert "(2)".
+Page 11, line 23, delete "(6)" and insert "(3)".
+Page 11, delete lines 25 through 29.
+Page 11, line 30, delete "(9)" and insert "(4)".
+Page 11, line 31, delete "ninety (90)" and insert "sixty (60)".
+Page 11, line 32, delete "(10)" and insert "(5)".
+Page 11, line 33, delete "(9)." and insert "(4).".
+Page 11, delete lines 34 through 35.
+Page 11, line 36, delete "(12)" and insert "(6)".
+Page 11, line 36, delete "new".
+Page 11, line 39, delete "(13)" and insert "(7)".
+Page 11, line 39, delete "new".
+Page 11, line 41, delete "(14)" and insert "(8)".
+Page 12, line 1, delete "(15)" and insert "(9)".
+Page 12, delete lines 3 through 8.
+Page 12, line 9, delete "(19)" and insert "(10)".
+Page 12, line 9, delete "identified" and insert "written off as
+uncollectible.".
+Page 12, delete lines 10 through 20.
+Page 12, between lines 38 and 39, begin a new paragraph and insert:
+"SECTION 8. IC 8-1-32.4-15, AS AMENDED BY P.L.8-2012,
+SECTION 8, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+UPON PASSAGE]: Sec. 15. (a) The commission may declare act in
+accordance with IC 8-1-2-113 that an during a disaster emergency
+exists in that is declared by the governor and that includes an area
+in Indiana that is not served by any communications service provider
+offering voice service through any technology or medium. If the
+commission declares an acts in accordance with IC 8-1-2-113 during
+a declared disaster emergency, under this section, the commission
+may issue any order necessary to protect the health, safety, and welfare
+of affected residents or businesses and may expedite the availability of
+voice service to the affected residents or businesses.
+(b) If the commission authorizes a communications service provider
+to offer voice service under this section, the commission shall permit
+EH 1002—LS 7032/DI 101
+
+50
+the communications service provider to offer the voice service through
+any available technology or medium determined by the
+communications service provider.".
+Page 15, line 20, delete "1336." and insert "1366.".
+Page 15, line 33, delete "1336"" and insert "1366"".
+Page 15, line 34, delete "1336," and insert "1366,".
+Page 15, line 40, delete "1336, the version of IEEE 1336" and insert
+"1366, the version of IEEE 1366".
+Page 16, line 7, delete "1336." and insert "1366.".
+Page 18, line 5, delete "1336." and insert "1366.".
+Page 18, line 16, delete "1336." and insert "1366.".
+Page 19, line 21, delete "subsection (b)," and insert "subsections (b)
+and (c),".
+Page 20, between lines 16 and 17, begin a new paragraph and insert:
+"(b) An electricity supplier may file its first petition with the
+commission for approval of a multi-year rate plan under this
+chapter before the beginning of the time frame that would
+otherwise apply to the electricity supplier under subsection (a) if
+the petition:
+(1) requests approval of a reduction in the electricity
+supplier's overall revenue requirement for the first rate year
+of the multi-year rate plan;
+(2) meets all requirements for a multi-year rate plan under
+this chapter; and
+(3) is filed with the commission not later than September 1,
+2026.".
+Page 20, line 17, delete "(b)" and insert "(c)".
+Page 20, line 18, delete "under IC 8-1-2-113".
+Page 20, line 28, delete "(c)" and insert "(d)".
+Page 21, between lines 30 and 31, begin a new line block indented
+and insert:
+"As used in this subdivision, "net plant in service" refers to
+both utility plant in service and accumulated depreciation.".
+Page 22, between lines 27 and 28, begin a new paragraph and insert:
+"(b) An electricity supplier's petition for approval of a
+multi-year rate plan under this chapter may include alternative
+regulatory practices, procedures, accounting treatments, and
+mechanisms that are consistent with this chapter.".
+Page 22, line 28, delete "(b)" and insert "(c)".
+Page 22, line 39, delete "(c)" and insert "(d)".
+Page 27, line 11, delete "however organized," and insert "other
+than a municipally owned utility (as defined in IC 8-1-2-1(h)),".
+EH 1002—LS 7032/DI 101
+
+51
+Page 28, line 34, delete "(6)(1)" and insert "6(1)".
+Page 28, line 38, delete "(6)(1)" and insert "6(1)".
+Page 28, line 39, after "at" insert "the".
+Page 30, line 14, after "petition" insert "with".
+Page 31, line 13, after "(d)," insert "if".
+Page 31, line 36, delete "for recovery".
+Renumber all SECTIONS consecutively.
+and when so amended that said bill do pass and be reassigned to the
+Senate Committee on Appropriations.
+(Reference is to HB 1002 as reprinted January 28, 2026.)
+KOCH, Chairperson
+Committee Vote: Yeas 8, Nays 0.
+_____
+COMMITTEE REPORT
+Mr. President: The Senate Committee on Appropriations, to which
+was referred Engrossed House Bill No. 1002, has had the same under
+consideration and begs leave to report the same back to the Senate with
+the recommendation that said bill DO PASS.
+(Reference is to EHB 1002 as printed February 10, 2026.)
+MISHLER, Chairperson
+Committee Vote: Yeas 9, Nays 0
+EH 1002—LS 7032/DI 101

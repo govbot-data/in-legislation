@@ -1,0 +1,497 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 152
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 8-1.
+Synopsis: Utilities matters. Allows an electric or gas utility to
+establish a customer assistance program for qualified residential
+customers. Requires the approval of the Indiana utility regulatory
+commission (IURC) before a public utility may sell stock, enter into
+certain contracts, effect a reorganization, or acquire control of another
+public utility. Provides that if a public utility requests IURC approval
+of the sale, assignment, or transfer of the public utility's franchise,
+works, or system, the IURC shall grant a right of first refusal to: (1) a
+municipality in which the public utility's works or system is located; or
+(2) a public charitable trust; for the purchase or acquisition of the
+public utility's franchise, works, or system. Provides that the IURC may
+not authorize a public utility that: (1) provides retail electric or natural
+gas service; and (2) is under the IURC's jurisdiction for the approval of
+rates and charges (energy utility); to recover through the energy utility's
+retail rates and charges any direct or indirect costs associated with
+specified expenses and activities related to lobbying, legislative action,
+political activities, charitable giving, litigation, investor relations, and
+other specified activities and expenses. Requires an energy utility,
+beginning in 2026, to file with the IURC an annual report that includes
+specified information concerning costs to: (1) the energy utility; or (2)
+an affiliate of the energy utility; that are related to these expenses or
+activities and that are directly billed or allocated to the energy utility.
+Requires the IURC to make available on the IURC's website a direct
+link to the annual reports provided by all energy utilities under these
+(Continued next page)
+Effective: Upon passage; July 1, 2026.
+Hunley, Ford J.D., Spencer
+January 5, 2026, read first time and referred to Committee on Utilities.
+2026 IN 152—LS 6487/DI 119
+
+Digest Continued
+provisions. Provides that on any customer bill issued by an energy
+utility after December 31, 2026, the energy utility must include a break
+down of the charges and fees that make up the total amount owed,
+including a description of the service or cost associated with each
+charge or fee. Sets forth certain charges and fees that must be
+delineated as specific line items on each customer bill.
+22002266 IINN 115522——LLSS 66448877//DDII 111199
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 152
+A BILL FOR AN ACT to amend the Indiana Code concerning
+utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 8-1-2-46, AS AMENDED BY P.L.233-2017,
+2 SECTION 9, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 UPON PASSAGE]: Sec. 46. (a) The commission shall provide for a
+4 comprehensive classification of such service for each public utility and
+5 such classification may take into account the quantity used, the time
+6 when used, the purpose for which used and other reasonable
+7 consideration. Each public utility is required to conform its schedules
+8 of rates, tolls, and charges to such classification.
+9 (b) As used in this section, "energy utility" means:
+10 (1) a public utility, as defined in section 1(a) of this chapter;
+11 (2) a municipally owned utility, as defined in section 1(h) of
+12 this chapter;
+13 (3) a cooperatively owned utility; or
+14 (4) a not-for-profit utility, including a utility company owned,
+15 operated, or held in trust by a consolidated city;
+16 that provides electric utility service, gas utility service, or both
+17 electric utility service and gas utility service to the public.
+2026 IN 152—LS 6487/DI 119
+
+2
+1 (c) As used in this section, "utility" means:
+2 (1) an energy utility; or
+3 (2) a water or wastewater utility.
+4 (b) (d) As used in this section, "water or wastewater utility" means:
+5 (1) a public utility, as defined in section 1(a) of this chapter;
+6 (2) a municipally owned utility, as defined in section 1(h) of this
+7 chapter; or
+8 (3) a not-for-profit utility, as defined in section 125(a) of this
+9 chapter;
+10 that provides water or wastewater service to the public.
+11 (c) (e) Upon request by a water or wastewater utility in a general
+12 rate case, the commission may allow, but may not require, a water or
+13 wastewater utility to establish a customer assistance program that:
+14 (1) uses state or federal infrastructure funds, as applicable; or
+15 (2) provides financial relief to residential customers who qualify
+16 for income related assistance.
+17 A customer assistance program established under this subsection that
+18 affects rates and charges for service is not discriminatory for purposes
+19 of this chapter or any other law regulating rates and charges for service.
+20 In considering whether to approve a water or wastewater utility's
+21 proposed customer assistance program, the commission shall determine
+22 that a customer assistance program established under this subsection
+23 furthers the interests set forth in section 0.5 of this chapter and is in the
+24 public interest.
+25 (d) (f) The commission shall adopt rules under IC 4-22-2 to
+26 implement this section.
+27 SECTION 2. IC 8-1-2-83, AS AMENDED BY P.L.136-2018,
+28 SECTION 49, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+29 JULY 1, 2026]: Sec. 83. (a) This section does not apply to:
+30 (1) a corporation organized or operating under IC 8-1-13; or
+31 (2) a corporation organized under IC 23-17, some of the
+32 members of which are local district corporations (as defined
+33 in IC 8-1-13-23(b)).
+34 (b) As used in this section, "control" means the power to direct
+35 the management and policies of a public utility, utility company, or
+36 utility holding company through:
+37 (1) the ownership of voting securities or stock;
+38 (2) the terms of a contract; or
+39 (3) other means.
+40 The term does not include power from holding an official position
+41 or corporate office with the public utility, utility company, or
+42 utility holding company. Control is presumed to exist if a person,
+2026 IN 152—LS 6487/DI 119
+
+3
+1 directly or indirectly, owns, controls, has the power to vote, or has
+2 the power to vote proxies that constitute at least ten percent (10%)
+3 of the total voting power of the public utility, utility company, or
+4 utility holding company.
+5 (c) As used in this section, "person" means an individual, a firm,
+6 a corporation, a company, a partnership, a limited liability
+7 company, an association, a trustee, a lessee, or a receiver.
+8 (d) As used in this section, "reorganization" means a
+9 transaction that, regardless of the means by which the transaction
+10 is accomplished, results in:
+11 (1) a change in the ownership of a majority of the voting
+12 capital stock of a public utility;
+13 (2) a change in the ownership or control of an entity that owns
+14 or controls a majority of the voting capital stock of a public
+15 utility;
+16 (3) the merger of two (2) public utilities; or
+17 (4) the acquisition by one (1) public utility of substantially all
+18 assets of another public utility.
+19 (e) As used in this section, "utility company" has the same
+20 meaning as the definition of "public utility" under section 1 of this
+21 chapter, except that a utility company owns, operates, manages, or
+22 controls a plant or equipment located outside Indiana.
+23 (f) As used in this section, unless otherwise indicated, "utility
+24 holding company" means a company that has control over one (1)
+25 or more:
+26 (1) public utilities; or
+27 (2) utility companies.
+28 (a) (g) No A public utility as defined in section 1 of this chapter,
+29 shall may not do any of the following without the approval of the
+30 commission after a hearing:
+31 (1) Sell, assign, transfer, lease, or encumber its the public
+32 utility's stock, franchise, works, or system to any other person,
+33 partnership, limited liability company, or corporation. or
+34 (2) Contract for the operation of any part of its the public utility's
+35 works or system by any other person, partnership, limited liability
+36 company, or corporation. without the approval of the commission
+37 after hearing. And no such
+38 (3) Contract for or effect a reorganization of the public utility.
+39 (4) Acquire control, directly or indirectly, of a public utility,
+40 utility company, or utility holding company.
+41 (h) A person may not acquire control, directly or indirectly, of:
+42 (1) a public utility; or
+2026 IN 152—LS 6487/DI 119
+
+4
+1 (2) a utility holding company that has control over a public
+2 utility;
+3 without the approval of the commission after a hearing.
+4 (i) A utility holding company that has control over at least one
+5 (1) public utility may not acquire control of a utility company
+6 without the approval of the commission after a hearing.
+7 (j) If a public utility requests commission approval of the sale,
+8 assignment, or transfer of the public utility's franchise, works, or
+9 system under subsection (g), the commission shall grant a right of
+10 first refusal to:
+11 (1) a municipality in which the public utility's works or system
+12 is located; or
+13 (2) a public charitable trust;
+14 for the purchase or acquisition of the public utility's franchise,
+15 works, or system.
+16 (k) A public utility, except temporarily or in case of emergency and
+17 for a period of not exceeding thirty (30) days, shall may not make any
+18 special contract at rates, other than those prescribed in its the public
+19 utility's schedule of rates theretofore filed with the commission and in
+20 force, with any other utility for rendering any service to or procuring
+21 any service from such other utility, without the approval of the
+22 commission. It shall be lawful, however, for any a public utility to
+23 make a contract for service to or from another utility at rates previously
+24 filed with and approved by the commission and in force.
+25 (b) (l) The approval of the commission of the sale, assignment,
+26 transfer, lease, or encumbrance of a franchise or any part of a franchise
+27 under this section shall not revive or validate any lapsed or invalid
+28 franchise, or enlarge or add to the powers and privileges contained in
+29 the grant of any franchise or waive any forfeiture. No such A public
+30 utility shall may not directly or indirectly purchase, acquire, or become
+31 the owner of any of the property, stock, or bonds of any other public
+32 utility authorized to engage or engaged in the same or a similar
+33 business, or operating or purporting to operate under a franchise from
+34 the same or any other municipality or under an indeterminate permit
+35 unless authorized so to do by the commission.
+36 (c) (m) Nothing contained in this section shall prevent the holding
+37 of stock lawfully acquired before May 1, 1913, or prohibit, upon the
+38 surrender or exchange of said stock pursuant to a reorganization plan,
+39 the purchase, acquisition, taking, or holding by the owner of a
+40 proportionate amount of the stock of any new corporation organized to
+41 take over at foreclosure or other sale, the property of the corporation
+42 whose stock has been thus surrendered or exchanged.
+2026 IN 152—LS 6487/DI 119
+
+5
+1 (d) (n) Every A contract by any a public utility for the purchase,
+2 acquisition, assignment, or transfer to it the public utility of any of the
+3 stock of any other public utility by or through any person, partnership,
+4 limited liability company, or corporation without the approval of the
+5 commission shall be void and of no effect, and no such transfer or
+6 assignment of such stock upon the books of the corporation pursuant
+7 to any such contract shall be effective for any purpose.
+8 SECTION 3. IC 8-1-2-84, AS AMENDED BY P.L.11-2023,
+9 SECTION 34, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+10 JULY 1, 2026]: Sec. 84. (a) With the consent and approval of the
+11 commission and with the authority of their stockholders as provided in
+12 this chapter, but not otherwise, any two (2) or more public utilities
+13 furnishing a like service or product and doing business in the same
+14 municipality or locality within Indiana, or any two (2) or more public
+15 utilities whose lines intersect or parallel each other within Indiana, may
+16 be merged and may enter into contracts with each other which will
+17 enable such public utilities to operate their plants or lines in connection
+18 with each other. Before any merger shall become effective there shall
+19 be filed with the commission proof that the voting stockholders have
+20 authorized or consented to such merger. If the law under which the
+21 company is incorporated or reorganized so provides, then the
+22 authorization and consent of the holders of the majority of the voting
+23 stock shall be shown. In all other cases the consent of the holders of
+24 three-fourths (3/4) of the outstanding voting stock of the company shall
+25 be shown. Such authority and consent may be shown by filing with the
+26 commission a certified copy of the minutes of a stockholders' meeting
+27 or by filing with the commission a written consent of such holders or
+28 both. In case of such merger, union, or consolidation, dissenting
+29 stockholders shall apply to the commission within sixty (60) days after
+30 approval by the commission to have the value of their stock assessed
+31 and determined. Stockholders not so applying shall be held to have
+32 assented. Upon the determination of the value of the stock of such
+33 dissenting stockholder, the corporation in which they are stockholders
+34 may within sixty (60) days pay the dissenting stockholders for their
+35 stock the appraised value thereof, or may elect to abandon the merger,
+36 union, or consolidation by filing with the commission notice of such
+37 election.
+38 (b) It shall not be necessary for any public utility merging, uniting,
+39 or consolidating to comply with such provisions of any law governing
+40 the procedure in the merger, union, or consolidation of corporations as
+41 are in conflict with the provisions of this chapter. This chapter shall not
+42 create any new right of merger or enlarge any such right but is intended
+2026 IN 152—LS 6487/DI 119
+
+6
+1 only to prescribe and simplify the proceedings in mergers which are
+2 authorized by other statutes.
+3 (c) Any such Subject to section 83(j) of this chapter, a public
+4 utility may purchase or lease the used and useful property, plant, or
+5 business, or any part thereof, of any other such public utility at a price
+6 and on terms approved by the commission. Whenever, in the case of
+7 any such purchase, the amount to be paid by the purchaser for the
+8 property, plant, or business to be purchased shall be an amount in
+9 excess of five percent (5%) of the book cost to the purchaser of all the
+10 properties, plants, and business owned by it at the time application is
+11 made to the commission for approval of such purchase, or whenever,
+12 in the case of any such lease, the book cost to the lessor of the property,
+13 plant, or business to be leased shall be an amount in excess of five
+14 percent (5%) of the book cost to the lessee of all the properties, plants,
+15 and business owned by the lessee at the time application is made to the
+16 commission for approval of such lease, there shall be obtained from the
+17 holders of three-fourths (3/4) of the voting stock of such purchaser or
+18 lessee their consent, authority, and approval to such purchase or lease.
+19 (d) Any such public utility may purchase or lease the used and
+20 useful property, plant, or business, or any part thereof, of a municipally
+21 owned utility, as used in this chapter, owned or operated by a city
+22 having a population of more than one hundred fifty thousand (150,000)
+23 and less than five hundred thousand (500,000), with the approval of the
+24 commission at a price or rental and on terms approved by the
+25 commission.
+26 (e) Any such Subject to section 83(j) of this chapter, a public
+27 utility may sell or lease its used or useful property, plant, or business,
+28 or any part thereof, to any other such public utility at a price and on
+29 terms approved by the commission. Whenever in the case of any such
+30 sale or lease the book cost to the seller or lessor of such property, plant,
+31 or business to be sold or leased shall be an amount in excess of five
+32 percent (5%) of the book cost to such seller or lessor of all the
+33 properties, plants, and business owned by it at the time application is
+34 made to the commission for approval of such sale or lease, there shall
+35 be obtained from the holders of three-fourths (3/4) of the voting stock
+36 of such seller or lessor their consent, authority, and approval to such
+37 sale or lease. Whenever in the case of any such sale or lease the book
+38 cost to the seller or lessor of such property, plant, or business to be sold
+39 or leased shall be an amount in excess of twenty percent (20%) of the
+40 book cost to such seller or lessor of all the properties, plants, and
+41 business owned by it at the time application is made to the commission
+42 for approval of such sale or lease, dissenting stockholders of such seller
+2026 IN 152—LS 6487/DI 119
+
+7
+1 or lessor shall, if the sale or lease is consummated, be paid for their
+2 stock the appraised value thereof as determined by the commission.
+3 Dissenting stockholders in such a case shall, within sixty (60) days
+4 after publication of notice of the approval by the commission of such
+5 sale or lease, apply to the commission to have the value of their stock
+6 assessed and determined. Stockholders not so applying shall be held to
+7 have assented. Such publication of notice shall be given by the seller
+8 or lessor to its stockholders by publishing such notice once each week
+9 for three (3) successive weeks in a newspaper of general circulation
+10 printed in the English language and published in Marion County,
+11 Indiana. Upon determination of the value of the stock of such
+12 dissenting stockholders such seller or lessor may within sixty (60) days
+13 either pay the dissenting stockholders for their stock the appraised
+14 value thereof or elect to abandon the sale or lease by filing with the
+15 commission notice of its election to abandon.
+16 (f) No such public utility shall encumber its used and useful
+17 property or business or any part thereof without the approval of the
+18 commission and the consent, authority, and approval of the owners of
+19 three-fourths (3/4) of its voting stock.
+20 (g) Any public utility corporation upon the order of a majority of its
+21 board of directors and with the approval of the commission may
+22 acquire, purchase or lease any real or personal estate or other property
+23 of any other public utility not used and useful in the public service of
+24 such other public utility.
+25 (h) Any public utility corporation, upon the order of a majority of its
+26 board of directors and with the approval of the commission, may sell
+27 and convey or lease to any other public utility corporation any of its
+28 real or personal estate or other property not used and useful in its
+29 public service.
+30 SECTION 4. IC 8-1-10.5 IS ADDED TO THE INDIANA CODE
+31 AS A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE
+32 JULY 1, 2026]:
+33 Chapter 10.5. Energy Utility Transparency and Reporting
+34 Sec. 1. (a) As used in this chapter, "affiliate", with regard to an
+35 energy utility, means any person who directly or indirectly:
+36 (1) controls;
+37 (2) is controlled by; or
+38 (3) is under the common control of;
+39 the energy utility.
+40 (b) The term includes a parent company or a subsidiary.
+41 Sec. 2. As used in this chapter, "energy utility" means a public
+42 utility (as defined in IC 8-1-2-1(a)) that:
+2026 IN 152—LS 6487/DI 119
+
+8
+1 (1) provides retail:
+2 (A) electric; or
+3 (B) natural gas;
+4 service to the public; and
+5 (2) is under the jurisdiction of the commission for the
+6 approval of rates and charges.
+7 Sec. 3. (a) The commission may not authorize an energy utility
+8 to recover through the energy utility's retail rates and charges any
+9 direct or indirect costs associated with the following:
+10 (1) Membership dues, sponsorship fees, or monetary
+11 contributions paid to:
+12 (A) a business or industry trade group or association; or
+13 (B) a not-for-profit affiliate of the energy utility.
+14 (2) Lobbying, legislative action, or other political activities,
+15 including research, analysis, preparation, planning, or other
+16 activities undertaken in support of lobbying or legislative
+17 action.
+18 (3) Advertising, marketing, or communications undertaken to
+19 influence public opinion.
+20 (4) Travel, lodging, or food and beverage expenses for:
+21 (A) the energy utility's officers or board of directors; or
+22 (B) the officers or board of directors of an affiliate of the
+23 energy utility.
+24 (5) Entertainment or gifts.
+25 (6) Leasing, owning, or chartering an aircraft for use by:
+26 (A) the energy utility's officers or board of directors; or
+27 (B) the officers or board of directors of an affiliate of the
+28 energy utility.
+29 (7) Charitable giving, including contributions to any
+30 not-for-profit organization exempt from federal income
+31 taxation under Section 501(c)(3) or 501(c)(4) of the Internal
+32 Revenue Code, and any expenses related to charitable giving.
+33 (8) Compensation paid to an employee, if any portion of the
+34 employee's time in a given year is spent on lobbying,
+35 legislative action, or other political activities.
+36 (9) Compensation paid to an employee, if any portion of the
+37 employee's time in a given year is spent litigating or appealing
+38 legislation or commission rulings.
+39 (10) Litigation regarding existing or proposed statutes,
+40 regulations, ordinances, or legislation at the federal, state, or
+41 local level.
+42 (11) Any expenses related to:
+2026 IN 152—LS 6487/DI 119
+
+9
+1 (A) products;
+2 (B) services; or
+3 (C) programs;
+4 that are not regulated by the commission, including any
+5 marketing, administrative, or customer service related
+6 expenses for such products, services, or programs.
+7 (12) Investor relations.
+8 (b) Beginning in 2026, an energy utility shall file with the
+9 commission, at the time and in the form and manner prescribed by
+10 the commission, an annual report that includes the following
+11 information concerning each activity or expense described in
+12 subsection (a):
+13 (1) For each expense or activity described in subsection (a),
+14 the total costs to:
+15 (A) the energy utility; or
+16 (B) an affiliate of the energy utility;
+17 that are directly billed or allocated to the energy utility. The
+18 amounts reported under this subdivision must be separately
+19 delineated for each expense or activity described in subsection
+20 (a).
+21 (2) The job title, job description, and salary of any employee
+22 of the energy utility who performed work associated with the
+23 activities described in subsection (a)(2), (a)(3), (a)(8), (a)(9),
+24 (a)(10), (a)(11), or (a)(12) for the energy utility, along with the
+25 number of hours attributable to such work by the employee.
+26 (3) The job title, job description, and salary of any employee
+27 of an affiliate of the energy utility who performed work
+28 associated with the activities described in subsection (a)(2),
+29 (a)(3), (a)(8), (a)(9), (a)(10), (a)(11), or (a)(12), along with the
+30 number of hours attributable to such work by the employee,
+31 to the extent that the costs associated with the work are
+32 directly billed or allocated to the energy utility.
+33 (4) An itemized list of the amounts billed or allocated to the
+34 energy utility by third party vendors for any expenses or
+35 activities described in subsection (a), including unredacted
+36 billing amounts, billing dates, payees, and explanations of
+37 each expenditure in sufficient detail to indicate the
+38 expenditure's purpose, including, if applicable, all Federal
+39 Energy Regulatory Commission Uniform System of Accounts
+40 codes for which payment to the vendor was recorded.
+41 (5) A list of all divisions, departments, or other organizational
+42 groups within the energy utility that performed any activities
+2026 IN 152—LS 6487/DI 119
+
+10
+1 described in subsection (a). For each division, department, or
+2 group identified, the energy utility shall include a list of the
+3 employees who work in the division, department, or group.
+4 For each employee listed, the energy utility shall provide the
+5 following information:
+6 (A) The employee's job title.
+7 (B) A job description sufficient to describe the employee's
+8 responsibilities.
+9 (C) An identification of each activity described in
+10 subsection (a) in which the employee engages, including a
+11 description sufficient to describe the nature of each
+12 activity.
+13 (D) The employee's total annual compensation and the
+14 percentage of that compensation paid for work associated
+15 with activities described in subsection (a), including, if
+16 applicable, all Federal Energy Regulatory Commission
+17 Uniform System of Accounts codes for which payment to
+18 the employee was recorded.
+19 (c) The commission shall make available on the commission's
+20 website a direct link to the annual reports provided by energy
+21 utilities under this section, subject to the commission's duty to
+22 redact or exclude any information that the commission is
+23 prohibited from disclosing under state or federal law.
+24 Sec. 4. (a) On any customer bill issued by an energy utility after
+25 December 31, 2026, the energy utility must include a break down
+26 of the charges and fees that make up the total amount owed for the
+27 billing cycle, including a description of the service or cost
+28 associated with each charge or fee, if not apparent on its face. To
+29 the extent applicable, the following must be delineated as specific
+30 line items on each customer bill:
+31 (1) Distribution and delivery charges.
+32 (2) Generation and supply charges, including the cost per unit
+33 consumed.
+34 (3) Individual program charges, separately stated for each
+35 program for which the customer is charged, including energy
+36 efficiency programs, low income assistance programs,
+37 demand response programs, and any other programs outside
+38 the provision of basic service.
+39 (4) Account or program credits.
+40 (5) Taxes.
+41 (6) Account management and billing fees.
+42 (7) Any other applicable charges or fees.
+2026 IN 152—LS 6487/DI 119
+
+11
+1 (b) An energy utility shall take appropriate internal operational
+2 measures to separate the energy utility's costs so as to accurately
+3 reflect those costs in associated charges and fees charged to
+4 customers and itemized in customer bills under subsection (a).
+5 SECTION 5. An emergency is declared for this act.
+2026 IN 152—LS 6487/DI 119

@@ -1,0 +1,181 @@
+Title: 
+Official Title: 
+Source: versions - Introduced House Bill (H)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+HOUSE BILL No. 1397
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 5-28-6-9; IC 6-3.1-34-24.
+Synopsis: Redevelopment tax credits. Provides that $50,000,000 of
+the $300,000,000 of the Indiana economic development corporation's
+annual certifiable tax credit amount must be allocated to the small town
+opportunity initiative (initiative). Establishes the initiative. Provides
+that the purpose of the initiative is to undertake qualified community
+projects within local government units that have a project budget of at
+least $15,000,000 per project to do the following: (1) Advance historic
+preservation. (2) Redevelop or rehabilitate distressed buildings or
+underutilized property. (3) Redevelop or rehabilitate sites where
+distressed buildings once stood. Allows a redevelopment tax credit for:
+(1) a for-profit taxpayer undertaking a qualified community project
+under the initiative equal to 20% of the taxpayer's cost of the project;
+and (2) a nonprofit taxpayer undertaking a qualified community project
+under the initiative equal to 30% of the taxpayer's cost of the project.
+Provides that initiative projects are not subject to any statutory or
+administrative repayment obligation. Provides for certain items that are
+included in a nonprofit taxpayer's qualified investment.
+Effective: July 1, 2026.
+Lopez
+January 8, 2026, read first time and referred to Committee on Ways and Means.
+2026 IN 1397—LS 6495/DI 134
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+HOUSE BILL No. 1397
+A BILL FOR AN ACT to amend the Indiana Code concerning
+taxation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 5-28-6-9, AS AMENDED BY P.L.213-2025,
+2 SECTION 69, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 9. (a) Subject to subsection (c), the aggregate
+4 amount of applicable tax credits that the corporation may certify:
+5 (1) for each state fiscal year ending on or before June 30, 2025,
+6 for all taxpayers is two hundred fifty million dollars
+7 ($250,000,000); and
+8 (2) for each state fiscal year ending on or after July 1, 2025, for all
+9 taxpayers is three hundred million dollars ($300,000,000), fifty
+10 million dollars ($50,000,000) of which must be allocated to
+11 fund qualified community projects within local government
+12 units under IC 6-3.1-34-24. Each certification under this
+13 subdivision is subject to budget committee review.
+14 (b) For purposes of determining the amount of applicable tax credits
+15 that have been certified for a state fiscal year, the following apply:
+16 (1) An applicable tax credit is considered awarded in the state
+17 fiscal year in which the taxpayer can first claim the credit,
+2026 IN 1397—LS 6495/DI 134
+
+2
+1 determined without regard to any carryforward period or
+2 carryback period.
+3 (2) An applicable tax credit awarded by the corporation before
+4 July 1, 2022, shall be counted toward the aggregate credit
+5 limitation under this section.
+6 (3) If an accelerated credit is awarded under IC 6-3.1-26-15, the
+7 amount counted toward the aggregate credit limitation under this
+8 section for a state fiscal year shall be the amount of the credit for
+9 the taxable year described in subdivision (1) prior to any discount.
+10 (c) Notwithstanding subsection (a), if the corporation determines
+11 that:
+12 (1) an applicable tax credit should be certified in a state fiscal
+13 year; and
+14 (2) certification of the applicable tax credit will result in an
+15 aggregate amount of applicable tax credits certified for that state
+16 fiscal year that exceeds the maximum amount provided in
+17 subsection (a);
+18 the corporation may, after review by the budget committee, certify the
+19 applicable tax credit to the taxpayer.
+20 (d) This section expires December 31, 2032.
+21 SECTION 2. IC 6-3.1-34-24 IS ADDED TO THE INDIANA CODE
+22 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+23 1, 2026]: Sec. 24. (a) As used in this section, "downtown area"
+24 means:
+25 (1) the central business district of a city or town; or
+26 (2) any commercial or mixed use area within a neighborhood
+27 of a city or town that has traditionally served, since the
+28 founding of the community, as the retail service and
+29 communal focal point within the community.
+30 (b) As used in this section, "initiative" means the small town
+31 opportunity initiative established by subsection (f).
+32 (c) As used in this section, "nonprofit taxpayer" means a
+33 taxpayer:
+34 (1) that is tax exempt under Section 501 of the Internal
+35 Revenue Code;
+36 (2) for which some or all of its mission is to revitalize the
+37 community it serves; and
+38 (3) whose leadership includes primarily members of the
+39 community it serves.
+40 (d) As used in this section, "qualified community project"
+41 means a project that:
+42 (1) is located in the:
+2026 IN 1397—LS 6495/DI 134
+
+3
+1 (A) downtown area of a city or a town with a population of
+2 less than thirty thousand (30,000);
+3 (B) downtown area of a city or a town that is located in a
+4 county with a population of less than seventy-five thousand
+5 (75,000); or
+6 (C) unincorporated territory of a county with a population
+7 of less than seventy-five thousand (75,000) if the site of the
+8 project is an area of the unincorporated territory that
+9 serves as the retail service and communal focal point
+10 within the unincorporated territory;
+11 (2) involves the:
+12 (A) historic preservation;
+13 (B) redevelopment; or
+14 (C) rehabilitation;
+15 of real property; and
+16 (3) has a total project budget of at least fifteen million dollars
+17 ($15,000,000).
+18 (e) As used in this section, "qualified investment" means the
+19 amount of the taxpayer's expenditures that are:
+20 (1) for the redevelopment or rehabilitation of real property as
+21 part of a qualified community project; and
+22 (2) approved by the corporation before the expenditure is
+23 made.
+24 (f) The small town opportunity initiative is established.
+25 (g) The corporation shall administer the initiative.
+26 (h) The purpose of the initiative is to undertake qualified
+27 community projects within local government units to do the
+28 following:
+29 (1) Advance historic preservation.
+30 (2) Redevelop or rehabilitate distressed buildings or
+31 underutilized property.
+32 (3) Redevelop or rehabilitate sites where distressed buildings
+33 once stood.
+34 (i) A for-profit taxpayer undertaking a qualified community
+35 project under the initiative is entitled to a redevelopment tax credit
+36 under this chapter equal to twenty percent (20%) of the taxpayer's
+37 cost of the project.
+38 (j) A nonprofit taxpayer undertaking a qualified community
+39 project under the initiative is entitled to a redevelopment tax credit
+40 under this chapter equal to thirty percent (30%) of the taxpayer's
+41 cost of the project.
+42 (k) Qualified community projects undertaken under this section
+2026 IN 1397—LS 6495/DI 134
+
+4
+1 are not subject to any statutory or administrative repayment
+2 obligation.
+3 (l) Notwithstanding any other provision of this section, for a
+4 nonprofit taxpayer undertaking a qualified community project
+5 under this section, expenditures incurred to acquire, hold, or
+6 prepare real property for redevelopment or rehabilitation before
+7 the date the taxpayer's initial application or application for
+8 certification is approved by the corporation shall be included in the
+9 taxpayer's qualified investment if:
+10 (1) the expenditures were incurred for the primary purpose
+11 of future redevelopment consistent with subsection (h);
+12 (2) the nonprofit taxpayer obtained site control in furtherance
+13 of a locally supported redevelopment effort; and
+14 (3) the corporation determines, as part of the application or
+15 certification process, that inclusion of such expenditures is in
+16 the public interest and supportive of early stage community
+17 redevelopment efforts.
+18 (m) For purposes of determining whether an expenditure is
+19 included as part of a qualified investment under subsection (l), an
+20 expenditure shall be treated as if it were approved by the
+21 corporation as of the date the expenditure was originally incurred.
+2026 IN 1397—LS 6495/DI 134
