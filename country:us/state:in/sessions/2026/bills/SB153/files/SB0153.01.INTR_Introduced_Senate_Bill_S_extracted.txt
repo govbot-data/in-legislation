@@ -1,0 +1,448 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 153
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 8-1.
+Synopsis: Utility disconnections and customer data reports. Provides
+that beginning January 1, 2027, an electric or gas utility may not, from
+June 21 through September 23 (in addition to the period from
+December 1 through March 15, under current law), terminate
+residential electric or gas service for an individual who is eligible for
+and has applied for assistance from a home energy assistance program
+administered by the lieutenant governor. Prohibits an electric, gas, or
+water utility from terminating service for any residential customer on
+any of the following days: (1) A Friday, Saturday, or Sunday. (2) A
+legal holiday. (3) Any day, or after noon on the day preceding any day,
+during which customer service representatives of the utility are not
+available to respond to customer inquiries during regular business
+hours. Repeals a provision that authorizes the Indiana utility regulatory
+commission (IURC) to establish a reasonable rate of interest that a
+(Continued next page)
+Effective: Upon passage; July 1, 2026; January 1, 2027.
+Jackson L
+January 5, 2026, read first time and referred to Committee on Utilities.
+2026 IN 153—LS 6627/DI 119
+
+Digest Continued
+utility may charge on the unpaid balance of a delinquent customer bill.
+Prohibits an electric, gas, or water utility from charging or collecting
+a deposit or reconnection fee as a condition of, or in connection with,
+restoring service to a residential customer after a termination of service
+for nonpayment. Requires the IURC to amend, not later than December
+31, 2026, its administrative rules as necessary to conform the rules to
+these provisions. Requires a utility to: (1) amend its residential tariffs
+as necessary to bring the tariffs into conformance with these provisions;
+and (2) file with the IURC a petition for approval of each amended
+tariff; not later than June 15, 2026. Requires a utility that: (1) is under
+the jurisdiction of the IURC for the approval of rates and charges; and
+(2) provides residential electric, natural gas, water, or wastewater
+utility service at retail to customers and low income customers in
+Indiana; to report to the IURC on a quarterly basis certain data
+concerning customer accounts and low income customer accounts.
+Provides that the first reports submitted to the IURC must include the
+required information with respect to the third calendar quarter of 2026.
+Provides that: (1) a utility shall report all required information in the
+aggregate and in a manner that does not identify individual customers
+and low income customers; and (2) the IURC may not require utilities
+to disclose confidential and proprietary business information without
+adequate protection of the information. Requires the IURC to adopt
+rules to implement these provisions. Provides that, beginning in 2027,
+the IURC shall annually compile and summarize the information
+received from utilities for the previous calendar year and include the
+summary in the IURC's annual report.
+22002266 IINN 115533——LLSS 66662277//DDII 111199
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 153
+A BILL FOR AN ACT to amend the Indiana Code concerning
+utilities.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 8-1-2-121, AS AMENDED BY P.L.181-2006,
+2 SECTION 48, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JANUARY 1, 2027]: Sec. 121. (a) Notwithstanding any other provision
+4 of law:
+5 (1) from December 1 through March 15; and
+6 (2) from June 21 through September 23;
+7 of any year, no an electric or gas utility (including a municipally
+8 owned, privately owned, or cooperatively owned utility) shall may not
+9 terminate residential electric or gas service for persons who are eligible
+10 for and have applied for assistance from a heating home energy
+11 assistance program administered under IC 4-4-33. The commission
+12 shall implement procedures to ensure that electric or gas utility service
+13 is continued while eligibility for such persons is being determined.
+14 (b) Notwithstanding any other provision of law, an electric, gas,
+15 or water utility (including a municipally owned, privately owned,
+2026 IN 153—LS 6627/DI 119
+
+2
+1 or cooperatively owned utility) may not terminate residential
+2 electric, gas, or water service for any residential customer of the
+3 utility on any of the following days:
+4 (1) A Friday, Saturday, or Sunday.
+5 (2) A legal holiday (as defined in IC 1-1-9-1).
+6 (3) Any day, or after noon on the day preceding any day,
+7 during which customer service representatives of the utility
+8 are not available to respond to inquiries from customers
+9 during regular business hours.
+10 (b) (c) Any electric or gas utility (including a municipally owned,
+11 privately owned, or cooperatively owned utility) shall provide any
+12 residential customer whose account is delinquent an opportunity to
+13 enter into a reasonable amortization agreement with such company to
+14 pay the delinquent account. Such an amortization agreement must
+15 provide the customer with adequate opportunity to apply for and
+16 receive the benefits of any available public assistance program. An
+17 amortization agreement is subject to amendment on the customer's
+18 request if there is a change in the customer's financial circumstances.
+19 (c) The commission may establish a reasonable rate of interest
+20 which a utility may charge on the unpaid balance of a customer's
+21 delinquent bill that may not exceed the rate established by the
+22 commission under section 34.5 of this chapter.
+23 (d) Notwithstanding any other provision of law, an electric, gas,
+24 or water utility (including a municipally owned, privately owned,
+25 or cooperatively owned utility) may not charge or collect any:
+26 (1) deposit;
+27 (2) reconnection fee; or
+28 (3) other similar charge;
+29 as a condition of, or in connection with, restoring service to a
+30 residential customer of the utility following a termination of the
+31 customer's service for nonpayment.
+32 (d) (e) The commission shall adopt rules under IC 4-22-2 to carry
+33 out the provisions of this section.
+34 (e) (f) This section does not prohibit an electric or gas utility from
+35 terminating residential utility service upon a request of a customer or
+36 under the following circumstances:
+37 (1) If a condition dangerous or hazardous to life, physical safety,
+38 or property exists.
+39 (2) Upon order by any court, the commission, or other duly
+40 authorized public authority.
+41 (3) If fraudulent or unauthorized use of electricity or gas is
+42 detected and the utility has reasonable grounds to believe the
+2026 IN 153—LS 6627/DI 119
+
+3
+1 affected customer is responsible for such use.
+2 (4) If the utility's regulating or measuring equipment has been
+3 tampered with and the utility has reasonable grounds to believe
+4 that the affected customer is responsible for such tampering.
+5 SECTION 2. IC 8-1-6.1 IS ADDED TO THE INDIANA CODE AS
+6 A NEW CHAPTER TO READ AS FOLLOWS [EFFECTIVE JULY
+7 1, 2026]:
+8 Chapter 6.1. Quarterly Residential Customer Reports by
+9 Utilities
+10 Sec. 1. As used in this chapter, "budget billing arrangement"
+11 means a levelized payment arrangement that:
+12 (1) is entered into by a utility and:
+13 (A) a customer; or
+14 (B) a low income customer;
+15 of the utility;
+16 (2) allows the customer or low income customer to pay for
+17 utility service in equal monthly installments; and
+18 (3) involves a reconciliation mechanism in which:
+19 (A) the amount of utility service actually used by the
+20 customer or low income customer during a specified period
+21 is compared with the amount of utility service for which
+22 the customer or low income customer was billed under the
+23 arrangement during the specified period; and
+24 (B) the account of the customer or low income customer is
+25 either billed or credited, as appropriate, for any
+26 discrepancy identified under clause (A).
+27 Sec. 2. As used in this chapter, "customer" refers to a
+28 residential customer who:
+29 (1) has agreed to pay for utility service from a utility; and
+30 (2) is not a low income customer.
+31 Sec. 3. As used in this chapter, "low income customer" refers to
+32 a residential customer who is part of a household that:
+33 (1) has agreed to pay for utility service from a utility; and
+34 (2) satisfies either of the following:
+35 (A) Is eligible for and has applied for assistance from:
+36 (i) a home energy assistance program administered
+37 under IC 4-4-33; or
+38 (ii) a low income household water assistance program
+39 administered by the Indiana housing and community
+40 development authority.
+41 (B) Is eligible for one (1) or more of the following:
+42 (i) The federal Temporary Assistance for Needy Families
+2026 IN 153—LS 6627/DI 119
+
+4
+1 (TANF) program.
+2 (ii) The federal Supplemental Nutrition Assistance
+3 Program (SNAP).
+4 (iii) The Special Supplemental Nutrition Program for
+5 Women, Infants, and Children (WIC).
+6 (iv) Free or reduced price school meals.
+7 (v) The federal Supplemental Security Income (SSI)
+8 program.
+9 (vi) Medicaid.
+10 (vii) The healthy Indiana plan under IC 12-15-44.5.
+11 (viii) The federal Child Care and Development Fund
+12 (CCDF) voucher program or the federal Head Start
+13 program.
+14 (ix) Public housing or housing assistance programs.
+15 (x) Other means tested programs.
+16 Sec. 4. As used in this chapter, "payment plan" means a
+17 payment arrangement that:
+18 (1) is entered into by a utility and:
+19 (A) a customer; or
+20 (B) a low income customer;
+21 of the utility; and
+22 (2) allows the customer or low income customer to:
+23 (A) pay current or past due amounts for utility service in
+24 lower amounts, over an extended period of time, or
+25 according to another agreed upon schedule;
+26 (B) defer the payment of current or past due amounts for
+27 utility service to some future date; or
+28 (C) receive a forbearance with respect to the payment of
+29 certain amounts owed.
+30 Sec. 5. As used in this chapter, "protected account" means an
+31 account that:
+32 (1) is for utility service that:
+33 (A) is provided to a:
+34 (i) customer; or
+35 (ii) low income customer;
+36 who is vulnerable because of advanced age, serious illness,
+37 or disability; and
+38 (B) is not subject to termination or disconnection for
+39 nonpayment or for which termination or disconnection for
+40 nonpayment is restricted during specified periods; or
+41 (2) otherwise qualifies as a protected account under rules
+42 adopted by the commission under section 9 of this chapter.
+2026 IN 153—LS 6627/DI 119
+
+5
+1 Sec. 6. As used in this chapter, "utility" means a utility, however
+2 organized, that:
+3 (1) provides utility service to customers and low income
+4 customers in Indiana; and
+5 (2) is under the jurisdiction of the commission for the
+6 approval of rates and charges.
+7 Sec. 7. As used in this chapter, "utility service" means
+8 residential:
+9 (1) electric;
+10 (2) natural gas;
+11 (3) water; or
+12 (4) wastewater;
+13 service that is provided at retail.
+14 Sec. 8. (a) A utility shall submit to the commission quarterly
+15 reports containing the information set forth in this subsection with
+16 respect to the calendar quarter covered by the report. Beginning
+17 with the calendar quarter specified in subsection (d), a utility shall
+18 submit the reports required by this subsection to the commission
+19 in the manner and form prescribed by the commission and not
+20 later than thirty (30) days after the last day of the calendar quarter
+21 covered by the report. A report submitted to the commission under
+22 this subsection must include the following information with respect
+23 to customers (not including low income customers with respect to
+24 whom a report is required under subsection (b)) for each month in
+25 the calendar quarter covered by the report, including, to the extent
+26 available, a comparison of the same information for the same
+27 month of the immediately preceding calendar year:
+28 (1) The total number of open customer accounts.
+29 (2) The total amount billed by the utility for all open customer
+30 accounts.
+31 (3) The total gross receipts received by the utility for all open
+32 customer accounts.
+33 (4) The total number of open protected accounts for
+34 customers.
+35 (5) The total number of open customer accounts that were
+36 delinquent for at least sixty (60) days and not more than
+37 ninety (90) days.
+38 (6) The total dollar amount owed with respect to the accounts
+39 identified under subdivision (5).
+40 (7) The total number of open customer accounts that were
+41 delinquent for ninety (90) days or more.
+42 (8) The total dollar amount owed with respect to the accounts
+2026 IN 153—LS 6627/DI 119
+
+6
+1 identified under subdivision (7).
+2 (9) The total number of customer accounts referred for
+3 collection to an attorney or a collection agency.
+4 (10) The total number of new payment plans entered into
+5 between the utility and customers of the utility.
+6 (11) The total number of new budget billing arrangements
+7 entered into between the utility and customers of the utility.
+8 (12) The total number of customer accounts sent a notice of
+9 disconnection for nonpayment.
+10 (13) The total number of utility service disconnections
+11 performed for nonpayment.
+12 (14) The total number of utility service restorations after
+13 disconnection for nonpayment.
+14 (15) The average duration of utility service disconnection for
+15 customer accounts identified under subdivision (14).
+16 (16) The total number of customer accounts written off as
+17 uncollectible.
+18 (17) The total dollar value of customer accounts identified
+19 under subdivision (16).
+20 (18) The total dollar value of recovered bad debt with respect
+21 to customer accounts.
+22 (19) Any other relevant information concerning customer
+23 accounts that the commission:
+24 (A) considers appropriate in evaluating:
+25 (i) the payment history of customers; and
+26 (ii) the billing and related practices of utilities with
+27 respect to customers; and
+28 (B) requires under rules adopted under section 9 of this
+29 chapter.
+30 (b) A utility shall submit to the commission quarterly reports
+31 containing the information set forth in this subsection with respect
+32 to the calendar quarter covered by the report. Beginning with the
+33 calendar quarter specified in subsection (d), a utility shall submit
+34 the reports required by this subsection to the commission in the
+35 manner and form prescribed by the commission and not later than
+36 thirty (30) days after the last day of the calendar quarter covered
+37 by the report. A report submitted to the commission under this
+38 subsection must include the following information with respect to
+39 low income customers for each month in the calendar quarter
+40 covered by the report, including, to the extent available, a
+41 comparison of the same information for the same month of the
+42 immediately preceding calendar year:
+2026 IN 153—LS 6627/DI 119
+
+7
+1 (1) The total number of open low income customer accounts.
+2 (2) The total amount billed by the utility for all open low
+3 income customer accounts.
+4 (3) The total gross receipts received by the utility for all open
+5 low income customer accounts.
+6 (4) Of the total amount of gross receipts reported under
+7 subdivision (3), the total amount that was paid through:
+8 (A) a home energy assistance program administered under
+9 IC 4-4-33; or
+10 (B) a low income household water assistance program
+11 administered by the Indiana housing and community
+12 development authority.
+13 (5) The total number of low income customers who received
+14 assistance from:
+15 (A) a home energy assistance program administered under
+16 IC 4-4-33; or
+17 (B) a low income household water assistance program
+18 administered by the Indiana housing and community
+19 development authority.
+20 (6) The total number of open protected accounts for low
+21 income customers.
+22 (7) The total number of open low income customer accounts
+23 that were delinquent for at least sixty (60) days and not more
+24 than ninety (90) days.
+25 (8) The total dollar amount owed with respect to the accounts
+26 identified under subdivision (7).
+27 (9) The total number of open low income customer accounts
+28 that were delinquent for ninety (90) days or more.
+29 (10) The total dollar amount owed with respect to the
+30 accounts identified under subdivision (9).
+31 (11) The total number of low income customer accounts
+32 referred for collection to an attorney or a collection agency.
+33 (12) The total number of new payment plans entered into
+34 between the utility and low income customers of the utility.
+35 (13) The total number of new budget billing arrangements
+36 entered into between the utility and low income customers of
+37 the utility.
+38 (14) The total number of low income customer accounts sent
+39 a notice of disconnection for nonpayment.
+40 (15) The total number of utility service disconnections
+41 performed for nonpayment.
+42 (16) The total number of utility service restorations after
+2026 IN 153—LS 6627/DI 119
+
+8
+1 disconnection for nonpayment.
+2 (17) The average duration of utility service disconnection for
+3 low income customer accounts identified under subdivision
+4 (16).
+5 (18) The total number of low income customer accounts
+6 written off as uncollectible.
+7 (19) The total dollar value of low income customer accounts
+8 identified under subdivision (18).
+9 (20) The total dollar value of recovered bad debt with respect
+10 to low income customer accounts.
+11 (21) Any other relevant information concerning low income
+12 customer accounts that the commission:
+13 (A) considers appropriate in evaluating:
+14 (i) the payment history of low income customers; and
+15 (ii) the billing and related practices of utilities with
+16 respect to low income customers; and
+17 (B) requires under rules adopted under section 9 of this
+18 chapter.
+19 (c) A utility may report the information and data required
+20 under subsections (a) and (b) at the same time and on the same
+21 form, if so prescribed by the commission in rules adopted under
+22 section 9 of this chapter.
+23 (d) The first reports submitted to the commission under
+24 subsections (a) and (b) must include the information set forth in
+25 subsections (a) and (b) with respect to the third calendar quarter
+26 of 2026.
+27 (e) A utility shall report all information and data required
+28 under subsections (a) and (b) in the aggregate and in a manner that
+29 does not identify individual customers and low income customers
+30 of the utility.
+31 (f) This section does not empower the commission to require
+32 utilities to disclose confidential and proprietary business
+33 information without adequate protection of the information. The
+34 commission shall exercise all necessary caution to avoid disclosure
+35 of any confidential information reported by utilities under this
+36 section.
+37 Sec. 9. The commission shall adopt rules under IC 4-22-2 to
+38 implement this chapter.
+39 Sec. 10. Beginning in 2027, the commission shall annually
+40 compile and summarize the information received from utilities
+41 under section 8 of this chapter for the previous calendar year and
+42 include the commission's summary of the information in the
+2026 IN 153—LS 6627/DI 119
+
+9
+1 commission's annual report under IC 8-1-1-14.
+2 SECTION 3. [EFFECTIVE UPON PASSAGE] (a) As used in this
+3 SECTION, "commission" refers to the Indiana utility regulatory
+4 commission created by IC 8-1-1-2.
+5 (b) As used in this SECTION, "utility" means an electric, gas,
+6 or water utility, including a municipally owned, privately owned,
+7 or cooperatively owned utility, subject to IC 8-1-2-121, as amended
+8 by this act.
+9 (c) Not later than December 31, 2026, the commission shall
+10 amend the following rules of the commission as necessary to
+11 conform the rules with IC 8-1-2-121, as amended by this act:
+12 (1) 170 IAC 4.
+13 (2) 170 IAC 5.
+14 (3) 170 IAC 6.
+15 (4) Any other rule that:
+16 (A) has been adopted by the commission; and
+17 (B) is inconsistent with IC 8-1-2-121, as amended by this
+18 act.
+19 (d) Not later than June 15, 2026, a utility shall do the following:
+20 (1) Amend any tariff of the utility that:
+21 (A) is in effect on March 14, 2026, for residential
+22 customers of the utility; and
+23 (B) is inconsistent with IC 8-1-2-121, as amended by this
+24 act;
+25 to bring the tariff into conformance with IC 8-1-2-121, as
+26 amended by this act.
+27 (2) File with the commission a petition for approval of each
+28 tariff amended under subdivision (1).
+29 (e) Not later than thirty (30) days after receipt of a utility's
+30 petition under subsection (d)(2), the commission shall either:
+31 (1) approve an amended tariff filed by the utility under
+32 subsection (d)(2); or
+33 (2) require the utility to make any changes to the amended
+34 tariff necessary, as determined by the commission, to bring
+35 the tariff into conformance with IC 8-1-2-121, as amended by
+36 this act.
+37 (f) This SECTION expires January 1, 2027.
+38 SECTION 4. An emergency is declared for this act.
+2026 IN 153—LS 6627/DI 119

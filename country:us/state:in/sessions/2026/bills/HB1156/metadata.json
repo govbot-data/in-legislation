@@ -114,6 +114,7 @@
     "text_extraction_unavailable": {
       "reason": "no_text_layer",
       "checked_at": "2026-08-08T08:51:19.257270Z"
-    }
+    },
+    "text_extraction_latest_update": "2026-08-23T12:16:14.986974Z"
   }
 }

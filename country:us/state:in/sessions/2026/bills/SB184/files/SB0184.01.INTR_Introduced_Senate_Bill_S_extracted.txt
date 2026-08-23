@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 184
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 6-2.5-2.
+Synopsis: Sales tax on utility service. Phases down in equal reductions
+over four years the state gross retail tax rate imposed on the sale of the
+following utility services to a person for domestic consumption: (1)
+Electrical energy. (2) Natural or artificial gas. (3) Water. (4) Steam. (5)
+Steam heating service.
+Effective: July 1, 2026.
+Young M
+January 5, 2026, read first time and referred to Committee on Utilities.
+2026 IN 184—LS 6448/DI 129
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 184
+A BILL FOR AN ACT to amend the Indiana Code concerning
+taxation.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 6-2.5-2-2, AS AMENDED BY P.L.146-2020,
+2 SECTION 6, IS AMENDED TO READ AS FOLLOWS [EFFECTIVE
+3 JULY 1, 2026]: Sec. 2. (a) The state gross retail tax is measured by the
+4 gross retail income received by a retail merchant in a retail unitary or
+5 bundled transaction and, except as provided in subsection (c), is
+6 imposed at seven percent (7%) of that gross retail income.
+7 (b) For purposes of subsection (c), "utility service" means the
+8 provision of any of the following to a person for domestic
+9 consumption:
+10 (1) Electrical energy.
+11 (2) Natural or artificial gas.
+12 (3) Water.
+13 (4) Steam.
+14 (5) Steam heating service.
+15 The term includes utility service provided by a power subsidiary
+16 or a public utility.
+17 (c) The state gross retail tax rate on the sale of utility service to
+2026 IN 184—LS 6448/DI 129
+
+2
+1 a person for domestic consumption is equal to the following:
+2 (1) For a transaction occurring before July 1, 2027, the tax
+3 rate is imposed at seven percent (7%) of the gross retail
+4 income.
+5 (2) For a transaction occurring after June 30, 2027, and
+6 before July 1, 2028, the tax rate is imposed at five and
+7 twenty-five hundredths percent (5.25%) of the gross retail
+8 income.
+9 (3) For a transaction occurring after June 30, 2028, and
+10 before July 1, 2029, the tax rate is imposed at three and
+11 five-tenths percent (3.5%) of the gross retail income.
+12 (4) For a transaction occurring after June 30, 2029, and
+13 before July 1, 2030, the tax rate is imposed at one and
+14 seventy-five hundredths percent (1.75%) of the gross retail
+15 income.
+16 (5) For a transaction occurring after June 30, 2030, no state
+17 gross retail tax is imposed on the transaction.
+18 (b) (d) If the tax computed under subsection (a) or (c) carried to the
+19 third decimal place results in the numeral in the third decimal place
+20 being greater than four (4), the amount of the tax shall be rounded to
+21 the next additional cent.
+22 (c) (e) A seller may elect to round the tax under subsection (b) (d)
+23 on a transaction on an item basis or an invoice basis. However, a seller
+24 may not round the tax under subsection (b) (d) to circumvent the tax
+25 that would otherwise be imposed on a transaction using an invoice
+26 basis.
+27 SECTION 2. IC 6-2.5-2-6 IS ADDED TO THE INDIANA CODE
+28 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+29 1, 2026]: Sec. 6. (a) The legislative services agency shall prepare
+30 legislation for introduction during the 2030 regular session of the
+31 general assembly to make any necessary changes to the Indiana
+32 Code to conform to the amendments made to section 2 of this
+33 chapter in the 2026 session of the general assembly.
+34 (b) This section expires December 31, 2030.
+2026 IN 184—LS 6448/DI 129

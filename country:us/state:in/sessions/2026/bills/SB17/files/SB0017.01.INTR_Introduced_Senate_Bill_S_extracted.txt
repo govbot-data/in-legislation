@@ -1,0 +1,161 @@
+Title: 
+Official Title: 
+Source: versions - Introduced Senate Bill (S)
+Media Type: application/pdf
+
+================================================================================
+
+Introduced Version
+SENATE BILL No. 17
+_____
+DIGEST OF INTRODUCED BILL
+Citations Affected: IC 13-11-2-47.8; IC 13-17.
+Synopsis: Air quality. Authorizes a town, city, or county to establish
+or designate an agency to act for the town, city, or county as a local air
+pollution control agency (agency). Requires the commissioner of the
+department of environmental management (department) to enter into
+a contract with the agency of a town, city, or county if the agency is
+willing to enter into the contract. Provides that a contract between the
+department and the agency of a town, city, or county must: (1) require
+the department to advise, consult, cooperate with, and provide
+technical assistance to the agency; (2) authorize the agency to
+undertake air pollution control activities on behalf of the department or
+initiate enforcement of ordinances of the town, city, or county; and (3)
+provide for the payment of fair monetary compensation for the air
+pollution control activities performed by the agency. Provides that: (1)
+the compensation paid to an agency under a contract must be at least
+sufficient to cover the agency's staffing and operating costs; and (2) the
+rate of compensation must be adjusted each year according to changes
+in the Consumer Price Index.
+Effective: July 1, 2026.
+Randolph Lonnie M
+December 8, 2025, read first time and referred to Committee on Environmental Affairs.
+2026 IN 17—LS 6101/DI 150
+
+Introduced
+Second Regular Session of the 124th General Assembly (2026)
+PRINTING CODE. Amendments: Whenever an existing statute (or a section of the Indiana
+Constitution) is being amended, the text of the existing provision will appear in this style type,
+additions will appear in this style type, and deletions will appear in this style type.
+Additions: Whenever a new statutory provision is being enacted (or a new constitutional
+provision adopted), the text of the new provision will appear in this style type. Also, the
+word NEW will appear in that style type in the introductory clause of each SECTION that adds
+a new provision to the Indiana Code or the Indiana Constitution.
+Conflict reconciliation: Text in a statute in this style type or this style type reconciles conflicts
+between statutes enacted by the 2025 Regular Session of the General Assembly.
+SENATE BILL No. 17
+A BILL FOR AN ACT to amend the Indiana Code concerning
+environmental law.
+Be it enacted by the General Assembly of the State of Indiana:
+1 SECTION 1. IC 13-11-2-47.8 IS ADDED TO THE INDIANA
+2 CODE AS A NEW SECTION TO READ AS FOLLOWS
+3 [EFFECTIVE JULY 1, 2026]: Sec. 47.8. "CPI-U", for purposes of
+4 IC 13-17-3-9.5, means the Consumer Price Index for All Urban
+5 Consumers, all items, as published monthly by the United States
+6 Bureau of Labor Statistics.
+7 SECTION 2. IC 13-17-3-9.5 IS ADDED TO THE INDIANA CODE
+8 AS A NEW SECTION TO READ AS FOLLOWS [EFFECTIVE JULY
+9 1, 2026]: Sec. 9.5. (a) The commissioner shall enter into a contract
+10 described in subsection (b) with a local air pollution control agency
+11 that is:
+12 (1) established or designated by a town, city, or county under
+13 IC 13-17-12-1(b); and
+14 (2) willing to enter into the contract.
+15 (b) A contract entered into under this section must do the
+16 following:
+17 (1) Require the department to:
+2026 IN 17—LS 6101/DI 150
+
+2
+1 (A) advise, consult, and cooperate with; and
+2 (B) provide technical assistance to;
+3 the local air pollution control agency.
+4 (2) Either authorize the local air pollution control agency:
+5 (A) to undertake air pollution control activities, including:
+6 (i) monitoring regional ambient air quality; and
+7 (ii) within the local air pollution control agency's
+8 jurisdiction, issuing operating permits and operating
+9 permit revisions, performing compliance inspections,
+10 responding to complaints and emergencies, and initiating
+11 enforcement actions;
+12 on behalf of the department; or
+13 (B) to:
+14 (i) issue operating permits and operating permit
+15 revisions;
+16 (ii) perform compliance inspections;
+17 (iii) respond to complaints and emergencies; and
+18 (iv) initiate enforcement actions;
+19 as authorized by ordinances of the town, city, or county, as
+20 applicable, that are consistent with or more restrictive
+21 than air pollution control laws.
+22 (3) Provide that the local air pollution control agency must be
+23 paid fair monetary compensation for the activities described
+24 in subdivision (2) from funds available to the department for
+25 administration of the air pollution control laws, including the
+26 following:
+27 (A) United States Environmental Protection Agency
+28 federal grant funding for the purpose of air pollution
+29 control program support activities funded under Section
+30 105 of the federal Clean Air Act (42 U.S.C. 7405), as
+31 further described in Section 66.001 of the Catalog of
+32 Federal Domestic Assistance.
+33 (B) United States Environmental Protection Agency
+34 federal grant funding for the purpose of PM2.5 air
+35 monitoring activities funded under Section 103 of the
+36 federal Clean Air Act (42 U.S.C. 7403), as further
+37 described in Section 66.034 of the Catalog of Federal
+38 Domestic Assistance.
+39 (C) Revenue from annual operating fees established under
+40 326 IAC 2.
+41 (D) The environmental management special fund
+42 established under IC 13-14-12.
+2026 IN 17—LS 6101/DI 150
+
+3
+1 (E) Any other source of funds approved by the governor
+2 and the budget agency.
+3 (c) The monetary compensation provided to a local air pollution
+4 control agency under a contract entered into under this section:
+5 (1) must be at least sufficient to cover the staffing and
+6 operating costs incurred by the local air pollution control
+7 agency in performing activities described in subsection (b)(2);
+8 and
+9 (2) shall be adjusted each year according to the CPI-U.
+10 (d) An adjustment under subsection (c)(2):
+11 (1) must take place each year not later than thirty (30) days
+12 after the release of the CPI-U for January of that year; and
+13 (2) must adjust the rate of compensation to the local air
+14 pollution control agency in proportion to the difference
+15 between the CPI-U released for January of that year and the
+16 CPI-U released for January of the previous year.
+17 SECTION 3. IC 13-17-12-1 IS AMENDED TO READ AS
+18 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 1. (a) Air pollution
+19 control laws do not prevent towns, cities, or counties from:
+20 (1) enforcing local air pollution ordinances consistent with air
+21 pollution control laws; or
+22 (2) adopting or enforcing more restrictive ordinances to further
+23 the expressed purposes of air pollution control laws.
+24 (b) To enforce local air pollution ordinances under subsection
+25 (a), a town, city, or county must establish or designate an agency
+26 to act for the town, city, or county as a local air pollution control
+27 agency.
+28 (c) A local air pollution control agency established or designated
+29 by a town, city, or county under subsection (b) may:
+30 (1) enforce the air pollution ordinances of the town, city, or
+31 county;
+32 (2) undertake air pollution control efforts on behalf of the
+33 department under a contract entered into under
+34 IC 13-17-3-9.5; and
+35 (3) under section 3 of this chapter, administer the air pollution
+36 control program of the town, city, or county in cooperation
+37 with one (1) or more other towns, cities, or counties located
+38 within the same air quality basin.
+39 SECTION 4. IC 13-17-12-4 IS AMENDED TO READ AS
+40 FOLLOWS [EFFECTIVE JULY 1, 2026]: Sec. 4. An A local air
+41 pollution control agency of a town, city, or county that has entered
+42 into a contract with the commissioner under IC 13-17-3-9.5 shall
+2026 IN 17—LS 6101/DI 150
+
+4
+1 submit annual reports as requested by the department.
+2026 IN 17—LS 6101/DI 150
